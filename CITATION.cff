@@ -6,12 +6,13 @@ authors:
   - name: "一卦"
     alias: "poplolioi11"
     website: "https://yigua.art/"
-version: "0.1.1"
+version: "0.1.2"
+doi: "10.5281/zenodo.23339992"
 date-released: "2026-10-13"
 url: "https://github.com/poplolioi11/sinica-88-yongli-calendar"
 repository-code: "https://github.com/poplolioi11/sinica-88-yongli-calendar"
 license: CC-BY-4.0
-abstract: "Provisional AI image-based transcription of Bodleian Sinica 88, a 1677 calendar, with partial independent source-adjudicated corrections for canvases 1, 2, 7, 15 and 16. Full independent collation remains incomplete. Includes unresolved readings and source locations. Rights are separated for historical text, new editorial data and source images. No expert certification or source images. No published DOI for this version."
+abstract: "Provisional AI image-based transcription of Bodleian Sinica 88, a 1677 calendar, with independent source-first reading, full unit comparison and source adjudication across all16 canvases. Includes unresolved readings, printed discrepancies, stable unit IDs and source locations. Canvas12 was read in separate portions by two source-first readers. Rights are separated for historical text, new editorial data and source images. No human double-collation, expert certification, peer review or source images."
 keywords:
   - Chinese historical texts
   - calendar

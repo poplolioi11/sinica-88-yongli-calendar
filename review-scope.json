@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "initial_image_reading_canvas_indices": [
     1,
     2,
@@ -36,29 +36,29 @@
     15,
     16
   ],
-  "source_first_reading_limitation": "All source areas were attempted; this does not mean every printed glyph was deciphered.",
+  "source_first_reading_limitation": "All original printed text regions were attempted; this does not mean every glyph was deciphered.",
   "root_source_adjudication_completed_canvas_indices": [
     1,
     2,
-    7,
-    15,
-    16
-  ],
-  "root_source_adjudication_pending_canvas_indices": [
     3,
     4,
     5,
     6,
+    7,
     8,
     9,
     10,
     11,
     12,
     13,
-    14
+    14,
+    15,
+    16
   ],
+  "root_source_adjudication_pending_canvas_indices": [],
   "canvas12_reading": "Two source-first readers covered separate portions; neither is falsely credited with a full independent page reading.",
-  "full_independent_collation_complete": false,
+  "full_independent_collation_complete": true,
+  "collation_limit": "AI source-first readings, full unit comparisons and source adjudication with unresolved readings; not human or expert certification.",
   "expert_review": "not-run",
   "human_double_collation": "not-run",
   "peer_review": "not-run",

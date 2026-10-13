@@ -1,4 +1,4 @@
-# Sinica 88 — 0.1.1 — initial
+# Sinica 88 — 0.1.2 — ai-reviewed
 # @@ navigation is editorial; following text is preserved verbatim.
 @@PAGE {"canvas_index":1,"kind":"cover","printed_label":null}
 @@UNIT {"codepoints":8,"column_label":"封面右起第1欄","id":"p01-u001","order":1,"region":"right","role":"body"}
@@ -436,17 +436,17 @@
 
 @@UNIT {"codepoints":33,"column_label":"月首右起第1欄胎神及節候顏色","id":"p03-u002","order":2,"region":"right","role":"body"}
 胎
-十三日乙卯未初□刻小寒十二月節天道西行宜修造此方天德在
+十三日乙卯未初七刻小寒十二月節天道西行宜修造西方天德在
 白黑白
 
 @@UNIT {"codepoints":33,"column_label":"月首右起第2欄神煞及顏色","id":"p03-u003","order":3,"region":"right","role":"body"}
 神
-庚月厭在亥月殺在辰月德在庚月合在乙月空在甲丙乙壬□宜修
-綠紫黃
+庚月厭在亥月□在辰月德在庚月合在乙月空在甲□乙□上宜修
+緑紫黃
 
-@@UNIT {"codepoints":24,"column_label":"月首右起第3欄節候","id":"p03-u004","order":4,"region":"right","role":"body"}
+@@UNIT {"codepoints":26,"column_label":"月首右起第3欄節候","id":"p03-u004","order":4,"region":"right","role":"body"}
 床
-選取土足月也鴈北鄉鵲始巢雉雊征鳥厲疾水澤腹堅
+造取土□月也鴈北鄉鵲始巢雉雊雞乳征鳥厲疾水澤□堅
 
 @@UNIT {"codepoints":29,"column_label":"月首右起第4欄房及躔次顏色","id":"p03-u005","order":5,"region":"right","role":"body"}
 房
@@ -459,61 +459,62 @@
 
 @@UNIT {"codepoints":36,"column_label":"十二月第2日日欄由上邊附注至底端","id":"p03-u007","order":7,"region":"right","role":"table"}
 初二日甲辰火定氐
-天岳上吉宜結姻嫁娶納財會親祀年作灶栽種安葬結網天井剃頭
+天岳上吉宜結姻嫁娶納財會親祀井作灶栽種安塟結網天井剃頭
 
-@@UNIT {"codepoints":37,"column_label":"十二月第3日日欄由上邊附注至底端","id":"p03-u008","order":8,"region":"right","role":"table"}
+@@UNIT {"codepoints":35,"column_label":"十二月第3日日欄由上邊附注至底端","id":"p03-u008","order":8,"region":"right","role":"table"}
 初三日乙巳火執房
-天福上吉神在宜祭祀祈拜求嗣祭祀捕捉領眾作妓教□□祭祀捕漁
+天福上吉神在宜給田冠笄求嗣祭祀捕捉□作□教□結網捕漁
 
 @@UNIT {"codepoints":25,"column_label":"十二月第4日日欄由上邊附注至底端","id":"p03-u009","order":9,"region":"right","role":"table"}
 初四日丙午水破心
-黃道付星宜治脚破屋壞垣
+黃道付星宜治病破屋壞垣
 不宜余事
 
 @@UNIT {"codepoints":35,"column_label":"十二月第5日日欄由上邊附注至底端","id":"p03-u010","order":10,"region":"right","role":"table"}
 初五日丁未水危尾
 月德合神在宜納采問名安床修造動土伐木上官赴任開池穿井
 
-@@UNIT {"codepoints":32,"column_label":"十二月第6日日欄由上邊附注至底端","id":"p03-u011","order":11,"region":"right","role":"table"}
+@@UNIT {"codepoints":36,"column_label":"十二月第6日日欄由上邊附注至底端","id":"p03-u011","order":11,"region":"right","role":"table"}
 初六日戊申土成箕
-天德天德合今宜祭祀冠笄□廟蓋屋起工作灶祀□安碓
+天□天德合宜祭祀冠笄剃頭蓋屋起工作灶祀□斷□伐木□安□
 
 @@UNIT {"codepoints":30,"column_label":"十二月第7日日欄由上邊附注至底端","id":"p03-u012","order":12,"region":"right","role":"table"}
 初七日己酉土收斗
-天恩母倉宜祭祀納財捕捉進人口安碓
+天恩母倉宜祭祀納財捕捉進人口安□
 不宜余事
 
-@@UNIT {"codepoints":37,"column_label":"十二月第8日日欄由上邊附注至底端","id":"p03-u013","order":13,"region":"right","role":"table"}
-上弦
+@@UNIT {"codepoints":35,"column_label":"十二月第8日日欄由上邊附注至底端","id":"p03-u013","order":13,"region":"right","role":"table"}
 初八日庚戌金開牛
-天恩生氣宜結婚收造動土開渠穿井安碓起工剃髮□行求財
+天恩生氣宜結婚收造動土開渠井破土安碓起工剃長□行求財
 
-@@UNIT {"codepoints":32,"column_label":"十二月第9日日欄由上邊附注至底端","id":"p03-u014","order":14,"region":"right","role":"table"}
+@@UNIT {"codepoints":35,"column_label":"十二月第9日日欄由上邊附注至底端","id":"p03-u014","order":14,"region":"right","role":"table"}
+上弦
 初九日辛亥金閉女
-天醫顯星宜沐浴給田裁衣修葺行船動土栽種補垣塞穴
+天醫顯星宜沐浴給由裁衣修築行船動土栽種補垣塞穴
 
 @@UNIT {"codepoints":28,"column_label":"十二月第10日日欄由上邊附注至底端","id":"p03-u015","order":15,"region":"right","role":"table"}
-初十日壬子木建危
-天恩金匱宜襲爵受封造□大令牌
+初十日壬子木建虛
+天恩金匱宜襲爵受封造□□令牌
 不宜余事
 
 @@UNIT {"codepoints":33,"column_label":"十二月第11日日欄由上邊附注至底端","id":"p03-u016","order":16,"region":"right","role":"table"}
-十一日癸丑木除虛
-天恩六合宜結婚會親交易裁衣剃頭入倉安砌掃舍宇除服
+十一日癸丑木除危
+天恩六合宜結婚會親交易裁衣開庫入倉安□掃舍宇除服
 
-@@UNIT {"codepoints":34,"column_label":"十二月第12日日欄由上邊附注至底端","id":"p03-u017","order":17,"region":"right","role":"table"}
-十二日甲寅水滿危
-天富福星宜出行開市上官進門安床平基剃頭冠笄起工□斷
+@@UNIT {"codepoints":33,"column_label":"十二月第12日日欄由上邊附注至底端","id":"p03-u017","order":17,"region":"right","role":"table"}
+十二日甲寅水滿室
+天□福星宜出行開市上官造門安床平基剃頭冠笄起工□
 
-@@UNIT {"codepoints":41,"column_label":"十二月第13日日欄由上邊附注至底端","id":"p03-u018","order":18,"region":"right","role":"table"}
-三煞□
+@@UNIT {"codepoints":40,"column_label":"十二月第13日日欄由上邊附注至底端","id":"p03-u018","order":18,"region":"right","role":"table"}
+天帝癸
 十三日乙卯水滿壁
-未初七刻日出辰初三刻日入申初七刻宜結婚嫁娶納采給田安床□
+小寒
+未初七刻日出辰初七刻日入申初七刻宜結婚嫁娶給田□
 
 @@UNIT {"codepoints":37,"column_label":"十二月第14日日欄由上邊附注至底端","id":"p03-u019","order":19,"region":"left","role":"table"}
 太陽丑
 十四日丙辰土平奎
-晝四十三刻夜五十六刻宜祭祀嫁娶泥墻分營
+晝四十一刻夜五十九刻宜祭祀嫁娶泥□治路
 不宜余事
 
 @@UNIT {"codepoints":29,"column_label":"十二月第15日日欄由上邊附注至底端","id":"p03-u020","order":20,"region":"left","role":"table"}
@@ -521,50 +522,49 @@
 天德上吉宜祭祀上官結婚會親沐浴
 不宜余事
 
-@@UNIT {"codepoints":37,"column_label":"十二月第16日日欄由上邊附注至底端","id":"p03-u021","order":21,"region":"left","role":"table"}
+@@UNIT {"codepoints":32,"column_label":"十二月第16日日欄由上邊附注至底端","id":"p03-u021","order":21,"region":"left","role":"table"}
 望
 十六日戊午火執胃
-明星神在宜祭祀修造動土伐木曳木解除捕捉□□
-不宜余事
+明星神在宜祭祀修造動土□木□木解除捕捉□□
 
 @@UNIT {"codepoints":25,"column_label":"十二月第17日日欄由上邊附注至底端","id":"p03-u022","order":22,"region":"left","role":"table"}
 十七日己未火破昴
-顯星神在宜祭祀壞屋壞垣
+顯星神在宜祭祀破屋壞垣
 不宜余事
 
 @@UNIT {"codepoints":36,"column_label":"十二月第18日日欄由上邊附注至底端","id":"p03-u023","order":23,"region":"left","role":"table"}
 十八日庚申木危畢
-天德明星上吉宜修造解除修□動土豎柱上梁造門出火安碓作灶
+天德□星上吉宜上官解除修造動土竪柱上樑造門安穴入宅作灶
 
-@@UNIT {"codepoints":18,"column_label":"十二月第19日日欄由上邊附注至底端","id":"p03-u024","order":24,"region":"left","role":"table"}
+@@UNIT {"codepoints":13,"column_label":"十二月第19日日欄由上邊附注至底端","id":"p03-u024","order":24,"region":"left","role":"table"}
 十九日辛酉木成觜
-凡事元吉
+凡事不吉
+
+@@UNIT {"codepoints":19,"column_label":"十二月第20日日欄由上邊附注至底端","id":"p03-u025","order":25,"region":"left","role":"table"}
+二十日壬戌水收參
+黃道□宜□
 不宜余事
 
-@@UNIT {"codepoints":13,"column_label":"十二月第20日日欄由上邊附注至底端","id":"p03-u025","order":25,"region":"left","role":"table"}
-二十日壬戌水收參
-黃道□後
-
-@@UNIT {"codepoints":32,"column_label":"十二月第21日日欄由上邊附注至底端","id":"p03-u026","order":26,"region":"left","role":"table"}
+@@UNIT {"codepoints":29,"column_label":"十二月第21日日欄由上邊附注至底端","id":"p03-u026","order":26,"region":"left","role":"table"}
 廿一日癸亥水開井
-生氣□慶宜祭祀襲爵受封會親祀灶剃頭開業□葬□□
+生氣母倉宜祭祀□□受封會親祀灶剃頭開渠□
 
-@@UNIT {"codepoints":35,"column_label":"十二月第22日日欄由上邊附注至底端","id":"p03-u027","order":27,"region":"left","role":"table"}
+@@UNIT {"codepoints":32,"column_label":"十二月第22日日欄由上邊附注至底端","id":"p03-u027","order":27,"region":"left","role":"table"}
 廿二日甲子金閉鬼
-玉德金匱福星宜在房交易上官給田牧養動土伐木起造□取□
+天恩□出行放債交易上官給由牧養動土伐木起造□剃
 
 @@UNIT {"codepoints":33,"column_label":"十二月第23日日欄由上邊附注至底端","id":"p03-u028","order":28,"region":"left","role":"table"}
 廿三日乙丑金建柳
-天月德合宜祭祀求嗣安宅合安床開池穿井除服行葬成□
+天月德合宜祭祀求嗣安宅□安床開池穿井除服□行起□
 
 @@UNIT {"codepoints":36,"column_label":"十二月第24日日欄由上邊附注至底端","id":"p03-u029","order":29,"region":"left","role":"table"}
 下弦
 廿四日丙寅火除星
-天恩曲星宜襲爵受封嫁娶掃舍宇□造□樑分居作灶行醮
+天恩曲星宜□□受封嫁娶掃舍宇竪柱上樑分居作灶行醮
 
-@@UNIT {"codepoints":37,"column_label":"十二月第25日日欄由上邊附注至底端","id":"p03-u030","order":30,"region":"left","role":"table"}
+@@UNIT {"codepoints":34,"column_label":"十二月第25日日欄由上邊附注至底端","id":"p03-u030","order":30,"region":"left","role":"table"}
 廿五日丁卯火滿張
-天恩天福宜襲爵受封會親嫁娶納財收□□易□出行□□穿墓□穴
+天恩天福宜□封會親嫁娶納財破土交易祀灶訂盟破券塞穴
 
 @@UNIT {"codepoints":23,"column_label":"十二月第26日日欄由上邊附注至底端","id":"p03-u031","order":31,"region":"left","role":"table"}
 廿六日戊辰木平翼
@@ -573,13 +573,13 @@
 
 @@UNIT {"codepoints":34,"column_label":"十二月第27日日欄由上邊附注至底端","id":"p03-u032","order":32,"region":"left","role":"table"}
 廿七日己巳木定軫
-月德財倉宜□婚會親修造動土豎柱上梁求嗣訂定安修碓磨
+月德母倉宜結婚會親修造動土竪柱上□求嗣立定安修碓磨
 
 @@UNIT {"codepoints":46,"column_label":"十二月第28日日欄由上邊附注至底端","id":"p03-u033","order":33,"region":"left","role":"table"}
-太陰丑
+天帝丑
 廿八日庚午土執角
 大寒
-□正一刻日出卯正四刻日入酉初七刻宜祭祀給田上官起任除服進人口
+酉正一刻□出卯正四刻日入酉初七刻宜祭祀給由上官起任除服進人口
 
 @@UNIT {"codepoints":33,"column_label":"十二月第29日日欄由上邊附注至底端","id":"p03-u034","order":34,"region":"left","role":"table"}
 太陽癸
@@ -587,36 +587,36 @@
 晝四十四刻夜五十六刻宜破屋壞□
 不宜余事
 
-@@UNIT {"codepoints":27,"column_label":"十二月第30日日欄由上邊附注至底端","id":"p03-u035","order":35,"region":"left","role":"table"}
+@@UNIT {"codepoints":26,"column_label":"十二月第30日日欄由上邊附注至底端","id":"p03-u035","order":35,"region":"left","role":"table"}
 三十日壬申金危氐
-母倉神在宜祈福剃頭祀灶□倉開倉宜祭祀
+母倉神在宜祈福剃頭祀灶□開庫宜祭祀
 
 @@PAGE {"canvas_index":4,"kind":"calendar","printed_label":null}
 @@UNIT {"codepoints":8,"column_label":"右半面月名及建月","id":"p04-u001","order":1,"region":"right","role":"heading"}
 十一月小
 建壬子
 
-@@UNIT {"codepoints":36,"column_label":"月首右起第1欄胎神及節候顏色","id":"p04-u002","order":2,"region":"right","role":"body"}
+@@UNIT {"codepoints":35,"column_label":"月首右起第1欄胎神及節候顏色","id":"p04-u002","order":2,"region":"right","role":"body"}
 胎
-十二日乙酉丑正三刻大雪十一月節天道東南行宜修造東南方天德在壬
+十二日乙酉丑正三刻大雪十一月節天道東南行宜修造東南方天德在
 赤碧黑
 
 @@UNIT {"codepoints":33,"column_label":"月首右起第2欄神煞及顏色","id":"p04-u003","order":3,"region":"right","role":"body"}
 神
-望月厭在子月殺在未月德在壬月合在丁月空在丙丙丁巳宜修造
+□月厭在子月殺在未月德在壬月合在丁月空在丙丙丁壬宜修造
 黃白白
 
 @@UNIT {"codepoints":26,"column_label":"月首右起第3欄節候","id":"p04-u004","order":4,"region":"right","role":"body"}
-床
-取土足月也鶡鴠不鳴虎始交荔挺出蚯蚓結麋角解水泉動
+爐
+取土是月也鶡鴠不鳴虎始交荔挺出蚯蚓結麋角解水泉動
 
-@@UNIT {"codepoints":30,"column_label":"月首右起第4欄房及躔次顏色","id":"p04-u005","order":5,"region":"right","role":"body"}
-房
-廿七日庚子辰初四刻後日躔星紀之次宜用戊癸丙乙辛時
-紫白綠
+@@UNIT {"codepoints":27,"column_label":"月首右起第4欄房及躔次顏色","id":"p04-u005","order":5,"region":"right","role":"body"}
+灶
+廿七日庚子辰初四刻後日躔星紀之次宜用□乾時
+紫白緑
 
 @@UNIT {"codepoints":36,"column_label":"十一月第1日日欄由上邊附注至底端","id":"p04-u006","order":6,"region":"right","role":"table"}
-初一日甲戌火閉角
+初一日甲戌火開角
 天醫益後宜祭祀出行求嗣上官開池動土除服捕□塞穴作□結網
 
 @@UNIT {"codepoints":32,"column_label":"十一月第2日日欄由上邊附注至底端","id":"p04-u007","order":7,"region":"right","role":"table"}
@@ -627,99 +627,99 @@
 
 @@UNIT {"codepoints":36,"column_label":"十一月第3日日欄由上邊附注至底端","id":"p04-u008","order":8,"region":"right","role":"table"}
 初三日丙子水除氐
-顯星要安宜上官出行冠笄伐木移居安床豎柱上樑泥墻掃舍除服
+□星要安宜上官出行冠笄□□移居安床竪柱上樑□□掃舍除服
 
 @@UNIT {"codepoints":29,"column_label":"十一月第4日日欄由上邊附注至底端","id":"p04-u009","order":9,"region":"right","role":"table"}
 初四日丁丑水滿房
-天富曲星宜會親進人口補垣塞穴□伐木開生□
+天□曲星宜會親進人口補垣塞穴□伐木開生墳
 
 @@UNIT {"codepoints":23,"column_label":"十一月第5日日欄由上邊附注至底端","id":"p04-u010","order":10,"region":"right","role":"table"}
 初五日戊寅土平心
 天瑞六合宜平治道塗
 不宜余事
 
-@@UNIT {"codepoints":31,"column_label":"十一月第6日日欄由上邊附注至底端","id":"p04-u011","order":11,"region":"right","role":"table"}
+@@UNIT {"codepoints":30,"column_label":"十一月第6日日欄由上邊附注至底端","id":"p04-u011","order":11,"region":"right","role":"table"}
 初六日己卯土定尾
-天恩天福宜祭祀冠帶結婚會親嫁娶剃頭安□立石□
+天恩天福宜祭祀冠帶結婚會親嫁□剃頭安□立□
 
-@@UNIT {"codepoints":33,"column_label":"十一月第7日日欄由上邊附注至底端","id":"p04-u012","order":12,"region":"right","role":"table"}
-上弦
+@@UNIT {"codepoints":30,"column_label":"十一月第7日日欄由上邊附注至底端","id":"p04-u012","order":12,"region":"right","role":"table"}
 初七日庚辰金執箕
-天恩司命宜祭祀祈福解除捕捉祀灶雕刻拔劍安□
+天恩司命宜祭祀祈福解除捕捉祀灶雕刻□□結網
 
-@@UNIT {"codepoints":26,"column_label":"十一月第8日日欄由上邊附注至底端","id":"p04-u013","order":13,"region":"right","role":"table"}
-初八日辛巳金收斗
+@@UNIT {"codepoints":29,"column_label":"十一月第8日日欄由上邊附注至底端","id":"p04-u013","order":13,"region":"right","role":"table"}
+上弦
+初八日辛巳金破斗
 天恩天瑞宜祀治病破屋壞垣
 不宜余事
 
 @@UNIT {"codepoints":38,"column_label":"十一月第9日日欄由上邊附注至底端","id":"p04-u014","order":14,"region":"right","role":"table"}
 初九日壬午木危牛
-天恩上吉神在宜嫁娶裁衣安床豎柱上樑求婚行□起□□門安□□帳
+天恩上吉神在宜嫁娶裁衣安床竪柱上樑求婚行□起□造門□財納帳
 
 @@UNIT {"codepoints":29,"column_label":"十一月第10日日欄由上邊附注至底端","id":"p04-u015","order":15,"region":"right","role":"table"}
 初十日癸未木成女
-天喜上吉宜結婚納財入□納采進人口祈福安屋
+天喜上吉宜結婚納財入學納采進人口祈福安屋
 
 @@UNIT {"codepoints":13,"column_label":"十一月第11日日欄由上邊附注至底端","id":"p04-u016","order":16,"region":"right","role":"table"}
-十一日甲申□收虛
-凡事不宜
+十一日甲申水收虛
+凡事不吉
 
-@@UNIT {"codepoints":39,"column_label":"十一月第12日日欄由上邊附注至底端","id":"p04-u017","order":17,"region":"right","role":"table"}
+@@UNIT {"codepoints":43,"column_label":"十一月第12日日欄由上邊附注至底端","id":"p04-u017","order":17,"region":"right","role":"table"}
+天帝壬
 十二日乙酉水收危
 大雪
-丑正三刻日出卯正四刻日入酉初七刻宜祭祀納財剃鬚補捉□□
+丑正三刻日出卯正四刻日入酉初七刻宜祭祀納財剃長捕捉啟攢
 
-@@UNIT {"codepoints":43,"column_label":"十一月第13日日欄由上邊附注至底端","id":"p04-u018","order":18,"region":"right","role":"table"}
-三煞壬
+@@UNIT {"codepoints":40,"column_label":"十一月第13日日欄由上邊附注至底端","id":"p04-u018","order":18,"region":"right","role":"table"}
 十三日丙戌土開室
-晝四十刻夜五十九刻宜祭祀安碓會親結姻入學修造動土安床開渠穿井
+晝四十一刻夜五十九刻宜祭祀安碓會親結姻入學□造動土□□開渠穿井
 
 @@UNIT {"codepoints":32,"column_label":"十一月第14日日欄由上邊附注至底端","id":"p04-u019","order":19,"region":"left","role":"table"}
 十四日丁亥土閉壁
-天醫神在宜安床設帳給田芟□補垣塞穴作□結網捕漁
+天醫神在宜安床設帳給田苫蓋補垣塞穴作□結網□漁
 
-@@UNIT {"codepoints":27,"column_label":"十一月第15日日欄由上邊附注至底端","id":"p04-u020","order":20,"region":"left","role":"table"}
-十五日戊子火建奎
-金匱黃道宜襲爵受封放債治牛醫馬入倉□
-
-@@UNIT {"codepoints":37,"column_label":"十一月第16日日欄由上邊附注至底端","id":"p04-u021","order":21,"region":"left","role":"table"}
+@@UNIT {"codepoints":29,"column_label":"十一月第15日日欄由上邊附注至底端","id":"p04-u020","order":20,"region":"left","role":"table"}
 望
-十六日己丑火除婁
-天德神在宜祭祀立券交易解除會親掃舍入倉開渠進人口蓋屋
+十五日戊子火建奎
+金匱黃道宜襲□受封放債穿井造□犬令牌
 
-@@UNIT {"codepoints":37,"column_label":"十一月第17日日欄由上邊附注至底端","id":"p04-u022","order":22,"region":"left","role":"table"}
+@@UNIT {"codepoints":35,"column_label":"十一月第16日日欄由上邊附注至底端","id":"p04-u021","order":21,"region":"left","role":"table"}
+十六日己丑火除婁
+天德神在宜祭祀立券交易解除會親掃舍入倉開庫進人口除服
+
+@@UNIT {"codepoints":36,"column_label":"十一月第17日日欄由上邊附注至底端","id":"p04-u022","order":22,"region":"left","role":"table"}
 十七日庚寅木滿胃
-天富福星宜出行開市修造動土豎柱上梁平基蓋屋架橋安碓冠笄□
+天福福星宜出行開市修造動土竪柱上樑平基蓋屋架橋安碓冠笄
 
 @@UNIT {"codepoints":17,"column_label":"十一月第18日日欄由上邊附注至底端","id":"p04-u023","order":23,"region":"left","role":"table"}
-太陽壬
+太陽寅
 十八日辛卯木平昴
-□□上吉
+凡事不吉
 
 @@UNIT {"codepoints":36,"column_label":"十一月第19日日欄由上邊附注至底端","id":"p04-u024","order":24,"region":"left","role":"table"}
 十九日壬辰水定畢
-天福月德宜上作冠帶嫁娶會親結姻作灶出火葬衣剃髮破土安□
+天福月德宜上官冠帶嫁娶會親結姻作灶出火裁衣針灸破土安□
 
 @@UNIT {"codepoints":32,"column_label":"十一月第20日日欄由上邊附注至底端","id":"p04-u025","order":25,"region":"left","role":"table"}
 二十日癸巳水執觜
-福星益後宜冠笄剃頭修灶安產室植□
-不宜嫁葬開市
+明星益后宜冠笄剃頭修造安產室捕捉
+不宜安□開市
 
 @@UNIT {"codepoints":23,"column_label":"十一月第21日日欄由上邊附注至底端","id":"p04-u026","order":26,"region":"left","role":"table"}
 廿一日甲午金破參
-月恩神在宜破屋壞垣
+月恩相星宜破屋壞垣
 不宜余事
 
 @@UNIT {"codepoints":37,"column_label":"十一月第22日日欄由上邊附注至底端","id":"p04-u027","order":27,"region":"left","role":"table"}
 廿二日乙未金危井
-吉慶神在宜祭祀出行伐木安床修造動土冠帶納采祈福□志□新□
+吉慶神在宜祭祀出行伐木安床修造動土冠笄納采祈福起造□斷草
 
-@@UNIT {"codepoints":30,"column_label":"十一月第23日日欄由上邊附注至底端","id":"p04-u028","order":28,"region":"left","role":"table"}
-廿三日丙申火成鬼
-天德天喜宜祭祀嫁娶伐木解除入宅納采祈福安墓
-
-@@UNIT {"codepoints":27,"column_label":"十一月第24日日欄由上邊附注至底端","id":"p04-u029","order":29,"region":"left","role":"table"}
+@@UNIT {"codepoints":34,"column_label":"十一月第23日日欄由上邊附注至底端","id":"p04-u028","order":28,"region":"left","role":"table"}
 下弦
+廿三日丙申火成鬼
+天德天官吉宜祭祀嫁娶伐木解除入宅納采祈福安墓
+
+@@UNIT {"codepoints":24,"column_label":"十一月第24日日欄由上邊附注至底端","id":"p04-u029","order":29,"region":"left","role":"table"}
 廿四日丁酉火收柳
 月德合宜祭祀刈伐收蒲
 不宜余事
@@ -731,23 +731,26 @@
 
 @@UNIT {"codepoints":31,"column_label":"十一月第26日日欄由上邊附注至底端","id":"p04-u031","order":31,"region":"left","role":"table"}
 廿六日己亥木閉張
-天福母倉宜沐浴裁衣修築補垣塞穴作□
+天福天醫宜沐浴裁衣修築補垣塞穴作□
 不宜余事
 
-@@UNIT {"codepoints":39,"column_label":"十一月第27日日欄由上邊附注至底端","id":"p04-u032","order":32,"region":"left","role":"table"}
+@@UNIT {"codepoints":43,"column_label":"十一月第27日日欄由上邊附注至底端","id":"p04-u032","order":32,"region":"left","role":"table"}
+天帝子
 廿七日庚子土建翼
 冬至
-辰初四刻日出辰初七刻日入申正四刻宜襲爵受封給田穿井造船
+辰初四刻□出辰初七刻日入申正四刻宜襲爵受封給□穿井造□
 
-@@UNIT {"codepoints":39,"column_label":"十一月第28日日欄由上邊附注至底端","id":"p04-u033","order":33,"region":"left","role":"table"}
-太陰子
+@@UNIT {"codepoints":35,"column_label":"十一月第28日日欄由上邊附注至底端","id":"p04-u033","order":33,"region":"left","role":"table"}
 廿八日辛丑土除軫
-晝四十刻夜六十刻宜□婚會親掃舍進人口除服祈福裁種治病
+晝四十刻夜六十刻宜結姻會親掃舍進人口除服祈福栽種治病
 
 @@UNIT {"codepoints":40,"column_label":"十一月第29日日欄由上邊附注至底端","id":"p04-u034","order":34,"region":"left","role":"table"}
 太□尺
 廿九日壬寅金滿角
-天富福生宜出行納財修造動土修廟收捕開市剃頭掃舍破土安□
+天富福生宜出行納財修造動土修廚收捕開市剃頭掃舍破土安墓
+
+@@UNIT {"codepoints":0,"column_label":"左界內最左空白日格（無日期，非第三十日）","id":"p04-u035","order":35,"region":"left","role":"table"}
+
 
 @@PAGE {"canvas_index":5,"kind":"calendar","printed_label":null}
 @@UNIT {"codepoints":7,"column_label":"右半面月名及建月","id":"p05-u001","order":1,"region":"right","role":"heading"}
@@ -756,165 +759,165 @@
 
 @@UNIT {"codepoints":35,"column_label":"月首右起第1欄胎神及節候顏色","id":"p05-u002","order":2,"region":"right","role":"body"}
 胎
-十一日甲寅□正一刻立冬十月節天道西北行宜修造西北方天德在乙
-白紫黃
+十一日甲寅申正一刻立冬十月節天道東北行宜修造東北方天德在乙
+白□□
 
-@@UNIT {"codepoints":31,"column_label":"月首右起第2欄神煞及顏色","id":"p05-u003","order":3,"region":"right","role":"body"}
+@@UNIT {"codepoints":27,"column_label":"月首右起第2欄神煞及顏色","id":"p05-u003","order":3,"region":"right","role":"body"}
 神
-月厭在丑月殺在戌月德在甲月合在己月空在庚庚辛宜修造
+月厭在丑月□在戌月德在甲月合在己月空在□宜
 白黑赤
 
-@@UNIT {"codepoints":29,"column_label":"月首右起第3欄節候","id":"p05-u004","order":4,"region":"right","role":"body"}
+@@UNIT {"codepoints":28,"column_label":"月首右起第3欄節候","id":"p05-u004","order":4,"region":"right","role":"body"}
 床
-修造取土足月也水始冰地始凍雉入大水為蜃虹藏不見天氣上□
+修造取土□月也水始冰地始凍雉入大水為蜃虹藏不見天氣上
 
-@@UNIT {"codepoints":37,"column_label":"月首右起第4欄房及躔次顏色","id":"p05-u005","order":5,"region":"right","role":"body"}
+@@UNIT {"codepoints":35,"column_label":"月首右起第4欄房及躔次顏色","id":"p05-u005","order":5,"region":"right","role":"body"}
 房
-生地氣下降閉塞成冬廿七日庚□卯初□刻日躔析木之次宜用□丙辛乙時
-白碧黃
+升地氣下降閉塞成冬廿□日己巳亥初二刻后日躔析木之次宜用□時
+白碧緑
 
 @@UNIT {"codepoints":23,"column_label":"十月第1日日欄由上邊附注至底端","id":"p05-u006","order":6,"region":"right","role":"table"}
-初一日甲辰火破畢
+初一日甲辰火破翼
 月厭益後宜破屋壞垣
 不宜余事
 
-@@UNIT {"codepoints":23,"column_label":"十月第2日日欄由上邊附注至底端","id":"p05-u007","order":7,"region":"right","role":"table"}
-初二日乙巳火危觜
-天福明堂宜沐浴結網
+@@UNIT {"codepoints":25,"column_label":"十月第2日日欄由上邊附注至底端","id":"p05-u007","order":7,"region":"right","role":"table"}
+初二日乙巳火危軫
+天福明堂宜取漁祭祀結網
 不宜余事
 
-@@UNIT {"codepoints":44,"column_label":"十月第3日日欄由上邊附注至底端","id":"p05-u008","order":8,"region":"right","role":"table"}
+@@UNIT {"codepoints":39,"column_label":"十月第3日日欄由上邊附注至底端","id":"p05-u008","order":8,"region":"right","role":"table"}
 太陽乙
-初三日丙午水成參
-天喜上吉宜上官修造動土豎造上梁嫁娶安床出火入宅剃髮□
-不宜嫁葬
+初三日丙午水成角
+天喜上吉宜上官修造動土竪造上梁嫁娶安床出火入□
+□葬
 
-@@UNIT {"codepoints":24,"column_label":"十月第4日日欄由上邊附注至底端","id":"p05-u009","order":9,"region":"right","role":"table"}
-初四日丁未水收井
-□德合三合宜納財收蒲
+@@UNIT {"codepoints":23,"column_label":"十月第4日日欄由上邊附注至底端","id":"p05-u009","order":9,"region":"right","role":"table"}
+初四日丁未水收亢
+母倉六合宜捕捉收□
 不宜余事
 
-@@UNIT {"codepoints":37,"column_label":"十月第5日日欄由上邊附注至底端","id":"p05-u010","order":10,"region":"right","role":"table"}
-初五日戊申土開鬼
-吉慶神在宜上官赴任冠帶祀灶雕刻解除伐木修造動土栽種安產室
+@@UNIT {"codepoints":29,"column_label":"十月第5日日欄由上邊附注至底端","id":"p05-u010","order":10,"region":"right","role":"table"}
+初五日戊申土開氐
+金匱神在宜上官□雕刻解除伐□動土祭祀開渠
 
-@@UNIT {"codepoints":32,"column_label":"十月第6日日欄由上邊附注至底端","id":"p05-u011","order":11,"region":"right","role":"table"}
-初六日己酉土閉柳
-天醫神在宜祭祀□財除沐浴解除進動土栽種補垣塞穴
+@@UNIT {"codepoints":30,"column_label":"十月第6日日欄由上邊附注至底端","id":"p05-u011","order":11,"region":"right","role":"table"}
+初六日己酉土閉房
+天醫神在宜祭祀解除沐浴修造動土栽種補垣塞穴
 
 @@UNIT {"codepoints":31,"column_label":"十月第7日日欄由上邊附注至底端","id":"p05-u012","order":12,"region":"right","role":"table"}
-初七日庚戌金建星
-天恩顯星宜祭祀出行豎造關□作廟□令
+初七日庚戌金建心
+天恩顯星宜祭祀出行竪造雕刻作廁穿井
 不宜余事
 
-@@UNIT {"codepoints":42,"column_label":"十月第8日日欄由上邊附注至底端","id":"p05-u013","order":13,"region":"right","role":"table"}
+@@UNIT {"codepoints":36,"column_label":"十月第8日日欄由上邊附注至底端","id":"p05-u013","order":13,"region":"right","role":"table"}
 上弦
-初八日辛亥金除張
-天月德合宜上官□倉□除納采□造門蓋屋會親友進人口拔剃除服安葬
+初八日辛亥金除尾
+天月德合宜上官□造門蓋屋會親友進人口□□除服安塟
 
 @@UNIT {"codepoints":33,"column_label":"十月第9日日欄由上邊附注至底端","id":"p05-u014","order":14,"region":"right","role":"table"}
-初九日壬子木滿翼
-天恩天富宜出行放債開市裁衣破土冠笄剃頭進人口教牛
+初九日壬子木滿箕
+天恩天富宜出行啓攢開市裁衣破土冠笄剃頭進人口教牛
 
-@@UNIT {"codepoints":32,"column_label":"十月第10日日欄由上邊附注至底端","id":"p05-u015","order":15,"region":"right","role":"table"}
-初十日癸丑木平軫
-晝四十四刻夜五十六刻洗澡收穀修倉庫宇
+@@UNIT {"codepoints":30,"column_label":"十月第10日日欄由上邊附注至底端","id":"p05-u015","order":15,"region":"right","role":"table"}
+初十日癸丑木平斗
+晝四十四刻夜五十六刻洗澡收穀修□
 不宜余事
 
 @@UNIT {"codepoints":37,"column_label":"十月第11日日欄由上邊附注至底端","id":"p05-u016","order":16,"region":"right","role":"table"}
-三煞乾
-十一日甲寅水□角
+天帝乾
+十一日甲寅水平牛
 立冬
-巳初二刻日出卯正四刻日入酉初七刻宜平治道塗
+申正一刻日出卯正四刻日入酉初七刻宜平治道塗
 
-@@UNIT {"codepoints":34,"column_label":"十月第12日日欄由上邊附注至底端","id":"p05-u017","order":17,"region":"right","role":"table"}
-十二日乙卯水執亢
-天德月恩宜祭祀冠帶結姻上官會親剃頭納財破土砍橋針灸
+@@UNIT {"codepoints":33,"column_label":"十月第12日日欄由上邊附注至底端","id":"p05-u017","order":17,"region":"right","role":"table"}
+十二日乙卯水定女
+天德月恩宜祭祀冠帶結婚嫁娶會親剃頭納財破土□針灸
 
-@@UNIT {"codepoints":26,"column_label":"十月第13日日欄由上邊附注至底端","id":"p05-u018","order":18,"region":"right","role":"table"}
-十三日丙辰土破氐
-□星上吉宜祭祀結網□親□
+@@UNIT {"codepoints":28,"column_label":"十月第13日日欄由上邊附注至底端","id":"p05-u018","order":18,"region":"right","role":"table"}
+十三日丙辰土執虛
+傅星上吉宜祭祀結網□伐木嫁娶
 不宜余事
 
 @@UNIT {"codepoints":25,"column_label":"十月第14日日欄由上邊附注至底端","id":"p05-u019","order":19,"region":"left","role":"table"}
-十四日丁巳土□房
-天相神在宜祭祀壞屋壞垣
+十四日丁巳土破危
+天福神在宜祭祀壞屋壞垣
 不宜余事
 
-@@UNIT {"codepoints":34,"column_label":"十月第15日日欄由上邊附注至底端","id":"p05-u020","order":20,"region":"left","role":"table"}
-十五日戊午火成心
-吉慶神在宜祭祀襲爵受封安床伐木砍碑雕刻會親納采祈福
+@@UNIT {"codepoints":31,"column_label":"十月第15日日欄由上邊附注至底端","id":"p05-u020","order":20,"region":"left","role":"table"}
+十五日戊午火危室
+□慶神在宜祭祀襲爵受封安床伐木砍碑雕刻冠笄□
 
 @@UNIT {"codepoints":36,"column_label":"十月第16日日欄由上邊附注至底端","id":"p05-u021","order":21,"region":"left","role":"table"}
 望
-十六日己未火□尾
-天喜福星宜祈福掃蝗上官給田冠□祀□香火會親破土安□
+十六日己未火成壁
+天喜福星宜祈福結姻上官給由冠笄祀灶香火會親破土安塟
 
 @@UNIT {"codepoints":14,"column_label":"十月第17日日欄由上邊附注至底端","id":"p05-u022","order":22,"region":"left","role":"table"}
-十七日庚申木□箕
+十七日庚申木收奎
 凡事不吉
 
 
-@@UNIT {"codepoints":40,"column_label":"十月第18日日欄由上邊附注至底端","id":"p05-u023","order":23,"region":"left","role":"table"}
-太□卯
-十八日辛酉木閉斗
-顯星生氣宜入學出行祭祀解除修造動土安□立□安床行□穿井
+@@UNIT {"codepoints":28,"column_label":"十月第18日日欄由上邊附注至底端","id":"p05-u023","order":23,"region":"left","role":"table"}
+十八日辛酉木開婁
+□星生氣宜入學出行祭祀解除修造動土安□
 
-@@UNIT {"codepoints":31,"column_label":"十月第19日日欄由上邊附注至底端","id":"p05-u024","order":24,"region":"left","role":"table"}
-十九日壬戌水□牛
-天德天□合宜修築裁衣安產室補垣塞穴起造木□□
+@@UNIT {"codepoints":32,"column_label":"十月第19日日欄由上邊附注至底端","id":"p05-u024","order":24,"region":"left","role":"table"}
+太陽卯
+十九日壬戌水閉胃
+天恩普護宜修舍裁衣安產室補垣塞穴起造□
 
-@@UNIT {"codepoints":25,"column_label":"十月第20日日欄由上邊附注至底端","id":"p05-u025","order":25,"region":"left","role":"table"}
-二十日癸亥水建女
-天德天功六□宜祭祀破土
+@@UNIT {"codepoints":23,"column_label":"十月第20日日欄由上邊附注至底端","id":"p05-u025","order":25,"region":"left","role":"table"}
+二十日癸亥水建昴
+天德黃道宜祭祀破土
 不宜余事
 
-@@UNIT {"codepoints":36,"column_label":"十月第21日日欄由上邊附注至底端","id":"p05-u026","order":26,"region":"left","role":"table"}
-廿一日甲子金除虛
-天恩上吉神在宜祭祀解除出行移□作灶分居安床造門蓋屋祀葬
+@@UNIT {"codepoints":38,"column_label":"十月第21日日欄由上邊附注至底端","id":"p05-u026","order":26,"region":"left","role":"table"}
+廿一日甲子金除畢
+天恩上吉神在宜上官赴任解除出行移徙作灶分居安床造門蓋屋冠笄
 
-@@UNIT {"codepoints":29,"column_label":"十月第22日日欄由上邊附注至底端","id":"p05-u027","order":27,"region":"left","role":"table"}
-廿二日乙丑金滿危
-天德天恩母倉□求啟閣除□寒塞穴
+@@UNIT {"codepoints":23,"column_label":"十月第22日日欄由上邊附注至底端","id":"p05-u027","order":27,"region":"left","role":"table"}
+廿二日乙丑金滿觜
+天德天恩母倉□塞穴
 不宜余事
 
 @@UNIT {"codepoints":23,"column_label":"十月第23日日欄由上邊附注至底端","id":"p05-u028","order":28,"region":"left","role":"table"}
-廿三日丙寅火平室
+廿三日丙寅火平參
 天恩六合宜平治道塗
 不宜余事
 
-@@UNIT {"codepoints":33,"column_label":"十月第24日日欄由上邊附注至底端","id":"p05-u029","order":29,"region":"left","role":"table"}
+@@UNIT {"codepoints":37,"column_label":"十月第24日日欄由上邊附注至底端","id":"p05-u029","order":29,"region":"left","role":"table"}
 下弦
-廿四日丁卯火定壁
-天恩黃道母倉宜祭祀會親嫁娶□火□財□船動土
+廿四日丁卯火定井
+天恩普護神在宜祭祀冠帶結婚會親嫁娶立券針灸乘船動土
 
-@@UNIT {"codepoints":33,"column_label":"十月第25日日欄由上邊附注至底端","id":"p05-u030","order":30,"region":"left","role":"table"}
-廿五日戊辰木執奎
-天恩顯星宜祭祀解除給田立券□官出行□刻
+@@UNIT {"codepoints":26,"column_label":"十月第25日日欄由上邊附注至底端","id":"p05-u030","order":30,"region":"left","role":"table"}
+廿五日戊辰木執鬼
+天恩□星宜祭祀解除□剃頭
 不宜余事
 
 @@UNIT {"codepoints":37,"column_label":"十月第26日日欄由上邊附注至底端","id":"p05-u031","order":31,"region":"left","role":"table"}
-太□癸
-廿六日己巳木破婁
+天帝亥
+廿六日己巳木破柳
 小雪
-巳初□刻日出卯正四刻日入酉初三刻宜破屋壞垣
+亥初二刻日出卯正四刻日入酉初□刻宜破屋壞垣
 
-@@UNIT {"codepoints":35,"column_label":"十月第27日日欄由上邊附注至底端","id":"p05-u032","order":32,"region":"left","role":"table"}
-廿七日庚午土危胃
-晝四十二刻夜五十八刻宜修□入倉作灶安床蓋屋嫁娶進人口
+@@UNIT {"codepoints":34,"column_label":"十月第27日日欄由上邊附注至底端","id":"p05-u032","order":32,"region":"left","role":"table"}
+廿七日庚午土危星
+晝四十二刻夜五十八刻宜□入倉作灶安床蓋屋□□進人口
 
-@@UNIT {"codepoints":32,"column_label":"十月第28日日欄由上邊附注至底端","id":"p05-u033","order":33,"region":"left","role":"table"}
-廿八日辛未土成昴
-天□德生宜入學□木平基修造□造門作灶□穿井會親
+@@UNIT {"codepoints":36,"column_label":"十月第28日日欄由上邊附注至底端","id":"p05-u033","order":33,"region":"left","role":"table"}
+廿八日辛未土成張
+天官福星宜入學□木平基上梁嫁娶造門作灶裁衣解除穿井會親
 
 @@UNIT {"codepoints":14,"column_label":"十月第29日日欄由上邊附注至底端","id":"p05-u034","order":34,"region":"left","role":"table"}
-廿九日壬申金收畢
+廿九日壬申金收翼
 凡事不吉
 
 
-@@UNIT {"codepoints":23,"column_label":"十月第30日日欄由上邊附注至底端","id":"p05-u035","order":35,"region":"left","role":"table"}
-三十日癸酉金開觜
-□氣神在宜納財□立□安□起架
+@@UNIT {"codepoints":32,"column_label":"十月第30日日欄由上邊附注至底端","id":"p05-u035","order":35,"region":"left","role":"table"}
+三十日癸酉金開軫
+生氣神在宜修造□上梁□入倉除服進財安塟安神起架
 
 @@PAGE {"canvas_index":6,"kind":"calendar","printed_label":null}
 @@UNIT {"codepoints":3,"column_label":"月頭右大字欄","id":"p06-u001","order":1,"region":"right","role":"heading"}
@@ -927,16 +930,16 @@
 胎神門堂
 
 @@UNIT {"codepoints":25,"column_label":"月頭細字自右第1欄","id":"p06-u004","order":4,"region":"right","role":"body"}
-初十日甲申卯初二刻寒露九月節天道□行宜修造西方天德
+初十日甲申卯初□刻寒露九月節天道□行宜修造西方天德
 
 @@UNIT {"codepoints":21,"column_label":"月頭細字自右第2欄","id":"p06-u005","order":5,"region":"right","role":"body"}
-在丙月厭在寅月殺在丑月德在□月合在□月空□
+在丙月厭在寅月□在丑月□在□月□在□月空□
 
-@@UNIT {"codepoints":26,"column_label":"月頭細字自右第3欄","id":"p06-u006","order":6,"region":"right","role":"body"}
-宜修造取土是月也鴻鴈來賓雀入大水為蛤菊有黃華豺乃祭獸
+@@UNIT {"codepoints":25,"column_label":"月頭細字自右第3欄","id":"p06-u006","order":6,"region":"right","role":"body"}
+宜修造取土是月也鴻鴈來賓雀入大水為蛤菊有黃華豺乃□
 
-@@UNIT {"codepoints":30,"column_label":"月頭細字自右第4欄","id":"p06-u007","order":7,"region":"right","role":"body"}
-草木黃落蟄虫咸俯廿五日己亥午初□刻后日躔大火之次用□之□午詳
+@@UNIT {"codepoints":29,"column_label":"月頭細字自右第4欄","id":"p06-u007","order":7,"region":"right","role":"body"}
+草木黃落蟄虫□廿五日己亥午初□刻后日躔大火之次用□乙丁辛時
 
 @@UNIT {"codepoints":3,"column_label":"月頭下圖表右欄","id":"p06-u008","order":8,"region":"right","role":"table"}
 □黃緑
@@ -957,19 +960,19 @@
 
 
 @@UNIT {"codepoints":21,"column_label":"右半面第2日欄第2日日期干支星宿日用","id":"p06-u014","order":14,"region":"right","role":"table"}
-初二日丙子水平翼曲星玉堂宜祀竈治病不宜下葬
+初二日丙子水平翼曲星玉堂宜□牆治路不宜下□
 
 @@UNIT {"codepoints":0,"column_label":"右半面第3日欄第3日上欄","id":"p06-u015","order":15,"region":"right","role":"paratext"}
 
 
 @@UNIT {"codepoints":39,"column_label":"右半面第3日欄第3日日期干支星宿日用","id":"p06-u016","order":16,"region":"right","role":"table"}
-初三日丁丑水定軫母倉次吉宜祭祀嫁□會親修造動土竪造上樑苫蓋裁衣穿渠納畜破土安葬
+初三日丁丑水定軫母倉次吉宜祭祀嫁娶會親修造動土竪造上樑□裁衣□破土安葬不宜行舟
 
 @@UNIT {"codepoints":0,"column_label":"右半面第4日欄第4日上欄","id":"p06-u017","order":17,"region":"right","role":"paratext"}
 
 
-@@UNIT {"codepoints":35,"column_label":"右半面第4日欄第4日日期干支星宿日用","id":"p06-u018","order":18,"region":"right","role":"table"}
-初四日戊寅土執角天德黃道宜冠帶解除普施修造動土捕捉平基起工竪造剃長進軍
+@@UNIT {"codepoints":34,"column_label":"右半面第4日欄第4日日期干支星宿日用","id":"p06-u018","order":18,"region":"right","role":"table"}
+初四日戊寅土執角天德黃道宜冠□解除□修造動土捕捉平基起工竪造剃長進軍
 
 @@UNIT {"codepoints":0,"column_label":"右半面第5日欄第5日上欄","id":"p06-u019","order":19,"region":"right","role":"paratext"}
 
@@ -980,8 +983,8 @@
 @@UNIT {"codepoints":0,"column_label":"右半面第6日欄第6日上欄","id":"p06-u021","order":21,"region":"right","role":"paratext"}
 
 
-@@UNIT {"codepoints":37,"column_label":"右半面第6日欄第6日日期干支星宿日用","id":"p06-u022","order":22,"region":"right","role":"table"}
-初六日庚辰金危氐天恩上吉宜祭祀納采問名交易上官下定竪柱安床分居作灶繪像收割
+@@UNIT {"codepoints":34,"column_label":"右半面第6日欄第6日日期干支星宿日用","id":"p06-u022","order":22,"region":"right","role":"table"}
+初六日庚辰金危氐天恩上吉宜祭祀□交易上官下定竪柱安床分居作灶繪像收割
 
 @@UNIT {"codepoints":0,"column_label":"右半面第7日欄第7日上欄","id":"p06-u023","order":23,"region":"right","role":"paratext"}
 
@@ -1022,8 +1025,8 @@
 @@UNIT {"codepoints":0,"column_label":"右半面第13日欄第13日上欄","id":"p06-u035","order":35,"region":"right","role":"paratext"}
 
 
-@@UNIT {"codepoints":34,"column_label":"右半面第13日欄第13日日期干支星宿日用","id":"p06-u036","order":36,"region":"right","role":"table"}
-十三日丁亥土除女傳星神在宜祭祀開市結倉修屋會親安碓磑解除服雕刻進人口
+@@UNIT {"codepoints":28,"column_label":"右半面第13日欄第13日日期干支星宿日用","id":"p06-u036","order":36,"region":"right","role":"table"}
+十三日丁亥土除女□星神在宜祭祀開市□會親□除服雕刻進人口
 
 @@UNIT {"codepoints":0,"column_label":"左半面第1日欄第14日上欄","id":"p06-u037","order":37,"region":"left","role":"paratext"}
 
@@ -1035,7 +1038,7 @@
 望
 
 @@UNIT {"codepoints":21,"column_label":"左半面第2日欄第15日日期干支星宿日用","id":"p06-u040","order":40,"region":"left","role":"table"}
-十五日己丑火平危福生宜祭祀厠□治□不宜余事
+十五日己丑火平危福生宜祭祀泥牆治路不宜余事
 
 @@UNIT {"codepoints":0,"column_label":"左半面第3日欄第16日上欄","id":"p06-u041","order":41,"region":"left","role":"paratext"}
 
@@ -1044,22 +1047,22 @@
 十六日庚寅木定室凡事不吉
 
 @@UNIT {"codepoints":3,"column_label":"左半面第4日欄第17日上欄","id":"p06-u043","order":43,"region":"left","role":"paratext"}
-太陰辰
+太□辰
 
-@@UNIT {"codepoints":38,"column_label":"左半面第4日欄第17日日期干支星宿日用","id":"p06-u044","order":44,"region":"left","role":"table"}
-十七日辛卯木執壁天月德合神在宜結婚嫁娶安床起工竪造□補倉作灶入學給由不宜余事
+@@UNIT {"codepoints":30,"column_label":"左半面第4日欄第17日日期干支星宿日用","id":"p06-u044","order":44,"region":"left","role":"table"}
+十七日辛卯木執壁天月德合神在宜結婚嫁娶安床起工□作灶入學給由
 
 @@UNIT {"codepoints":0,"column_label":"左半面第5日欄第18日上欄","id":"p06-u045","order":45,"region":"left","role":"paratext"}
 
 
 @@UNIT {"codepoints":24,"column_label":"左半面第5日欄第18日日期干支星宿日用","id":"p06-u046","order":46,"region":"left","role":"table"}
-十八日壬辰水破奎母倉益后宜安碓□破屋壞垣不宜余事
+十八日壬辰水破奎母倉益后宜安碓磑破屋壞垣不宜余事
 
 @@UNIT {"codepoints":0,"column_label":"左半面第6日欄第19日上欄","id":"p06-u047","order":47,"region":"left","role":"paratext"}
 
 
 @@UNIT {"codepoints":25,"column_label":"左半面第6日欄第19日日期干支星宿日用","id":"p06-u048","order":48,"region":"left","role":"table"}
-十九日癸巳水危婁天福明堂宜徃修嫁娶捕魚安床不宜余事
+十九日癸巳水危婁天福明堂宜徃□嫁娶捕魚安床不宜余事
 
 @@UNIT {"codepoints":0,"column_label":"左半面第7日欄第20日上欄","id":"p06-u049","order":49,"region":"left","role":"paratext"}
 
@@ -1076,38 +1079,38 @@
 @@UNIT {"codepoints":0,"column_label":"左半面第9日欄第22日上欄","id":"p06-u053","order":53,"region":"left","role":"paratext"}
 
 
-@@UNIT {"codepoints":36,"column_label":"左半面第9日欄第22日日期干支星宿日用","id":"p06-u054","order":54,"region":"left","role":"table"}
-廿二日丙申火開畢天德生氣宜上官赴任祭祀治病進人口聚會穿井沐浴開渠解除拜爵
+@@UNIT {"codepoints":34,"column_label":"左半面第9日欄第22日日期干支星宿日用","id":"p06-u054","order":54,"region":"left","role":"table"}
+廿二日丙申火開畢天德生氣宜上官赴任祭祀治病進人口聚□井沐浴開渠解除□
 
 @@UNIT {"codepoints":2,"column_label":"左半面第10日欄第23日上欄","id":"p06-u055","order":55,"region":"left","role":"paratext"}
 下弦
 
-@@UNIT {"codepoints":29,"column_label":"左半面第10日欄第23日日期干支星宿日用","id":"p06-u056","order":56,"region":"left","role":"table"}
-廿三日丁酉火閉觜天醫神在宜祭祀修倉補壁安葬合醬起染解除作厠
+@@UNIT {"codepoints":26,"column_label":"左半面第10日欄第23日日期干支星宿日用","id":"p06-u056","order":56,"region":"left","role":"table"}
+廿三日丁酉火閉觜天□神在宜祭祀修倉□合□起染解除作□
 
 @@UNIT {"codepoints":0,"column_label":"左半面第11日欄第24日上欄","id":"p06-u057","order":57,"region":"left","role":"paratext"}
 
 
-@@UNIT {"codepoints":28,"column_label":"左半面第11日欄第24日日期干支星宿日用","id":"p06-u058","order":58,"region":"left","role":"table"}
-廿四日戊戌木建參母倉滿德星宜開氷剃伐問□□造屋安牛進畜欄
+@@UNIT {"codepoints":23,"column_label":"左半面第11日欄第24日日期干支星宿日用","id":"p06-u058","order":58,"region":"left","role":"table"}
+廿四日戊戌木建參母倉□德星宜□剃□造屋□進畜欄
 
 @@UNIT {"codepoints":3,"column_label":"左半面第12日欄第25日上欄","id":"p06-u059","order":59,"region":"left","role":"paratext"}
 天帝戌
 
-@@UNIT {"codepoints":38,"column_label":"左半面第12日欄第25日日期干支星宿日用","id":"p06-u060","order":60,"region":"left","role":"table"}
-廿五日己亥木□井霜降午初□刻日出卯正□刻日入酉初□刻宜祭祀祈福開市進人口牧剃
+@@UNIT {"codepoints":36,"column_label":"左半面第12日欄第25日日期干支星宿日用","id":"p06-u060","order":60,"region":"left","role":"table"}
+廿五日己亥木除井霜降午初□刻日出卯正□刻日入酉初□刻宜祭祀□開市進人口□
 
 @@UNIT {"codepoints":0,"column_label":"左半面第13日欄第26日上欄","id":"p06-u061","order":61,"region":"left","role":"paratext"}
 
 
-@@UNIT {"codepoints":32,"column_label":"左半面第13日欄第26日日期干支星宿日用","id":"p06-u062","order":62,"region":"left","role":"table"}
-廿六日庚子土滿鬼天富上吉宜□公□土除服進人口冠帶交易開市修作倉庫
+@@UNIT {"codepoints":22,"column_label":"左半面第13日欄第26日日期干支星宿日用","id":"p06-u062","order":62,"region":"left","role":"table"}
+廿六日庚子土滿鬼天富上吉宜□交易開市修作倉庫
 
 @@UNIT {"codepoints":0,"column_label":"左半面第14日欄第27日上欄","id":"p06-u063","order":63,"region":"left","role":"paratext"}
 
 
-@@UNIT {"codepoints":27,"column_label":"左半面第14日欄第27日日期干支星宿日用","id":"p06-u064","order":64,"region":"left","role":"table"}
-廿七日辛丑土平柳晝四十六刻夜五十四刻宜祭祀沐浴□□遷墓
+@@UNIT {"codepoints":22,"column_label":"左半面第14日欄第27日日期干支星宿日用","id":"p06-u064","order":64,"region":"left","role":"table"}
+廿七日辛丑土平柳晝四十六刻夜五十四刻宜祭祀□
 
 @@UNIT {"codepoints":0,"column_label":"左半面第15日欄第28日上欄","id":"p06-u065","order":65,"region":"left","role":"paratext"}
 
@@ -1118,8 +1121,8 @@
 @@UNIT {"codepoints":0,"column_label":"左半面第16日欄第29日上欄","id":"p06-u067","order":67,"region":"left","role":"paratext"}
 
 
-@@UNIT {"codepoints":35,"column_label":"左半面第16日欄第29日日期干支星宿日用","id":"p06-u068","order":68,"region":"left","role":"table"}
-廿九日癸卯金執張□心六合宜沐浴行醮祀灶修造動土破土□庫起工蓋屋入學冠笄
+@@UNIT {"codepoints":29,"column_label":"左半面第16日欄第29日日期干支星宿日用","id":"p06-u068","order":68,"region":"left","role":"table"}
+廿九日癸卯金執張□心六合宜□修造動土破土□起工蓋屋入學冠笄
 
 @@PAGE {"canvas_index":7,"kind":"calendar","printed_label":null}
 @@UNIT {"codepoints":3,"column_label":"月頭右大字欄","id":"p07-u001","order":1,"region":"right","role":"heading"}
@@ -1343,16 +1346,16 @@
 胎神碓磨
 
 @@UNIT {"codepoints":24,"column_label":"月頭細字自右第1欄","id":"p08-u004","order":4,"region":"right","role":"body"}
-初八日癸未辰正三刻立秋七月節天道北行宜修造北方天
+初八日癸未辰正三刻立秋七月節□道北行宜修造北方天
 
-@@UNIT {"codepoints":25,"column_label":"月頭細字自右第2欄","id":"p08-u005","order":5,"region":"right","role":"body"}
-德在癸月厭在辰月殺在未月德在壬月合在丁月空在丙丁壬
+@@UNIT {"codepoints":26,"column_label":"月頭細字自右第2欄","id":"p08-u005","order":5,"region":"right","role":"body"}
+德在癸月厭在辰月□在未月德在壬月合在丁月空在戊丙丁壬
 
 @@UNIT {"codepoints":25,"column_label":"月頭細字自右第3欄","id":"p08-u006","order":6,"region":"right","role":"body"}
 上宜修造取土是月也涼風至白露降寒蟬鳴鷹乃祭鳥禾乃登
 
-@@UNIT {"codepoints":26,"column_label":"月頭細字自右第4欄","id":"p08-u007","order":7,"region":"right","role":"body"}
-天地始肅廿三日戊戌未正初刻后日躔鶉尾之次用甲□庚□時
+@@UNIT {"codepoints":22,"column_label":"月頭細字自右第4欄","id":"p08-u007","order":7,"region":"right","role":"body"}
+天地始肅廿三日戊戌□日躔鶉尾之次用甲丙庚壬時
 
 @@UNIT {"codepoints":3,"column_label":"月頭下圖表右欄","id":"p08-u008","order":8,"region":"right","role":"table"}
 黑赤白
@@ -1379,13 +1382,13 @@
 
 
 @@UNIT {"codepoints":35,"column_label":"右半面第3日欄第3日日期干支星宿日用","id":"p08-u016","order":16,"region":"right","role":"table"}
-初三日戊寅土危星金匱母倉宜結婚會親出行移徙安床修造動土冠笄嫁娶作灶牧剃
+初三日戊寅土危星金匱母倉宜結婚會親出行移徙安床修造動土冠笄嫁娶作灶□□
 
 @@UNIT {"codepoints":0,"column_label":"右半面第4日欄第4日上欄","id":"p08-u017","order":17,"region":"right","role":"paratext"}
 
 
 @@UNIT {"codepoints":35,"column_label":"右半面第4日欄第4日日期干支星宿日用","id":"p08-u018","order":18,"region":"right","role":"table"}
-初四日己卯土成張天喜天月德合宜入學作灶結婚嫁娶修造祈福入倉開庫裁衣剃頭
+初四日己卯土成張天喜天月德合宜入學作灶結婚嫁娶修造祈福入倉開庫裁衣剃□
 
 @@UNIT {"codepoints":2,"column_label":"右半面第5日欄第5日上欄","id":"p08-u019","order":19,"region":"right","role":"paratext"}
 末伏
@@ -1397,7 +1400,7 @@
 
 
 @@UNIT {"codepoints":33,"column_label":"右半面第6日欄第6日日期干支星宿日用","id":"p08-u022","order":22,"region":"right","role":"table"}
-初六日辛巳金開軫月恩生氣宜祈福會親治病詞訟剃頭按摩開市沐浴修倉栽種
+初六日辛巳金開軫月恩生氣宜祈福會親治病詞訟剃頭安神開市求婚修倉栽種
 
 @@UNIT {"codepoints":0,"column_label":"右半面第7日欄第7日上欄","id":"p08-u023","order":23,"region":"right","role":"paratext"}
 
@@ -1406,10 +1409,10 @@
 初七日壬午木閉角凡事不吉
 
 @@UNIT {"codepoints":3,"column_label":"右半面第8日欄第8日上欄","id":"p08-u025","order":25,"region":"right","role":"paratext"}
-天帝坤
+天帝□
 
 @@UNIT {"codepoints":39,"column_label":"右半面第8日欄第8日日期干支星宿日用","id":"p08-u026","order":26,"region":"right","role":"table"}
-初八日癸未木建亢立秋辰正三刻日出卯初□刻日入酉正三刻宜嫁娶出行栽接祈福補垣塞穴
+初八日癸未木□亢立秋辰正三刻日出卯初□刻日入酉正三刻宜嫁娶出行栽接祈福補□塞穴
 
 @@UNIT {"codepoints":3,"column_label":"右半面第9日欄第9日上欄","id":"p08-u027","order":27,"region":"right","role":"paratext"}
 太陽午
@@ -1427,7 +1430,7 @@
 
 
 @@UNIT {"codepoints":27,"column_label":"右半面第11日欄第11日日期干支星宿日用","id":"p08-u032","order":32,"region":"right","role":"table"}
-十一日丙戌土滿心天倉曲星宜補垣塞穴交易納采牧養不宜余事
+十一日丙戌土滿心天倉曲星宜補垣塞穴交易針灸牧養不宜余事
 
 @@UNIT {"codepoints":0,"column_label":"右半面第12日欄第12日上欄","id":"p08-u033","order":33,"region":"right","role":"paratext"}
 
@@ -1439,7 +1442,7 @@
 
 
 @@UNIT {"codepoints":35,"column_label":"右半面第13日欄第13日日期干支星宿日用","id":"p08-u036","order":36,"region":"right","role":"table"}
-十三日戊子火定箕福星三合宜上官赴任冠帶結婚修造動土竪柱上樑裁衣出火起工
+十三日戊子火定箕福星三合宜上官赴任冠帶結婚修造動土竪柱上樑裁衣伐木起工
 
 @@UNIT {"codepoints":0,"column_label":"左半面第1日欄第14日上欄","id":"p08-u037","order":37,"region":"left","role":"paratext"}
 
@@ -1451,25 +1454,25 @@
 望
 
 @@UNIT {"codepoints":23,"column_label":"左半面第2日欄第15日日期干支星宿日用","id":"p08-u040","order":40,"region":"left","role":"table"}
-十五日庚寅木破牛天福天□聖心宜破屋壞垣不宜余事
+十五日庚寅木破牛天福天瑞聖心宜□屋壞垣不宜余事
 
 @@UNIT {"codepoints":0,"column_label":"左半面第3日欄第16日上欄","id":"p08-u041","order":41,"region":"left","role":"paratext"}
 
 
 @@UNIT {"codepoints":34,"column_label":"左半面第3日欄第16日日期干支星宿日用","id":"p08-u042","order":42,"region":"left","role":"table"}
-十六日辛卯木危女益后神在宜祭祀鳴□給由結網嫁娶破剃安床起□冠笄置產室
+十六日辛卯木危女益后神在宜祭祀鳴□給由結網嫁娶破剃安床起架冠笄置產室
 
 @@UNIT {"codepoints":0,"column_label":"左半面第4日欄第17日上欄","id":"p08-u043","order":43,"region":"left","role":"paratext"}
 
 
 @@UNIT {"codepoints":35,"column_label":"左半面第4日欄第17日日期干支星宿日用","id":"p08-u044","order":44,"region":"left","role":"table"}
-十七日壬辰水成虛天喜母倉宜納采問名結婚入學祈福入倉開庫破土安葬塞垣牧養
+十七日壬辰水成虛天喜母倉宜納采問名結婚入學祈福入倉開庫破土安葬□□牧養
 
 @@UNIT {"codepoints":0,"column_label":"左半面第5日欄第18日上欄","id":"p08-u045","order":45,"region":"left","role":"paratext"}
 
 
-@@UNIT {"codepoints":27,"column_label":"左半面第5日欄第18日日期干支星宿日用","id":"p08-u046","order":46,"region":"left","role":"table"}
-十八日癸巳水收危六合明堂宜嫁娶剃□納財捕捉修□貨物栽種
+@@UNIT {"codepoints":26,"column_label":"左半面第5日欄第18日日期干支星宿日用","id":"p08-u046","order":46,"region":"left","role":"table"}
+十八日癸巳水收危六合明星宜嫁娶剃長納財捕捉□貨物栽種
 
 @@UNIT {"codepoints":0,"column_label":"左半面第6日欄第19日上欄","id":"p08-u047","order":47,"region":"left","role":"paratext"}
 
@@ -1481,7 +1484,7 @@
 
 
 @@UNIT {"codepoints":35,"column_label":"左半面第7日欄第20日日期干支星宿日用","id":"p08-u050","order":50,"region":"left","role":"table"}
-二十日乙未金閉壁天醫曲星神在宜祭祀祈福修倉上官行船竪造上樑入學赴舉給由
+二十日乙未金閉壁天醫曲星神在宜祭祀祈福修舍上官行船竪造上樑入學赴舉給由
 
 @@UNIT {"codepoints":0,"column_label":"左半面第8日欄第21日上欄","id":"p08-u051","order":51,"region":"left","role":"paratext"}
 
@@ -1499,7 +1502,7 @@
 天帝申
 
 @@UNIT {"codepoints":38,"column_label":"左半面第10日欄第23日日期干支星宿日用","id":"p08-u056","order":56,"region":"left","role":"table"}
-廿三日戊戌木滿胃處暑未正初刻日出卯初二刻日入酉正二刻宜納財交易進人口剃□針灸
+廿三日戊戌木滿胃處暑未正初刻日出卯初二刻日入酉正二刻宜納財交易進人口剃長針灸
 
 @@UNIT {"codepoints":0,"column_label":"左半面第11日欄第24日上欄","id":"p08-u057","order":57,"region":"left","role":"paratext"}
 
@@ -1511,7 +1514,7 @@
 
 
 @@UNIT {"codepoints":33,"column_label":"左半面第12日欄第25日日期干支星宿日用","id":"p08-u060","order":60,"region":"left","role":"table"}
-廿五日庚子土定畢福星上吉宜上官赴任冠帶會親修造竪柱上樑出火安床栽種
+廿五日庚子土定畢福星上吉宜上官赴任冠帶會親修造竪□上樑出火安床栽種
 
 @@UNIT {"codepoints":3,"column_label":"左半面第13日欄第26日上欄","id":"p08-u061","order":61,"region":"left","role":"paratext"}
 太陽丙
@@ -1529,7 +1532,7 @@
 
 
 @@UNIT {"codepoints":31,"column_label":"左半面第15日欄第28日日期干支星宿日用","id":"p08-u066","order":66,"region":"left","role":"table"}
-廿八日癸卯金危井顯星吉慶宜結婚安產室移徙造酒醴入倉開□破剃伐樹
+廿八日癸卯金危井顯星吉慶宜結婚安產室移徙造酒□入倉開□破剃伐樹
 
 @@UNIT {"codepoints":0,"column_label":"左半面第16日欄第29日上欄","id":"p08-u067","order":67,"region":"left","role":"paratext"}
 
@@ -1545,19 +1548,19 @@
 建丁未
 
 @@UNIT {"codepoints":4,"column_label":"月頭胎神橫列","id":"p09-u003","order":3,"region":"right","role":"heading"}
-胎神床倉
+胎神□倉
 
 @@UNIT {"codepoints":27,"column_label":"月頭細字自右第1欄","id":"p09-u004","order":4,"region":"right","role":"body"}
-初七日壬子□正二刻小暑六月節天道東行宜修造東方天德在甲
+初七日壬子□正□刻小暑六月節天道東行宜修造東方天德在甲
 
 @@UNIT {"codepoints":24,"column_label":"月頭細字自右第2欄","id":"p09-u005","order":5,"region":"right","role":"body"}
-月厭在巳月殺在辰月德在甲月合在己月空在庚甲上宜修
+月厭在巳月□在辰月德在甲月合在己月空在庚甲上宜修
 
 @@UNIT {"codepoints":23,"column_label":"月頭細字自右第3欄","id":"p09-u006","order":6,"region":"right","role":"body"}
-造取土是月也溫風至蟋蟀居壁鷹乃學習腐草為螢土潤
+造取土是月也溫風至□□□□鷹乃學習腐草為螢土潤
 
 @@UNIT {"codepoints":27,"column_label":"月頭細字自右第4欄","id":"p09-u007","order":7,"region":"right","role":"body"}
-溽暑大雨時行廿三日戊辰寅初二刻后日躔鶉火之次用乙丁□時
+溽暑大雨時行廿□日戊辰□初□刻后日躔鶉火之次用乙丁□時
 
 @@UNIT {"codepoints":3,"column_label":"月頭下圖表右欄","id":"p09-u008","order":8,"region":"right","role":"table"}
 碧白赤
@@ -1571,20 +1574,20 @@
 @@UNIT {"codepoints":0,"column_label":"右半面第1日欄第1日上欄","id":"p09-u011","order":11,"region":"right","role":"paratext"}
 
 
-@@UNIT {"codepoints":21,"column_label":"右半面第1日欄第1日日期干支星宿日用","id":"p09-u012","order":12,"region":"right","role":"table"}
-初一日丙午水建參□星神在宜祭祀□事不宜余事
+@@UNIT {"codepoints":20,"column_label":"右半面第1日欄第1日日期干支星宿日用","id":"p09-u012","order":12,"region":"right","role":"table"}
+初一日丙午水建參□星神在宜祭祀□不宜余事
 
 @@UNIT {"codepoints":0,"column_label":"右半面第2日欄第2日上欄","id":"p09-u013","order":13,"region":"right","role":"paratext"}
 
 
 @@UNIT {"codepoints":36,"column_label":"右半面第2日欄第2日日期干支星宿日用","id":"p09-u014","order":14,"region":"right","role":"table"}
-初二日丁未水除井六合吉神在宜祭祀□除納采安葬上樑裁衣出行立券交易除服□□
+初二日丁未水除井六合吉神在宜祭祀□除□□安□上樑裁衣出行立券交易除服□□
 
 @@UNIT {"codepoints":0,"column_label":"右半面第3日欄第3日上欄","id":"p09-u015","order":15,"region":"right","role":"paratext"}
 
 
-@@UNIT {"codepoints":29,"column_label":"右半面第3日欄第3日日期干支星宿日用","id":"p09-u016","order":16,"region":"right","role":"table"}
-初三日戊申土滿鬼不將神在宜□入倉□納財修造動土開市不宜余事
+@@UNIT {"codepoints":25,"column_label":"右半面第3日欄第3日日期干支星宿日用","id":"p09-u016","order":16,"region":"right","role":"table"}
+初三日戊申土滿鬼不將神在宜□入倉□納財修造動土開市
 
 @@UNIT {"codepoints":0,"column_label":"右半面第4日欄第4日上欄","id":"p09-u017","order":17,"region":"right","role":"paratext"}
 
@@ -1596,7 +1599,7 @@
 
 
 @@UNIT {"codepoints":37,"column_label":"右半面第5日欄第5日日期干支星宿日用","id":"p09-u020","order":20,"region":"right","role":"table"}
-初五日庚戌金定星天倉上吉宜祭祀冠帶結婚會親竪柱上樑修造動土裁衣牧養安碓作厠
+初五日庚戌金定星天倉上吉宜祭祀冠帶□□會親竪柱上樑修造動土裁衣牧養安碓作厠
 
 @@UNIT {"codepoints":0,"column_label":"右半面第6日欄第6日上欄","id":"p09-u021","order":21,"region":"right","role":"paratext"}
 
@@ -1605,10 +1608,10 @@
 初六日辛亥金執張陽星顯星宜祈福修造動土捕捉起工給由冠笄剃頭教牛
 
 @@UNIT {"codepoints":3,"column_label":"右半面第7日欄第7日上欄","id":"p09-u023","order":23,"region":"right","role":"paratext"}
-天帝丁
+天帝□
 
 @@UNIT {"codepoints":37,"column_label":"右半面第7日欄第7日日期干支星宿日用","id":"p09-u024","order":24,"region":"right","role":"table"}
-初七日壬子木破翼小暑□正二刻日出寅正三刻日入戌初一刻宜捕捉伐竹啟攢解除沐浴
+初七日壬子木執翼小暑亥正一刻日出寅正三刻日入戌初一刻宜開池破土啟攢解除沐浴
 
 @@UNIT {"codepoints":2,"column_label":"右半面第8日欄第8日上欄","id":"p09-u025","order":25,"region":"right","role":"paratext"}
 上弦
@@ -1623,22 +1626,22 @@
 初九日甲寅水危角天德月德宜上官結婚會親安床造門開市交易出火入宅蓋屋作灶
 
 @@UNIT {"codepoints":3,"column_label":"右半面第10日欄第10日上欄","id":"p09-u029","order":29,"region":"right","role":"paratext"}
-太陽巳
+太陽□
 
-@@UNIT {"codepoints":30,"column_label":"右半面第10日欄第10日日期干支星宿日用","id":"p09-u030","order":30,"region":"right","role":"table"}
-初十日乙卯水成亢天喜母倉宜祭祀會親交易入學安床□嫁娶冠笄出行
+@@UNIT {"codepoints":29,"column_label":"右半面第10日欄第10日日期干支星宿日用","id":"p09-u030","order":30,"region":"right","role":"table"}
+初十日乙卯水成亢天喜母倉宜祭祀會親□入學安床□嫁娶冠笄出行
 
 @@UNIT {"codepoints":0,"column_label":"右半面第11日欄第11日上欄","id":"p09-u031","order":31,"region":"right","role":"paratext"}
 
 
 @@UNIT {"codepoints":21,"column_label":"右半面第11日欄第11日日期干支星宿日用","id":"p09-u032","order":32,"region":"right","role":"table"}
-十一日丙辰土收氐普護神在宜捕捉取魚不宜余事
+十一日丙辰土收氐普護神在宜捕捉□□不宜余事
 
 @@UNIT {"codepoints":0,"column_label":"右半面第12日欄第12日上欄","id":"p09-u033","order":33,"region":"right","role":"paratext"}
 
 
 @@UNIT {"codepoints":23,"column_label":"右半面第12日欄第12日日期干支星宿日用","id":"p09-u034","order":34,"region":"right","role":"table"}
-十二日丁巳土開房福星生氣宜祭祀受封不宜嫁娶認親
+十二日丁巳土開房福星生氣宜祭祀受封不宜嫁娶移徙
 
 @@UNIT {"codepoints":0,"column_label":"右半面第13日欄第13日上欄","id":"p09-u035","order":35,"region":"right","role":"paratext"}
 
@@ -1650,25 +1653,25 @@
 
 
 @@UNIT {"codepoints":28,"column_label":"左半面第1日欄第14日日期干支星宿日用","id":"p09-u038","order":38,"region":"left","role":"table"}
-十四日己未火建尾天月德合明星宜祭祀出行入倉求財□開庫穿井
+十四日己未火建尾天月德合□星宜祭祀出行入倉求財□開庫穿井
 
 @@UNIT {"codepoints":1,"column_label":"左半面第2日欄第15日上欄","id":"p09-u039","order":39,"region":"left","role":"paratext"}
 望
 
-@@UNIT {"codepoints":32,"column_label":"左半面第2日欄第15日日期干支星宿日用","id":"p09-u040","order":40,"region":"left","role":"table"}
-十五日庚申木除箕曲星益后上吉宜嫁娶裁衣安產室起工竪造伐木造門剃頭
+@@UNIT {"codepoints":33,"column_label":"左半面第2日欄第15日日期干支星宿日用","id":"p09-u040","order":40,"region":"left","role":"table"}
+十五日庚申木除箕曲星益后上吉宜□□受封祈福安□起工竪造伐木造門剃頭
 
 @@UNIT {"codepoints":2,"column_label":"左半面第3日欄第16日上欄","id":"p09-u041","order":41,"region":"left","role":"paratext"}
 初伏
 
 @@UNIT {"codepoints":33,"column_label":"左半面第3日欄第16日日期干支星宿日用","id":"p09-u042","order":42,"region":"left","role":"table"}
-十六日辛酉木滿斗月恩上吉宜納財修倉裁衣行紅作灶開市冠笄嫁娶安床安□
+十六日辛酉木滿斗月恩上吉宜納財修倉裁衣行□作灶開市冠笄嫁娶□□安□
 
 @@UNIT {"codepoints":0,"column_label":"左半面第4日欄第17日上欄","id":"p09-u043","order":43,"region":"left","role":"paratext"}
 
 
 @@UNIT {"codepoints":25,"column_label":"左半面第4日欄第17日日期干支星宿日用","id":"p09-u044","order":44,"region":"left","role":"table"}
-十七日壬戌水平牛守慎黃道不將宜□取平治道路不宜余事
+十七日壬戌水平牛□□黃道不將宜□□平治道塗不宜余事
 
 @@UNIT {"codepoints":0,"column_label":"左半面第5日欄第18日上欄","id":"p09-u045","order":45,"region":"left","role":"paratext"}
 
@@ -1685,32 +1688,32 @@
 @@UNIT {"codepoints":0,"column_label":"左半面第7日欄第20日上欄","id":"p09-u049","order":49,"region":"left","role":"paratext"}
 
 
-@@UNIT {"codepoints":23,"column_label":"左半面第7日欄第20日日期干支星宿日用","id":"p09-u050","order":50,"region":"left","role":"table"}
-二十日乙丑金破危□星神在宜捕捉壞屋壞垣不宜余事
+@@UNIT {"codepoints":25,"column_label":"左半面第7日欄第20日日期干支星宿日用","id":"p09-u050","order":50,"region":"left","role":"table"}
+二十日乙丑金破危□星神在宜祭祀治病破屋壞垣不宜余事
 
 @@UNIT {"codepoints":0,"column_label":"左半面第8日欄第21日上欄","id":"p09-u051","order":51,"region":"left","role":"paratext"}
 
 
-@@UNIT {"codepoints":31,"column_label":"左半面第8日欄第21日日期干支星宿日用","id":"p09-u052","order":52,"region":"left","role":"table"}
-廿一日丙寅火危室天恩金匱宜上官出行結婚安床□祀灶□出火入宅修造
+@@UNIT {"codepoints":28,"column_label":"左半面第8日欄第21日日期干支星宿日用","id":"p09-u052","order":52,"region":"left","role":"table"}
+廿一日丙寅火危室天恩金匱宜上官□□□□□□□出火入宅修造
 
 @@UNIT {"codepoints":3,"column_label":"左半面第9日欄第22日上欄","id":"p09-u053","order":53,"region":"left","role":"paratext"}
 天帝未
 
 @@UNIT {"codepoints":30,"column_label":"左半面第9日欄第22日日期干支星宿日用","id":"p09-u054","order":54,"region":"left","role":"table"}
-廿二日丁卯火成壁□天喜宜冠帶祈福□祭祀嫁娶□上樑□入宅□交易
+廿二日丁卯火成壁□天喜宜□□□□□祭祀□□□上樑□入宅□交易
 
 @@UNIT {"codepoints":2,"column_label":"左半面第10日欄第23日上欄","id":"p09-u055","order":55,"region":"left","role":"paratext"}
 下弦
 
-@@UNIT {"codepoints":31,"column_label":"左半面第10日欄第23日日期干支星宿日用","id":"p09-u056","order":56,"region":"left","role":"table"}
-廿三日戊辰木收奎大暑寅初二刻日出寅正□刻日入戌初□刻宜治病療□
+@@UNIT {"codepoints":30,"column_label":"左半面第10日欄第23日日期干支星宿日用","id":"p09-u056","order":56,"region":"left","role":"table"}
+廿三日戊辰木收奎大暑□初三刻日出寅正□刻日入戌初□刻宜□□□
 
 @@UNIT {"codepoints":3,"column_label":"左半面第11日欄第24日上欄","id":"p09-u057","order":57,"region":"left","role":"paratext"}
 太陽午
 
-@@UNIT {"codepoints":28,"column_label":"左半面第11日欄第24日日期干支星宿日用","id":"p09-u058","order":58,"region":"left","role":"table"}
-廿四日己巳木開婁天月德合福星宜祈福□出火納采□開市交易□
+@@UNIT {"codepoints":26,"column_label":"左半面第11日欄第24日日期干支星宿日用","id":"p09-u058","order":58,"region":"left","role":"table"}
+廿四日己巳木開婁天月德合□星宜祭祀□安床□嫁娶進人口
 
 @@UNIT {"codepoints":2,"column_label":"左半面第12日欄第25日上欄","id":"p09-u059","order":59,"region":"left","role":"paratext"}
 中伏
@@ -1722,19 +1725,19 @@
 
 
 @@UNIT {"codepoints":35,"column_label":"左半面第13日欄第26日日期干支星宿日用","id":"p09-u062","order":62,"region":"left","role":"table"}
-廿六日辛未土建昴晝五十六刻夜四十四刻宜祭祀□出行竪柱上樑伐木□剃頭安□
+廿六日辛未土建昴晝五十六刻夜四十四刻宜祭祀□出行竪柱上樑伐木□剃□安□
 
 @@UNIT {"codepoints":0,"column_label":"左半面第14日欄第27日上欄","id":"p09-u063","order":63,"region":"left","role":"paratext"}
 
 
-@@UNIT {"codepoints":24,"column_label":"左半面第14日欄第27日日期干支星宿日用","id":"p09-u064","order":64,"region":"left","role":"table"}
-廿七日壬申金除畢□上吉神在宜祭祀□解除□伐木造壁
+@@UNIT {"codepoints":20,"column_label":"左半面第14日欄第27日日期干支星宿日用","id":"p09-u064","order":64,"region":"left","role":"table"}
+廿七日壬申金除畢□上吉神在宜祭祀□□□□
 
 @@UNIT {"codepoints":0,"column_label":"左半面第15日欄第28日上欄","id":"p09-u065","order":65,"region":"left","role":"paratext"}
 
 
-@@UNIT {"codepoints":28,"column_label":"左半面第15日欄第28日日期干支星宿日用","id":"p09-u066","order":66,"region":"left","role":"table"}
-廿八日癸酉金滿觜天倉不將宜嫁娶□入倉□剃頭□伐木起工安碓
+@@UNIT {"codepoints":29,"column_label":"左半面第15日欄第28日日期干支星宿日用","id":"p09-u066","order":66,"region":"left","role":"table"}
+廿八日癸酉金滿觜天倉不將宜嫁娶□入□□裁衣安床作灶起工安碓
 
 @@UNIT {"codepoints":0,"column_label":"左半面第16日欄第29日上欄","id":"p09-u067","order":67,"region":"left","role":"paratext"}
 
@@ -1765,10 +1768,10 @@
 德在乾月厭在午月殺在丑月德在丙月合在辛月空在壬丙辛□
 
 @@UNIT {"codepoints":25,"column_label":"月頭細字自右第3欄","id":"p10-u006","order":6,"region":"right","role":"body"}
-上宜修造取土是月也螳螂生鵙始鳴反舌無聲鹿角解蜩始鳴
+上宜修造取土是月也螳螂生□始鳴反舌無聲鹿角解□始鳴
 
 @@UNIT {"codepoints":25,"column_label":"月頭細字自右第4欄","id":"p10-u007","order":7,"region":"right","role":"body"}
-半夏生廿二日丁酉酉初□刻后日躔鶉首之次用艮巽坤乾時
+半夏生廿二日丁酉酉初□刻后日躔□首之次用艮巽坤乾時
 
 @@UNIT {"codepoints":3,"column_label":"月頭下圖表右欄","id":"p10-u008","order":8,"region":"right","role":"table"}
 緑紫白
@@ -1801,13 +1804,13 @@
 
 
 @@UNIT {"codepoints":36,"column_label":"右半面第4日欄第4日日期干支星宿日用","id":"p10-u018","order":18,"region":"right","role":"table"}
-初四日己卯土開井天月恩□合宜入學祭祀結婚嫁娶會親冠笄剃□竪造蓋屋祀灶治病
+初四日己卯土開井天月恩□合宜入學□□結婚嫁娶會親冠笄剃長竪造蓋屋祀灶治病
 
 @@UNIT {"codepoints":0,"column_label":"右半面第5日欄第5日上欄","id":"p10-u019","order":19,"region":"right","role":"paratext"}
 
 
-@@UNIT {"codepoints":31,"column_label":"右半面第5日欄第5日日期干支星宿日用","id":"p10-u020","order":20,"region":"right","role":"table"}
-初五日庚辰金閉鬼天恩天醫福星宜祈禱祈福祭祀交易納畜取田修倉作厠
+@@UNIT {"codepoints":27,"column_label":"右半面第5日欄第5日日期干支星宿日用","id":"p10-u020","order":20,"region":"right","role":"table"}
+初五日庚辰金閉鬼天恩天醫□宜□□祈福祭祀交易□修倉作□
 
 @@UNIT {"codepoints":0,"column_label":"右半面第6日欄第6日上欄","id":"p10-u021","order":21,"region":"right","role":"paratext"}
 
@@ -1816,10 +1819,10 @@
 初六日辛巳金建軫凡事不吉
 
 @@UNIT {"codepoints":3,"column_label":"右半面第7日欄第7日上欄","id":"p10-u023","order":23,"region":"right","role":"paratext"}
-天帝丙
+天帝□
 
 @@UNIT {"codepoints":37,"column_label":"右半面第7日欄第7日日期干支星宿日用","id":"p10-u024","order":24,"region":"right","role":"table"}
-初七日壬午木建角芒種午初三刻日出寅正二刻日入戌初三刻宜受封襲爵祭祀納財穿井
+初七日壬午木建角芒種午初三刻日出寅正二刻日入戌初三刻宜受封襲爵祭祀納財穿□
 
 @@UNIT {"codepoints":0,"column_label":"右半面第8日欄第8日上欄","id":"p10-u025","order":25,"region":"right","role":"paratext"}
 
@@ -1831,13 +1834,13 @@
 上弦
 
 @@UNIT {"codepoints":29,"column_label":"右半面第9日欄第9日日期干支星宿日用","id":"p10-u028","order":28,"region":"right","role":"table"}
-初九日甲申水滿氐明星不將神在宜出行嫁娶修造裁衣剃□塞穴給由
+初九日甲申水滿氐明星不將神在宜出行嫁娶修造裁衣剃長塞穴給由
 
 @@UNIT {"codepoints":0,"column_label":"右半面第10日欄第10日上欄","id":"p10-u029","order":29,"region":"right","role":"paratext"}
 
 
 @@UNIT {"codepoints":25,"column_label":"右半面第10日欄第10日日期干支星宿日用","id":"p10-u030","order":30,"region":"right","role":"table"}
-初十日乙酉水平房月空顯星宜祭祀剃□泥墻治路不宜余事
+初十日乙酉水平房月空顯星宜祭祀剃長泥墻治路不宜余事
 
 @@UNIT {"codepoints":3,"column_label":"右半面第11日欄第11日上欄","id":"p10-u031","order":31,"region":"right","role":"paratext"}
 太□申
@@ -1863,14 +1866,14 @@
 @@UNIT {"codepoints":23,"column_label":"左半面第1日欄第14日日期干支星宿日用","id":"p10-u038","order":38,"region":"left","role":"table"}
 十四日己丑火危斗天恩吉慶宜祭祀破屋壞垣不宜余事
 
-@@UNIT {"codepoints":1,"column_label":"左半面第2日欄第15日上欄","id":"p10-u039","order":39,"region":"left","role":"paratext"}
-□
+@@UNIT {"codepoints":0,"column_label":"左半面第2日欄第15日上欄","id":"p10-u039","order":39,"region":"left","role":"paratext"}
+
 
 @@UNIT {"codepoints":35,"column_label":"左半面第2日欄第15日日期干支星宿日用","id":"p10-u040","order":40,"region":"left","role":"table"}
-十五日庚寅木成牛天德合天喜宜結婚會親修造動土竪造上樑安床安產室入學安碓
+十五日庚寅木成牛天德合天喜宜結婚會親修造動土竪造上樑安床安產室入學安□
 
-@@UNIT {"codepoints":0,"column_label":"左半面第3日欄第16日上欄","id":"p10-u041","order":41,"region":"left","role":"paratext"}
-
+@@UNIT {"codepoints":1,"column_label":"左半面第3日欄第16日上欄","id":"p10-u041","order":41,"region":"left","role":"paratext"}
+□
 
 @@UNIT {"codepoints":24,"column_label":"左半面第3日欄第16日日期干支星宿日用","id":"p10-u042","order":42,"region":"left","role":"table"}
 十六日辛卯木收女天福月德合宜祭祀耕耨捕捉不宜余事
@@ -1879,13 +1882,13 @@
 
 
 @@UNIT {"codepoints":35,"column_label":"左半面第4日欄第17日日期干支星宿日用","id":"p10-u044","order":44,"region":"left","role":"table"}
-十七日壬辰水開虛天岳生炁宜結婚修造動土上官安床竪造上樑作灶針灸裁衣安碓
+十七日壬辰水開虛天岳生炁宜結婚修造動土上官安床竪造上樑作灶針灸裁衣安□
 
 @@UNIT {"codepoints":0,"column_label":"左半面第5日欄第18日上欄","id":"p10-u045","order":45,"region":"left","role":"paratext"}
 
 
 @@UNIT {"codepoints":27,"column_label":"左半面第5日欄第18日日期干支星宿日用","id":"p10-u046","order":46,"region":"left","role":"table"}
-十八日癸巳水閉危顯星天醫宜修倉裁衣掃道塞穴不宜出行安葬
+十八日癸巳水閉危顯星天醫宜修倉裁衣□□塞穴不宜出行安葬
 
 @@UNIT {"codepoints":0,"column_label":"左半面第6日欄第19日上欄","id":"p10-u047","order":47,"region":"left","role":"paratext"}
 
@@ -1897,16 +1900,16 @@
 
 
 @@UNIT {"codepoints":35,"column_label":"左半面第7日欄第20日日期干支星宿日用","id":"p10-u050","order":50,"region":"left","role":"table"}
-二十日乙未金除壁六合神在宜祭祀解除療病會親立券交易剃□除服安床竪造行船
+二十日乙未金除壁六合神在宜祭祀解除療病會親立券交易剃長除服安床竪造行船
 
 @@UNIT {"codepoints":0,"column_label":"左半面第8日欄第21日上欄","id":"p10-u051","order":51,"region":"left","role":"paratext"}
 
 
 @@UNIT {"codepoints":30,"column_label":"左半面第8日欄第21日日期干支星宿日用","id":"p10-u052","order":52,"region":"left","role":"table"}
-廿一日丙申火滿奎王日□黃道宜解除納財給由治□冠笄開市破土安產
+廿一日丙申火滿奎王日□黃道宜解除納財給由治□冠笄開市破土安□
 
 @@UNIT {"codepoints":3,"column_label":"左半面第9日欄第22日上欄","id":"p10-u053","order":53,"region":"left","role":"paratext"}
-天帝午
+天帝□
 
 @@UNIT {"codepoints":34,"column_label":"左半面第9日欄第22日日期干支星宿日用","id":"p10-u054","order":54,"region":"left","role":"table"}
 廿二日丁酉火平婁夏至酉初□刻日出寅正三刻日入戌初三刻宜殺畜祭祀治道路
@@ -1938,8 +1941,8 @@
 @@UNIT {"codepoints":0,"column_label":"左半面第14日欄第27日上欄","id":"p10-u063","order":63,"region":"left","role":"paratext"}
 
 
-@@UNIT {"codepoints":33,"column_label":"左半面第14日欄第27日日期干支星宿日用","id":"p10-u064","order":64,"region":"left","role":"table"}
-廿七日壬寅金成參顯星天喜宜□婚上官求嗣結婚剃□修造安葬穿碓破土安產
+@@UNIT {"codepoints":32,"column_label":"左半面第14日欄第27日日期干支星宿日用","id":"p10-u064","order":64,"region":"left","role":"table"}
+廿七日壬寅金成參顯星天喜宜□婚上官求嗣結□剃長修造安葬□破土安□
 
 @@UNIT {"codepoints":0,"column_label":"左半面第15日欄第28日上欄","id":"p10-u065","order":65,"region":"left","role":"paratext"}
 
@@ -1950,8 +1953,8 @@
 @@UNIT {"codepoints":0,"column_label":"左半面第16日欄第29日上欄","id":"p10-u067","order":67,"region":"left","role":"paratext"}
 
 
-@@UNIT {"codepoints":29,"column_label":"左半面第16日欄第29日日期干支星宿日用","id":"p10-u068","order":68,"region":"left","role":"table"}
-廿九日甲辰火開鬼靈星生炁宜會親經商求婚造寺廟安神架禾棚栽種
+@@UNIT {"codepoints":16,"column_label":"左半面第16日欄第29日日期干支星宿日用","id":"p10-u068","order":68,"region":"left","role":"table"}
+廿九日甲辰火開鬼靈星生炁宜會親□
 
 @@UNIT {"codepoints":0,"column_label":"左半面第17日欄第30日上欄","id":"p10-u069","order":69,"region":"left","role":"paratext"}
 
@@ -1976,13 +1979,13 @@
 德在辛月厭在未月煞在辰月德在庚月合在乙月空在甲申巳
 
 @@UNIT {"codepoints":27,"column_label":"右半面月題下細字第3欄","id":"p11-u006","order":6,"region":"right","role":"paratext"}
-庚上宜修造取土是月也螻蟈鳴□蚓出王瓜生苦菜秀靡草死麥秋
+庚上宜修造取土是月也螻蟈鳴蚯蚓出王瓜生苦菜秀靡草死麥秋
 
 @@UNIT {"codepoints":23,"column_label":"右半面月題下細字第4欄","id":"p11-u007","order":7,"region":"right","role":"paratext"}
-至廿日丁卯卯正二刻後日躔實沈之次宜用甲丙庚壬時
+至廿日丁卯卯正二刻後日躔實沈之次宜用□丙庚壬時
 
 @@UNIT {"codepoints":3,"column_label":"右半面月題下細字下格第1欄","id":"p11-u008","order":8,"region":"right","role":"table"}
-黃白紫
+黃白□
 
 @@UNIT {"codepoints":3,"column_label":"右半面月題下細字下格第2欄","id":"p11-u009","order":9,"region":"right","role":"table"}
 碧白綠
@@ -1991,16 +1994,16 @@
 赤白黑
 
 @@UNIT {"codepoints":23,"column_label":"初一日","id":"p11-u011","order":11,"region":"right","role":"body"}
-初一日丁未水平昴天月德合宜祭祀沐浴修路不宜余事
+初一日丁未水平昴天月德合宜祭祀泥墻修路不宜余事
 
 @@UNIT {"codepoints":31,"column_label":"初二日","id":"p11-u012","order":12,"region":"right","role":"body"}
 初二日戊申土定畢金櫃明星神在宜祭祀動土解除放債交易不宜嫁娶出行
 
-@@UNIT {"codepoints":35,"column_label":"初三日","id":"p11-u013","order":13,"region":"right","role":"body"}
-初三日己酉土執觜天恩神在宜祭祀養蠶受封上官赴任入學解除捕捉畋獵不宜余事
+@@UNIT {"codepoints":31,"column_label":"初三日","id":"p11-u013","order":13,"region":"right","role":"body"}
+初三日己酉土執觜天恩神在宜祭祀襲爵受封上官赴任入學解除捕捉畋獵
 
-@@UNIT {"codepoints":19,"column_label":"初四日","id":"p11-u014","order":14,"region":"right","role":"body"}
-初四日庚戌金破參福星煞星宜祭祀破屋壞垣
+@@UNIT {"codepoints":23,"column_label":"初四日","id":"p11-u014","order":14,"region":"right","role":"body"}
+初四日庚戌金破參福星□星宜祭祀破屋壞垣不宜余事
 
 @@UNIT {"codepoints":12,"column_label":"初五日","id":"p11-u015","order":15,"region":"right","role":"body"}
 初五日辛亥金危井凡事不吉
@@ -2008,17 +2011,17 @@
 @@UNIT {"codepoints":3,"column_label":"右半面初六日上方第1小欄","id":"p11-u016","order":16,"region":"right","role":"paratext"}
 天帝巽
 
-@@UNIT {"codepoints":3,"column_label":"右半面初六日上方第2小欄","id":"p11-u017","order":17,"region":"right","role":"paratext"}
-太陽酉
-
-@@UNIT {"codepoints":2,"column_label":"右半面初六日上方第3小欄","id":"p11-u018","order":18,"region":"right","role":"paratext"}
-上弦
-
-@@UNIT {"codepoints":33,"column_label":"初六日","id":"p11-u019","order":19,"region":"right","role":"body"}
+@@UNIT {"codepoints":33,"column_label":"初六日","id":"p11-u019","order":17,"region":"right","role":"body"}
 初六日壬子木危鬼立夏丑初一刻日出卯初二刻日入酉正三刻宜出行交易栽種
 
-@@UNIT {"codepoints":35,"column_label":"初七日","id":"p11-u020","order":20,"region":"right","role":"body"}
-初七日癸丑木成柳曲星天喜宜上官入學納采問名結婚修造竪造上樑作灶安床剃髮
+@@UNIT {"codepoints":3,"column_label":"右半面初七日上方小欄","id":"p11-u017","order":18,"region":"right","role":"paratext"}
+太陽酉
+
+@@UNIT {"codepoints":35,"column_label":"初七日","id":"p11-u020","order":19,"region":"right","role":"body"}
+初七日癸丑木成柳曲星天喜宜上官入學納采問名結婚修造竪造上樑作灶安床剃長
+
+@@UNIT {"codepoints":2,"column_label":"右半面初八日上方小欄","id":"p11-u018","order":20,"region":"right","role":"paratext"}
+上弦
 
 @@UNIT {"codepoints":29,"column_label":"初八日","id":"p11-u021","order":21,"region":"right","role":"body"}
 初八日甲寅水收星晝五十六刻夜四十四刻宜栽種捕捉畋獵不宜余事
@@ -2044,11 +2047,11 @@
 @@UNIT {"codepoints":1,"column_label":"左半面十五日上方小欄","id":"p11-u028","order":28,"region":"left","role":"paratext"}
 望
 
-@@UNIT {"codepoints":37,"column_label":"十五日","id":"p11-u029","order":29,"region":"left","role":"body"}
-十五日辛酉木定房明星神在宜祭祀解除冠帶行船入學開舖剃髮破土安塟不宜作灶安塟
+@@UNIT {"codepoints":31,"column_label":"十五日","id":"p11-u029","order":29,"region":"left","role":"body"}
+十五日辛酉木定房□星神在宜祭祀解除冠帶行船入學開舖剃長破土安塟
 
-@@UNIT {"codepoints":25,"column_label":"十六日","id":"p11-u030","order":30,"region":"left","role":"body"}
-十六日壬戌水執心金匱曲星上吉宜結婚修造動土捕捉冠笄
+@@UNIT {"codepoints":31,"column_label":"十六日","id":"p11-u030","order":30,"region":"left","role":"body"}
+十六日壬戌水執心金匱曲星上吉宜結婚修造動土捕捉冠笄不宜作灶安塟
 
 @@UNIT {"codepoints":21,"column_label":"十七日","id":"p11-u031","order":31,"region":"left","role":"body"}
 十七日癸亥水破尾天福天倉宜破屋壞垣不宜余事
@@ -2056,8 +2059,8 @@
 @@UNIT {"codepoints":33,"column_label":"十八日","id":"p11-u032","order":32,"region":"left","role":"body"}
 十八日甲子金危箕天恩神在宜祭祀嫁娶分居入宅竪柱上樑穿井安床設帳修造
 
-@@UNIT {"codepoints":39,"column_label":"十九日","id":"p11-u033","order":33,"region":"left","role":"body"}
-十九日乙丑金成斗月德合天喜神在宜入學納采祭祀治病交易動土竪碓開倉庫安塟不宜余事
+@@UNIT {"codepoints":35,"column_label":"十九日","id":"p11-u033","order":33,"region":"left","role":"body"}
+十九日乙丑金成斗月德合天喜神在宜入學納采祭祀治病交易動土竪碓開倉庫安塟
 
 @@UNIT {"codepoints":22,"column_label":"二十日","id":"p11-u034","order":34,"region":"left","role":"body"}
 二十日丙寅火收牛天德合母倉宜栽種捕捉不宜余事
@@ -2071,32 +2074,32 @@
 @@UNIT {"codepoints":36,"column_label":"廿二日","id":"p11-u037","order":37,"region":"left","role":"body"}
 廿二日戊辰木閉虛晝五十七刻夜四十三刻移徙冠笄修造祭祀祈福起染合帳結網安葬
 
-@@UNIT {"codepoints":12,"column_label":"廿三日","id":"p11-u038","order":38,"region":"left","role":"body"}
-廿三日己巳木建危凡事不吉
-
-@@UNIT {"codepoints":2,"column_label":"左半面廿四日上方第1小欄","id":"p11-u039","order":39,"region":"left","role":"paratext"}
+@@UNIT {"codepoints":2,"column_label":"左半面廿三日上方小欄","id":"p11-u039","order":38,"region":"left","role":"paratext"}
 下弦
+
+@@UNIT {"codepoints":12,"column_label":"廿三日","id":"p11-u038","order":39,"region":"left","role":"body"}
+廿三日己巳木建危凡事不吉
 
 @@UNIT {"codepoints":3,"column_label":"左半面廿四日上方第2小欄","id":"p11-u040","order":40,"region":"left","role":"paratext"}
 太陽辰
 
 @@UNIT {"codepoints":35,"column_label":"廿四日","id":"p11-u041","order":41,"region":"left","role":"body"}
-廿四日庚午土除室青龍黃道月德上吉宜上官赴任竪造上樑求嗣掃舍冠笄安床剃髮
+廿四日庚午土除室青龍黃道月德上吉宜上官赴任竪造上樑求嗣掃舍冠笄安床剃長
 
 @@UNIT {"codepoints":23,"column_label":"廿五日","id":"p11-u042","order":42,"region":"left","role":"body"}
 廿五日辛未土滿壁天富益后宜安產室進人口不宜余事
 
-@@UNIT {"codepoints":19,"column_label":"廿六日","id":"p11-u043","order":43,"region":"left","role":"body"}
-廿六日壬申金平奎六合神在宜沐浴不宜余事
+@@UNIT {"codepoints":21,"column_label":"廿六日","id":"p11-u043","order":43,"region":"left","role":"body"}
+廿六日壬申金平奎六合神在宜泥□沐浴不宜余事
 
 @@UNIT {"codepoints":30,"column_label":"廿七日","id":"p11-u044","order":44,"region":"left","role":"body"}
-廿七日癸酉金定婁要安神在宜祭祀解除冠帶剃髮破土沐浴安碓磨納畜
+廿七日癸酉金定婁要安神在宜祭祀解除冠帶剃長破土沐浴安碓磨納畜
 
 @@UNIT {"codepoints":34,"column_label":"廿八日","id":"p11-u045","order":45,"region":"left","role":"body"}
-廿八日甲戌火執胃金匱神在不將宜結婚嫁娶安床設帳進人口給酒捕捉修築動土
+廿八日甲戌火執胃金匱神在不將宜結纓嫁娶安床設帳進人口給由捕捉修築動土
 
-@@UNIT {"codepoints":22,"column_label":"廿九日","id":"p11-u046","order":46,"region":"left","role":"body"}
-廿九日乙亥火破昴天兵月德合宜破屋壞垣不宜余事
+@@UNIT {"codepoints":21,"column_label":"廿九日","id":"p11-u046","order":46,"region":"left","role":"body"}
+□日乙亥火破昴天□月德合宜破屋壞垣不宜餘事
 
 @@PAGE {"canvas_index":12,"kind":"calendar","printed_label":null}
 @@UNIT {"codepoints":3,"column_label":"右半面月題右欄","id":"p12-u001","order":1,"region":"right","role":"heading"}
@@ -2109,16 +2112,16 @@
 胎神門堂
 
 @@UNIT {"codepoints":27,"column_label":"右半面月題下細字第1欄","id":"p12-u004","order":4,"region":"right","role":"paratext"}
-初五日辛巳未正三刻清明三月節天道北行宜修造北方天煞在午
+初五日辛巳未正三刻清明三月節天道北行宜修造地方天德在壬
 
 @@UNIT {"codepoints":26,"column_label":"右半面月題下細字第2欄","id":"p12-u005","order":5,"region":"right","role":"paratext"}
-月厭在申月煞在未月德在壬月合在丁月空在丙子己上宜修造
+月厭在申月煞在未月德在壬月合在丁月空在丙□壬上宜修造
 
 @@UNIT {"codepoints":24,"column_label":"右半面月題下細字第3欄","id":"p12-u006","order":6,"region":"right","role":"paratext"}
 取土是月也桐始華田鼠為鴽虹始見萍始生鳴鳩拂其羽戴
 
 @@UNIT {"codepoints":26,"column_label":"右半面月題下細字第4欄","id":"p12-u007","order":7,"region":"right","role":"paratext"}
-勝降于桑二十日丙申戌正初刻後日躔大梁之次宜祭乙丁辛時
+勝降于桑二十日丙申戌正初刻後日躔大梁之次宜癸乙丁辛時
 
 @@UNIT {"codepoints":3,"column_label":"右半面月題下細字下格第1欄","id":"p12-u008","order":8,"region":"right","role":"table"}
 白黑白
@@ -2133,7 +2136,7 @@
 初一日丁丑水開奎天倉生氣不將宜上官結婚嫁娶移徙入學下定修造動土竪柱出行
 
 @@UNIT {"codepoints":35,"column_label":"初二日","id":"p12-u012","order":12,"region":"right","role":"body"}
-初二日戊寅土閉胃青龍吉慶宜冠笄立券交易修築伐木起工竪造安床修廚造牛欄棚
+初二日戊寅土閉胃青龍吉慶宜冠笄立券交易修築伐木起工竪造安床修□造牛欄棚
 
 @@UNIT {"codepoints":27,"column_label":"初三日","id":"p12-u013","order":13,"region":"right","role":"body"}
 初三日己卯土建昴傳星神在宜出行祭祀求婚起染祈福不宜余事
@@ -2142,19 +2145,19 @@
 初四日庚辰金除畢凡事不吉
 
 @@UNIT {"codepoints":3,"column_label":"右半面初五日上方第1小欄","id":"p12-u015","order":15,"region":"right","role":"paratext"}
-天帝巳
+天帝乙
 
-@@UNIT {"codepoints":3,"column_label":"右半面初五日上方第2小欄","id":"p12-u016","order":16,"region":"right","role":"paratext"}
+@@UNIT {"codepoints":39,"column_label":"初五日","id":"p12-u017","order":16,"region":"right","role":"body"}
+初五日辛巳金除觜清明未正三刻日出卯初二刻日入酉正二刻宜會親納采開市除服治病解除
+
+@@UNIT {"codepoints":3,"column_label":"右半面初六日上方小欄","id":"p12-u016","order":17,"region":"right","role":"paratext"}
 太陽戌
 
-@@UNIT {"codepoints":39,"column_label":"初五日","id":"p12-u017","order":17,"region":"right","role":"body"}
-初五日辛巳金除觜清明未正三刻日出卯初二刻日入酉正二刻宜會親和合開市除服治病解除
-
-@@UNIT {"codepoints":35,"column_label":"初六日","id":"p12-u018","order":18,"region":"right","role":"body"}
-初六日壬午木滿參晝五十刻夜四十刻宜開市交易會親入倉開庫裁衣剃頭破土安塟
+@@UNIT {"codepoints":37,"column_label":"初六日","id":"p12-u018","order":18,"region":"right","role":"body"}
+初六日壬午木滿參晝五十二刻夜四十八刻宜開市交易會親入倉開庫裁衣剃頭破土安塟
 
 @@UNIT {"codepoints":25,"column_label":"初七日","id":"p12-u019","order":19,"region":"right","role":"body"}
-初七日癸未木平井天恩福星宜平治道塗修路□裝不宜余事
+初七日癸未木平井天□□星宜平治道塗修路□□不宜余事
 
 @@UNIT {"codepoints":35,"column_label":"初八日","id":"p12-u020","order":20,"region":"right","role":"body"}
 初八日甲申水定鬼曲星神在宜修造竪柱上樑求嗣蓋屋祀灶起工伐木入學裁衣安碓
@@ -2163,7 +2166,7 @@
 上弦
 
 @@UNIT {"codepoints":32,"column_label":"初九日","id":"p12-u022","order":22,"region":"right","role":"body"}
-初九日乙酉水執柳四護神在宜上官赴任養蠶受封設齋安香火剃頭捕捉祈福
+初九日乙酉水執柳□護神在宜上官赴任襲爵受封設齋安香火剃頭捕捉祈福
 
 @@UNIT {"codepoints":23,"column_label":"初十日","id":"p12-u023","order":23,"region":"right","role":"body"}
 初十日丙戌土破星福星神在宜祭祀針灸治病破屋壞垣
@@ -2172,40 +2175,40 @@
 十一日丁亥土危張凡事不吉
 
 @@UNIT {"codepoints":35,"column_label":"十二日","id":"p12-u025","order":25,"region":"right","role":"body"}
-十二日戊子火成翼天喜母倉三合宜結婚修造動土竪造上樑安床天井會親蓋室剃髮
+十二日戊子火成翼天喜母倉三合宜結婚修造動土竪造上樑安床天井會親蓋室剃長
 
 @@UNIT {"codepoints":21,"column_label":"十三日","id":"p12-u026","order":26,"region":"right","role":"body"}
-十三日己丑火收軫益后神在宜捕捉取魚不宜余事
+十三日己丑火收軫益后神在宜捕捉取魚不宜餘事
 
 @@UNIT {"codepoints":31,"column_label":"十四日","id":"p12-u027","order":27,"region":"left","role":"body"}
-十四日庚寅木開角天福續世宜上官赴任養蠶受封會親下定穿井治病安塟
+十四日庚寅木開角天福續世宜上官赴任襲爵受封會親下定穿井治病安塟
 
-@@UNIT {"codepoints":1,"column_label":"左半面十五日上方小欄","id":"p12-u028","order":28,"region":"left","role":"paratext"}
+@@UNIT {"codepoints":34,"column_label":"十五日","id":"p12-u029","order":28,"region":"left","role":"body"}
+十五日辛卯木閉亢天醫神在宜祭祀入倉開庫立券交易破土放債栽種造欄枋羊棧
+
+@@UNIT {"codepoints":1,"column_label":"左半面十六日上方小欄","id":"p12-u028","order":29,"region":"left","role":"paratext"}
 望
 
-@@UNIT {"codepoints":34,"column_label":"十五日","id":"p12-u029","order":29,"region":"left","role":"body"}
-十五日辛卯木閉亢天醫神在宜祭祀入倉開庫立券交易破土畋獵栽種造欄枋羊棧
-
-@@UNIT {"codepoints":30,"column_label":"十六日","id":"p12-u030","order":30,"region":"left","role":"body"}
-十六日壬辰水建氐天德月德鎖星宜出行交易裁衣泥飾舍宇上官□穿井
+@@UNIT {"codepoints":31,"column_label":"十六日","id":"p12-u030","order":30,"region":"left","role":"body"}
+十六日壬辰水建氐天德月德顯星宜出行交易裁衣泥飾舍宇上官針灸穿井
 
 @@UNIT {"codepoints":33,"column_label":"十七日","id":"p12-u031","order":31,"region":"left","role":"body"}
-十七日癸巳水除房天福曲星宜養蠶受封求婚修造動土開市剃頭分居除服解冠
+十七日癸巳水除房天福曲星宜襲爵受封求婚修造動土開市剃頭分居除服解冠
 
-@@UNIT {"codepoints":37,"column_label":"十八日","id":"p12-u032","order":32,"region":"left","role":"body"}
-十八日甲午金滿心天富母倉神在宜會親整浴經絡破土啟攢剃髮開市修造倉庫不宜余事
+@@UNIT {"codepoints":33,"column_label":"十八日","id":"p12-u032","order":32,"region":"left","role":"body"}
+十八日甲午金滿心天富母倉神在宜會親整容經絡破土啟攢剃長開市修造倉庫
 
 @@UNIT {"codepoints":24,"column_label":"十九日","id":"p12-u033","order":33,"region":"left","role":"body"}
-十九日乙未金平尾活曜星神在宜祭祀沐浴治灸不宜余事
+十九日乙未金平尾活曜星神在宜祭祀沐浴治路不宜余事
 
 @@UNIT {"codepoints":3,"column_label":"左半面二十日上方第1小欄","id":"p12-u034","order":34,"region":"left","role":"paratext"}
 天帝辰
 
-@@UNIT {"codepoints":3,"column_label":"左半面二十日上方第2小欄","id":"p12-u035","order":35,"region":"left","role":"paratext"}
-太陽辛
+@@UNIT {"codepoints":40,"column_label":"二十日","id":"p12-u036","order":35,"region":"left","role":"body"}
+二十日丙申火定箕谷雨戌正初刻日出卯正二刻日入酉正二刻宜入學進人口祭祀解除竪造安碓
 
-@@UNIT {"codepoints":40,"column_label":"二十日","id":"p12-u036","order":36,"region":"left","role":"body"}
-二十日丙申火定箕穀雨戌正初刻日出卯正二刻日入酉正二刻宜入學進人口祭祀解除竪造安碓
+@@UNIT {"codepoints":3,"column_label":"左半面廿一日上方小欄","id":"p12-u035","order":36,"region":"left","role":"paratext"}
+太陽辛
 
 @@UNIT {"codepoints":37,"column_label":"廿一日","id":"p12-u037","order":37,"region":"left","role":"body"}
 廿一日丁酉火執斗天月德合神在宜上官赴任修造動土出火入宅移居祈福安神解除捕捉
@@ -2213,32 +2216,32 @@
 @@UNIT {"codepoints":27,"column_label":"廿二日","id":"p12-u038","order":38,"region":"left","role":"body"}
 廿二日戊戌木破牛晝五十四刻夜四十六刻宜破屋壞垣不宜余事
 
-@@UNIT {"codepoints":12,"column_label":"廿三日","id":"p12-u039","order":39,"region":"left","role":"body"}
-廿三日己亥木危女凡事不吉
-
-@@UNIT {"codepoints":2,"column_label":"左半面廿四日上方小欄","id":"p12-u040","order":40,"region":"left","role":"paratext"}
+@@UNIT {"codepoints":2,"column_label":"左半面廿三日上方小欄","id":"p12-u040","order":39,"region":"left","role":"paratext"}
 下弦
 
+@@UNIT {"codepoints":12,"column_label":"廿三日","id":"p12-u039","order":40,"region":"left","role":"body"}
+廿三日己亥木危女凡事不吉
+
 @@UNIT {"codepoints":35,"column_label":"廿四日","id":"p12-u041","order":41,"region":"left","role":"body"}
-廿四日庚子土成虛母倉天喜宜入學□由修造竪造上樑安床蓋屋冠笄作灶求婚安碓
+廿四日庚子土成虛母倉天喜宜入學給由修造竪造上樑安床蓋屋冠笄作灶求婚安碓
 
 @@UNIT {"codepoints":21,"column_label":"廿五日","id":"p12-u042","order":42,"region":"left","role":"body"}
-廿五日辛丑土收危明星益后宜捕捉取魚不宜余事
+廿五日辛丑土收危明星益後宜捕捉取魚不宜餘事
 
 @@UNIT {"codepoints":33,"column_label":"廿六日","id":"p12-u043","order":43,"region":"left","role":"body"}
-廿六日壬寅金開室天德月德曲星宜上官赴任養蠶受封冠笄會親施恩拜封穿井
+廿六日壬寅金開室天德月德曲星宜上官赴任襲爵受封冠笄會親施恩拜封穿井
 
 @@UNIT {"codepoints":29,"column_label":"廿七日","id":"p12-u044","order":44,"region":"left","role":"body"}
-廿七日癸卯金閉壁天醫要安宜祭祀交易破土啟攢安床不宜結婚出行
+廿七日癸卯金閉壁天醫要安宜立券交易破土啟攢安床不宜結婚出行
 
 @@UNIT {"codepoints":25,"column_label":"廿八日","id":"p12-u045","order":45,"region":"left","role":"body"}
-廿八日甲辰火建奎福德上吉宜沐浴給□出行安門不宜余事
+廿八日甲辰火建奎福德上吉宜泥飾舍宇出行穿井不宜余事
 
 @@UNIT {"codepoints":35,"column_label":"廿九日","id":"p12-u046","order":46,"region":"left","role":"body"}
-廿九日乙巳火除婁天福傅星宜冠帶會親祭祀分居入宅□剃安床開市移徙求財竪造
+廿九日乙巳火除婁天福□星宜冠帶會親祭祀分居入宅破剃安床開市移徙求財造□
 
 @@UNIT {"codepoints":31,"column_label":"三十日","id":"p12-u047","order":47,"region":"left","role":"body"}
-三十日丙午水滿胃天富母倉神在宜移徙出行剃髮修舍動土開市破土安塟
+三十日丙午水滿胃天富母倉神在宜移徙出行剃長修舍動土開市破土安塟
 
 @@PAGE {"canvas_index":13,"kind":"calendar","printed_label":null}
 @@UNIT {"codepoints":3,"column_label":"右半面月題右欄","id":"p13-u001","order":1,"region":"right","role":"heading"}
@@ -2250,17 +2253,17 @@
 @@UNIT {"codepoints":4,"column_label":"右半面月題下橫欄","id":"p13-u003","order":3,"region":"right","role":"heading"}
 胎神戶窓
 
-@@UNIT {"codepoints":26,"column_label":"右半面月題下細字第1欄","id":"p13-u004","order":4,"region":"right","role":"paratext"}
-初四日辛亥寅正初刻驚蟄二月節天道□行宜修造□方天煞在
+@@UNIT {"codepoints":28,"column_label":"右半面月題下細字第1欄","id":"p13-u004","order":4,"region":"right","role":"paratext"}
+初四日辛亥寅正一刻京直二月節天道西南行宜修造西南維天瘟在
 
 @@UNIT {"codepoints":26,"column_label":"右半面月題下細字第2欄","id":"p13-u005","order":5,"region":"right","role":"paratext"}
-申月厭在酉月煞在戌月德在甲月合在己月空在庚□己與丁同
+申月厭在酉月□在戌月德在甲月合在己月空在庚甲己與丁同
 
 @@UNIT {"codepoints":24,"column_label":"右半面月題下細字第3欄","id":"p13-u006","order":6,"region":"right","role":"paratext"}
 修造取土是月也桃始華倉庚鳴玄鳥至鷹化鳩雷始發聲天
 
 @@UNIT {"codepoints":25,"column_label":"右半面月題下細字第4欄","id":"p13-u007","order":7,"region":"right","role":"paratext"}
-始電十九日丙戌巳初二刻後日躔降婁之次宜用艮巽坤乾時
+始電十九日丙□巳初二刻后日躔降婁之次宜用艮巽坤乾時
 
 @@UNIT {"codepoints":3,"column_label":"右半面月題下細字下格第1欄","id":"p13-u008","order":8,"region":"right","role":"table"}
 赤碧黑
@@ -2272,52 +2275,52 @@
 紫白綠
 
 @@UNIT {"codepoints":27,"column_label":"初一日","id":"p13-u011","order":11,"region":"right","role":"body"}
-初一日戊申土破奎明星四護神在宜祭祀治病破屋壞垣不宜余事
+初一日戊申土破奎明星普護神在宜祭祀治病破屋壞垣不宜余事
 
-@@UNIT {"codepoints":36,"column_label":"初二日","id":"p13-u012","order":12,"region":"right","role":"body"}
-初二日己酉土危婁天恩吉慶福生神在宜竪造安床祭祀祈福破土安塟剃髮接解除設齋
+@@UNIT {"codepoints":37,"column_label":"初二日","id":"p13-u012","order":12,"region":"right","role":"body"}
+初二日己酉土危婁天恩吉慶福生神在宜竪造安床祭祀祈福破土安塟剃髮栽接解除設齋
 
 @@UNIT {"codepoints":12,"column_label":"初三日","id":"p13-u013","order":13,"region":"right","role":"body"}
 初三日庚戌金成胃凡事不吉
 
-@@UNIT {"codepoints":3,"column_label":"右半面初四日上方第1小欄","id":"p13-u014","order":14,"region":"right","role":"paratext"}
+@@UNIT {"codepoints":3,"column_label":"右半面初四日上方小欄","id":"p13-u014","order":14,"region":"right","role":"paratext"}
 天帝甲
 
-@@UNIT {"codepoints":3,"column_label":"右半面初四日上方第2小欄","id":"p13-u015","order":15,"region":"right","role":"paratext"}
+@@UNIT {"codepoints":39,"column_label":"初四日","id":"p13-u016","order":15,"region":"right","role":"body"}
+初四日辛亥金成昴京直寅正初刻日出卯正二刻日入酉初三刻宜竪造上樑結婚行船修造動土
+
+@@UNIT {"codepoints":3,"column_label":"右半面初五日上方小欄","id":"p13-u015","order":16,"region":"right","role":"paratext"}
 太陽亥
 
-@@UNIT {"codepoints":39,"column_label":"初四日","id":"p13-u016","order":16,"region":"right","role":"body"}
-初四日辛亥金成昴驚蟄寅正初刻日出卯正二刻日入酉初二刻宜竪造上樑結婚行船修造動土
-
 @@UNIT {"codepoints":36,"column_label":"初五日","id":"p13-u017","order":17,"region":"right","role":"body"}
-初五日壬子木收畢晝四十八刻夜五十二刻天恩曲星宜進人口收納財貨剃髮針灸捕捉
+初五日壬子木收畢晝四十八刻夜五十二刻天恩曲星宜進人口收納財貨剃長針灸捕捉
 
 @@UNIT {"codepoints":36,"column_label":"初六日","id":"p13-u018","order":18,"region":"right","role":"body"}
 初六日癸丑木開觜天恩敬心生氣宜入學出行結婚出火作灶竪造起染進人口起工定磉
 
 @@UNIT {"codepoints":35,"column_label":"初七日","id":"p13-u019","order":19,"region":"right","role":"body"}
-初七日甲寅水開參天醫吉慶青龍黃道宜入學求婚立券交易冠帶動土起工造門安床
+初七日甲寅水閉參天醫吉慶青龍黃道宜入學求婚立券交易冠帶動土起工造門安床
 
-@@UNIT {"codepoints":29,"column_label":"初八日","id":"p13-u020","order":20,"region":"right","role":"body"}
-初八日乙卯水建井福星傅星神在宜出行交易祭祀□封納奴裁衣穿牛
-
-@@UNIT {"codepoints":2,"column_label":"右半面初九日上方小欄","id":"p13-u021","order":21,"region":"right","role":"paratext"}
+@@UNIT {"codepoints":2,"column_label":"右半面初八日上方小欄","id":"p13-u021","order":20,"region":"right","role":"paratext"}
 上弦
+
+@@UNIT {"codepoints":29,"column_label":"初八日","id":"p13-u020","order":21,"region":"right","role":"body"}
+初八日乙卯水建井福星□星神在宜出行交易祭祀策封納奴裁衣穿牛
 
 @@UNIT {"codepoints":12,"column_label":"初九日","id":"p13-u022","order":22,"region":"right","role":"body"}
 初九日丙辰土除鬼凡事不宜
 
 @@UNIT {"codepoints":29,"column_label":"初十日","id":"p13-u023","order":23,"region":"right","role":"body"}
-初十日丁巳土滿柳天富神在宜冠笄受封移徙開市經絡裁衣牧養裁接
+初十日丁巳土滿柳天富神在宜冠笄受封移徙開市經絡裁衣牧養栽接
 
 @@UNIT {"codepoints":24,"column_label":"十一日","id":"p13-u024","order":24,"region":"right","role":"body"}
 十一日戊午火平星金櫃益后神在宜祭祀修產室泥墻平路
 
-@@UNIT {"codepoints":37,"column_label":"十二日","id":"p13-u025","order":25,"region":"right","role":"body"}
-十二日己未火定張續世神在宜上官出行祭祀結婚竪造上樑修造動土設齋入宅不宜余事
+@@UNIT {"codepoints":33,"column_label":"十二日","id":"p13-u025","order":25,"region":"right","role":"body"}
+十二日己未火定張續世神在宜上官出行祭祀結婚竪造上樑修造動土設齋入宅
 
-@@UNIT {"codepoints":21,"column_label":"十三日","id":"p13-u026","order":26,"region":"right","role":"body"}
-十三日庚申木執翼天德宜成服破土安塟捕捉畋獵
+@@UNIT {"codepoints":27,"column_label":"十三日","id":"p13-u026","order":26,"region":"right","role":"body"}
+十三日庚申木執翼顯星天德宜成服破土安塟捕捉畋獵不宜余事
 
 @@UNIT {"codepoints":23,"column_label":"十四日","id":"p13-u027","order":27,"region":"left","role":"body"}
 十四日辛酉木破軫曲星神在宜治病破屋壞垣不宜余事
@@ -2326,46 +2329,46 @@
 望
 
 @@UNIT {"codepoints":32,"column_label":"十五日","id":"p13-u029","order":29,"region":"left","role":"body"}
-十五日壬戌水危角活曜星三合宜納采問名結婚裁衣動土立券捕捉結網畋獵
+十五日壬戌水危角活曜星天合宜納采問名結婚裁衣動土立券捕捉結網畋獵
 
 @@UNIT {"codepoints":33,"column_label":"十六日","id":"p13-u030","order":30,"region":"left","role":"body"}
-十六日癸亥水成亢天喜母倉神在宜祭祀納財起染入倉開庫祀灶穿井治病安塟
+十六日癸亥水成亢天喜母倉神在宜祭祀納財起染入□開庫祀灶穿井治病安塟
 
-@@UNIT {"codepoints":25,"column_label":"十七日","id":"p13-u031","order":31,"region":"left","role":"body"}
-十七日甲子金收氐母倉神在宜祭祀納財捕捉剃髮不宜余事
+@@UNIT {"codepoints":26,"column_label":"十七日","id":"p13-u031","order":31,"region":"left","role":"body"}
+十七日甲子金收氐母倉神在宜祭祀收歛貨捕捉剃長不宜余事
 
 @@UNIT {"codepoints":33,"column_label":"十八日","id":"p13-u032","order":32,"region":"left","role":"body"}
 十八日乙丑金開房生氣不將神在宜上官赴任結婚嫁娶修造動土作灶入宅出火
 
-@@UNIT {"codepoints":3,"column_label":"左半面十九日上方第1小欄","id":"p13-u033","order":33,"region":"left","role":"paratext"}
+@@UNIT {"codepoints":3,"column_label":"左半面十九日上方小欄","id":"p13-u033","order":33,"region":"left","role":"paratext"}
 天帝卯
 
-@@UNIT {"codepoints":3,"column_label":"左半面十九日上方第2小欄","id":"p13-u034","order":34,"region":"left","role":"paratext"}
-太陽乾
-
-@@UNIT {"codepoints":2,"column_label":"左半面十九日上方第3小欄","id":"p13-u035","order":35,"region":"left","role":"paratext"}
-春社
-
-@@UNIT {"codepoints":37,"column_label":"十九日","id":"p13-u036","order":36,"region":"left","role":"body"}
+@@UNIT {"codepoints":37,"column_label":"十九日","id":"p13-u036","order":34,"region":"left","role":"body"}
 十九日丙寅火閉心春分巳初二刻日出卯初三刻日入酉正初刻宜竪造上樑安床求財冠笄
 
-@@UNIT {"codepoints":27,"column_label":"二十日","id":"p13-u037","order":37,"region":"left","role":"body"}
+@@UNIT {"codepoints":3,"column_label":"左半面二十日上方小欄","id":"p13-u034","order":35,"region":"left","role":"paratext"}
+太陽乾
+
+@@UNIT {"codepoints":27,"column_label":"二十日","id":"p13-u037","order":36,"region":"left","role":"body"}
 二十日丁卯火建尾晝五十刻夜五十刻宜冠笄祭祀出行受封起染
+
+@@UNIT {"codepoints":2,"column_label":"左半面廿一日上方小欄","id":"p13-u035","order":37,"region":"left","role":"paratext"}
+春社
 
 @@UNIT {"codepoints":12,"column_label":"廿一日","id":"p13-u038","order":38,"region":"left","role":"body"}
 廿一日戊辰木除箕凡事不吉
 
 @@UNIT {"codepoints":33,"column_label":"廿二日","id":"p13-u039","order":39,"region":"left","role":"body"}
-廿二日己巳木滿斗天富聖心宜結婚受封開市入倉開庫起工裁衣剃髮□開虎時
+廿二日己巳木滿斗天富聖心宜結婚受封開市造倉厨起工裁衣剃長移徙開店肆
 
 @@UNIT {"codepoints":2,"column_label":"左半面廿三日上方小欄","id":"p13-u040","order":40,"region":"left","role":"paratext"}
 下弦
 
-@@UNIT {"codepoints":22,"column_label":"廿三日","id":"p13-u041","order":41,"region":"left","role":"body"}
-廿三日庚午土平牛傅星益后宜修造置產室破土□草
+@@UNIT {"codepoints":26,"column_label":"廿三日","id":"p13-u041","order":41,"region":"left","role":"body"}
+廿三日庚午土平牛□星益后宜修造置產□破土□草不宜余事
 
 @@UNIT {"codepoints":33,"column_label":"廿四日","id":"p13-u042","order":42,"region":"left","role":"body"}
-廿四日辛未土定女福德神在宜入學祭祀冠帶求婚結婚竪造上樑入倉作灶安塟
+廿四日辛未土定女□德神在宜入學祭祀冠帶求婚結婚竪造上樑入□作灶安塟
 
 @@UNIT {"codepoints":27,"column_label":"廿五日","id":"p13-u043","order":43,"region":"left","role":"body"}
 廿五日壬申金執虛天德神在宜祭祀解除破土安塟給由冠笄剃頭
@@ -2374,13 +2377,13 @@
 廿六日癸酉金破危黃道神在宜治病破屋壞垣不宜余事
 
 @@UNIT {"codepoints":33,"column_label":"廿七日","id":"p13-u045","order":45,"region":"left","role":"body"}
-廿七日甲戌火危室金匱上吉六合宜入學□衣結婚安床祈福安神上官捕漁畋獵
+廿七日甲戌火危室金匱上吉六合宜入學裁衣結婚安床祈福安神上官捕漁畋獵
 
 @@UNIT {"codepoints":33,"column_label":"廿八日","id":"p13-u046","order":46,"region":"left","role":"body"}
-廿八日乙亥火成壁天喜煞星三合宜竪造上樑入宅出火祀灶穿井修造動土裁接
+廿八日乙亥火成壁天喜顯星三合宜竪造上樑入宅出火祀灶穿井修造動土栽接
 
 @@UNIT {"codepoints":28,"column_label":"廿九日","id":"p13-u047","order":47,"region":"left","role":"body"}
-廿九日丙子水收奎曲星母倉不將宜嫁娶收斂貨物進人口針灸捕捉
+廿九日丙子水收奎曲星母倉不將宜嫁娶收歛貨物進人口針灸捕捉
 
 @@PAGE {"canvas_index":14,"kind":"calendar","printed_label":null}
 @@UNIT {"codepoints":3,"column_label":"右半面月題右欄","id":"p14-u001","order":1,"region":"right","role":"heading"}
@@ -2390,19 +2393,19 @@
 建壬寅
 
 @@UNIT {"codepoints":4,"column_label":"右半面月題下橫欄","id":"p14-u003","order":3,"region":"right","role":"heading"}
-胎神房床
+胎神床房
 
 @@UNIT {"codepoints":26,"column_label":"右半面月題下細字第1欄","id":"p14-u004","order":4,"region":"right","role":"paratext"}
 初三日庚辰酉初三刻立春正月節天道南行宜修造南方天德在
 
 @@UNIT {"codepoints":25,"column_label":"右半面月題下細字第2欄","id":"p14-u005","order":5,"region":"right","role":"paratext"}
-丁月厭在戌月煞在丑月德在丙月合在辛月空在壬丙辛上宜
+丁月厭在戌月□在丑月德在丙月合在辛月空在壬丙□上宜
 
 @@UNIT {"codepoints":27,"column_label":"右半面月題下細字第3欄","id":"p14-u006","order":6,"region":"right","role":"paratext"}
-修造取土是月也東風解凍蟄蟲始振魚陟負冰獺祭魚候□北草木
+修造取土是月也東風解凍蟄虫始振魚陟負冰獺祭魚候鴈北草木
 
 @@UNIT {"codepoints":26,"column_label":"右半面月題下細字第4欄","id":"p14-u007","order":7,"region":"right","role":"paratext"}
-萌動十八日乙未夜子初一刻後日躔娵訾之次宜用甲丙庚壬時
+萌動十八日乙未夜子初□刻後日躔娵訾之次宜用甲丙庚壬時
 
 @@UNIT {"codepoints":3,"column_label":"右半面月題下細字下格第1欄","id":"p14-u008","order":8,"region":"right","role":"table"}
 白綠碧
@@ -2414,34 +2417,34 @@
 白紫黃
 
 @@UNIT {"codepoints":35,"column_label":"初一日","id":"p14-u011","order":11,"region":"right","role":"body"}
-初一日戊寅土除斗天瑞不將宜□時祈福求嗣嫁娶大婚冠笄修造起工蓋屋裁衣□剃
+初一日戊寅土除室天瑞不將宜襲□祈福求嗣嫁娶大婚冠笄修造起工蓋屋裁衣披剃
 
 @@UNIT {"codepoints":27,"column_label":"初二日","id":"p14-u012","order":12,"region":"right","role":"body"}
 初二日己卯土滿壁天恩神在宜會親嫁娶開市求婚裁衣交易給由
 
-@@UNIT {"codepoints":3,"column_label":"右半面初三日上方第1小欄","id":"p14-u013","order":13,"region":"right","role":"paratext"}
+@@UNIT {"codepoints":3,"column_label":"右半面初三日上方小欄","id":"p14-u013","order":13,"region":"right","role":"paratext"}
 天帝艮
 
-@@UNIT {"codepoints":3,"column_label":"右半面初三日上方第2小欄","id":"p14-u014","order":14,"region":"right","role":"paratext"}
+@@UNIT {"codepoints":36,"column_label":"初三日","id":"p14-u015","order":14,"region":"right","role":"body"}
+初三日庚辰金滿奎立春酉初三刻日出卯正三刻日入酉初一刻宜求醫會親友結網取漁
+
+@@UNIT {"codepoints":3,"column_label":"右半面初四日上方小欄","id":"p14-u014","order":15,"region":"right","role":"paratext"}
 太陽子
 
-@@UNIT {"codepoints":40,"column_label":"初三日","id":"p14-u015","order":15,"region":"right","role":"body"}
-初三日庚辰金滿奎立春酉初三刻日出卯正三刻日入酉初一刻宜求醫會親友結網取魚不宜余事
-
-@@UNIT {"codepoints":23,"column_label":"初四日","id":"p14-u016","order":16,"region":"right","role":"body"}
-初四日辛巳金平婁晝四十六刻夜五十四刻宜平治道塗
+@@UNIT {"codepoints":27,"column_label":"初四日","id":"p14-u016","order":16,"region":"right","role":"body"}
+初四日辛巳金平婁晝四十六刻夜五十四刻宜平治道塗不宜余事
 
 @@UNIT {"codepoints":34,"column_label":"初五日","id":"p14-u017","order":17,"region":"right","role":"body"}
 初五日壬午木定胃天德合神在宜上官赴任冠笄結婚出行祈福行船修造動土斬草
 
-@@UNIT {"codepoints":32,"column_label":"初六日","id":"p14-u018","order":18,"region":"right","role":"body"}
-初六日癸未木執昴天恩明星宜入學出行給由上官結婚會親友牧養不宜余事
+@@UNIT {"codepoints":28,"column_label":"初六日","id":"p14-u018","order":18,"region":"right","role":"body"}
+初六日癸未木執昴天恩明星宜入學出行給由上官結婚會親友牧養
 
-@@UNIT {"codepoints":19,"column_label":"初七日","id":"p14-u019","order":19,"region":"right","role":"body"}
-初七日甲申水破畢普護神在宜治病破屋壞垣
+@@UNIT {"codepoints":23,"column_label":"初七日","id":"p14-u019","order":19,"region":"right","role":"body"}
+初七日甲申水破畢普護神在宜治病破屋壞垣不宜余事
 
-@@UNIT {"codepoints":39,"column_label":"初八日","id":"p14-u020","order":20,"region":"right","role":"body"}
-初八日乙酉水危觜福星顯星宜祈福祭祀解除安床剃頭沐浴結網出行竪造成服安塟不宜余事
+@@UNIT {"codepoints":35,"column_label":"初八日","id":"p14-u020","order":20,"region":"right","role":"body"}
+初八日乙酉水危觜福星顯星宜祈福祭祀解除安床剃頭沐浴結網出行竪造成服安塟
 
 @@UNIT {"codepoints":1,"column_label":"右半面初九日上方小欄","id":"p14-u021","order":21,"region":"right","role":"paratext"}
 □
@@ -2452,23 +2455,23 @@
 @@UNIT {"codepoints":25,"column_label":"初十日","id":"p14-u023","order":23,"region":"right","role":"body"}
 初十日丁亥土收井天德六合宜納財祭祀整容捕捉結網栽種
 
-@@UNIT {"codepoints":36,"column_label":"十一日","id":"p14-u024","order":24,"region":"right","role":"body"}
-十一日戊子火開鬼生氣益后宜入學出財求婚下定求醫會親友剃頭修築牧養不宜余事
+@@UNIT {"codepoints":32,"column_label":"十一日","id":"p14-u024","order":24,"region":"right","role":"body"}
+十一日戊子火開鬼生氣益后宜入學出財求婚下定求醫會親友剃頭修築牧養
 
 @@UNIT {"codepoints":29,"column_label":"十二日","id":"p14-u025","order":25,"region":"right","role":"body"}
-十二日己丑火閉柳天厄神在宜祭祀給由求嗣作灶塞穴補垣不宜余事
+十二日己丑火閉柳天□神在宜祭祀給由求嗣作灶塞穴補垣不宜余事
 
-@@UNIT {"codepoints":19,"column_label":"十三日","id":"p14-u026","order":26,"region":"right","role":"body"}
-十三日庚寅木建星天福天瑞宜成服解安宅舍
+@@UNIT {"codepoints":23,"column_label":"十三日","id":"p14-u026","order":26,"region":"right","role":"body"}
+十三日庚寅木建星天福天瑞宜成服解安宅舍不宜余事
 
-@@UNIT {"codepoints":38,"column_label":"十四日","id":"p14-u027","order":27,"region":"left","role":"body"}
-十四日辛卯木除張天福月德合宜受封養蠶剃髮嫁娶修造動土祈福冠笄除靈成服不宜余事
+@@UNIT {"codepoints":34,"column_label":"十四日","id":"p14-u027","order":27,"region":"left","role":"body"}
+十四日辛卯木除張天福月德合宜受封襲爵赴任嫁娶修造動土祈福冠笄除靈成服
 
-@@UNIT {"codepoints":1,"column_label":"左半面十五日上方小欄","id":"p14-u028","order":28,"region":"left","role":"paratext"}
+@@UNIT {"codepoints":26,"column_label":"十五日","id":"p14-u029","order":28,"region":"left","role":"body"}
+十五日壬辰水滿翼天福天德合宜上官剃頭牧養針灸不宜余事
+
+@@UNIT {"codepoints":1,"column_label":"左半面十六日上方小欄","id":"p14-u028","order":29,"region":"left","role":"paratext"}
 □
-
-@@UNIT {"codepoints":26,"column_label":"十五日","id":"p14-u029","order":29,"region":"left","role":"body"}
-十五日壬辰水滿翼天富天德合宜上官剃頭收斂針灸不宜余事
 
 @@UNIT {"codepoints":27,"column_label":"十六日","id":"p14-u030","order":30,"region":"left","role":"body"}
 十六日癸巳水平軫天福黃道宜成服泥飾垣墻平治道塗不宜余事
@@ -2476,50 +2479,50 @@
 @@UNIT {"codepoints":35,"column_label":"十七日","id":"p14-u031","order":31,"region":"left","role":"body"}
 十七日甲午金定角顯星神在宜上官赴任入學冠帶結婚竪造上樑修造動土出行會親
 
-@@UNIT {"codepoints":3,"column_label":"左半面十八日上方第1小欄","id":"p14-u032","order":32,"region":"left","role":"paratext"}
+@@UNIT {"codepoints":3,"column_label":"左半面十八日上方小欄","id":"p14-u032","order":32,"region":"left","role":"paratext"}
 天帝寅
 
-@@UNIT {"codepoints":3,"column_label":"左半面十八日上方第2小欄","id":"p14-u033","order":33,"region":"left","role":"paratext"}
+@@UNIT {"codepoints":39,"column_label":"十八日","id":"p14-u034","order":33,"region":"left","role":"body"}
+十八日乙未金執亢雨水夜子初□刻日出卯正二刻日入酉初三刻給由下定嫁娶起工捕捉畋獵
+
+@@UNIT {"codepoints":3,"column_label":"左半面十九日上方小欄","id":"p14-u033","order":34,"region":"left","role":"paratext"}
 太陽壬
 
-@@UNIT {"codepoints":39,"column_label":"十八日","id":"p14-u034","order":34,"region":"left","role":"body"}
-十八日乙未金執亢雨水夜子初一刻日出卯正三刻日入酉初二刻給由下定嫁娶起工捕捉畋獵
+@@UNIT {"codepoints":30,"column_label":"十九日","id":"p14-u035","order":35,"region":"left","role":"body"}
+十九日丙申火破氐晝四十七刻夜五十三刻宜祭祀□破屋壞垣不宜余事
 
-@@UNIT {"codepoints":32,"column_label":"十九日","id":"p14-u035","order":35,"region":"left","role":"body"}
-十九日丙申火破氐晝四十七刻夜五十三刻宜祭祀安床□破屋壞垣不宜余事
-
-@@UNIT {"codepoints":40,"column_label":"二十日","id":"p14-u036","order":36,"region":"left","role":"body"}
-二十日丁酉火危房天德福星宜入學冠笄移居入宅安床定門蓋屋修造動土受封造衣帶不宜余事
+@@UNIT {"codepoints":35,"column_label":"二十日","id":"p14-u036","order":36,"region":"left","role":"body"}
+二十日丁酉火危房天德福星宜入學冠笄□居入宅安床□門蓋屋修造動土拜封襲爵
 
 @@UNIT {"codepoints":12,"column_label":"廿一日","id":"p14-u037","order":37,"region":"left","role":"body"}
 廿一日戊戌木成心凡事不吉
 
 @@UNIT {"codepoints":27,"column_label":"廿二日","id":"p14-u038","order":38,"region":"left","role":"body"}
-廿二日己亥木收尾天福安金宜收斂貨物剃頭捕捉畋獵不宜余事
+廿二日己亥木收尾天福母倉宜收歛貨物剪□捕捉畋獵不宜余事
 
-@@UNIT {"codepoints":2,"column_label":"左半面廿三日上方小欄","id":"p14-u039","order":39,"region":"left","role":"paratext"}
+@@UNIT {"codepoints":33,"column_label":"廿三日","id":"p14-u040","order":39,"region":"left","role":"body"}
+廿三日庚子土開箕天福生氣宜結婚嫁娶入學出行剃長下定交易給由□□牧養
+
+@@UNIT {"codepoints":2,"column_label":"左半面廿四日上方小欄","id":"p14-u039","order":40,"region":"left","role":"paratext"}
 下弦
 
-@@UNIT {"codepoints":33,"column_label":"廿三日","id":"p14-u040","order":40,"region":"left","role":"body"}
-廿三日庚子土開箕天福生氣宜結婚嫁娶入學出行剃髮下定交易給由繫羊牧養
-
 @@UNIT {"codepoints":26,"column_label":"廿四日","id":"p14-u041","order":41,"region":"left","role":"body"}
-廿四日辛丑土閉斗太陽月德合宜捕捉塞穴結網修築不宜余事
+廿四日辛丑土閉斗太陽月德合宜補垣塞穴結網修築不宜余事
 
 @@UNIT {"codepoints":24,"column_label":"廿五日","id":"p14-u042","order":42,"region":"left","role":"body"}
 廿五日壬寅金建牛天德合宜□安宅舍穿井安葬不宜余事
 
-@@UNIT {"codepoints":37,"column_label":"廿六日","id":"p14-u043","order":43,"region":"left","role":"body"}
-廿六日癸卯金除女副星五合神在宜上官赴任修造動土冠笄嫁娶剃髮開庫入倉除服安塟
+@@UNIT {"codepoints":35,"column_label":"廿六日","id":"p14-u043","order":43,"region":"left","role":"body"}
+廿六日癸卯金除女副星五合宜上官赴任修造動土冠笄嫁娶剃長開庫入倉除服安塟
 
 @@UNIT {"codepoints":21,"column_label":"廿七日","id":"p14-u044","order":44,"region":"left","role":"body"}
-廿七日甲辰火滿虛天富曲星宜會親針灸不宜余事
+廿七日甲辰火滿虛天倉曲星宜會親針灸不宜余事
 
 @@UNIT {"codepoints":21,"column_label":"廿八日","id":"p14-u045","order":45,"region":"left","role":"body"}
-廿八日乙巳火平危天德清道宜平治道塗不宜余事
+廿八日乙巳火平危天德黃道宜平治道塗不宜余事
 
-@@UNIT {"codepoints":37,"column_label":"廿九日","id":"p14-u046","order":46,"region":"left","role":"body"}
-廿九日丙午水定室月德上吉宜上官赴任冠帶結婚竪造上樑移徙修造動土安塟不宜余事
+@@UNIT {"codepoints":33,"column_label":"廿九日","id":"p14-u046","order":46,"region":"left","role":"body"}
+廿九日丙午水定室月德上吉宜上官赴任冠帶結婚竪造上樑移徙修造動土安塟
 
 @@UNIT {"codepoints":35,"column_label":"三十日","id":"p14-u047","order":47,"region":"left","role":"body"}
 三十日丁未水執壁天德敬心神在宜結婚入學祭祀移徙會親友捕捉進人口出行畋獵

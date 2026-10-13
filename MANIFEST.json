@@ -1,22 +1,24 @@
 {
   "dataset": "Bodleian Sinica88 original-Chinese transcription",
-  "version": "0.1.1",
-  "stage": "initial-with-partial-source-adjudicated-corrections",
-  "published_doi": null,
-  "initial_version_reserved_unpublished_doi": "10.5281/zenodo.23336201",
+  "version": "0.1.2",
+  "stage": "ai-reviewed-with-unresolved-readings",
+  "version_doi": "10.5281/zenodo.23339992",
+  "concept_doi": "10.5281/zenodo.23336200",
+  "doi_state_at_package_freeze": "reserved-not-yet-published",
+  "initial_version_published_doi": "10.5281/zenodo.23336201",
   "source_manifest_sha256": "2d8aeffada64812f0cc0fd43b406cd0d63788723c6754e92ca2a66b556fd2849",
   "source_images_distributed": false,
   "expert_review": "not-run",
   "files": [
     {
       "name": "CHANGELOG.md",
-      "bytes": 715,
-      "sha256": "a0f66384885fecae5848420826cc6a34ed7080918089f16e44d10d4e0fdcba77"
+      "bytes": 1365,
+      "sha256": "593888ca544c8a31d4ecbb9c534d73baa5e7af97ce6849170bc8d6e12e420210"
     },
     {
       "name": "CITATION.cff",
-      "bytes": 1053,
-      "sha256": "4f81eab13c1f1e5228d67b71d96d3be9d1eff574f65c0b9da5ce1c1438b769f1"
+      "bytes": 1165,
+      "sha256": "94da4d2f82535768f0c76e1dd91512fc95b28ad9cf448b62f3ca852feca79f48"
     },
     {
       "name": "CONTRIBUTING.md",
@@ -35,28 +37,28 @@
     },
     {
       "name": "README.md",
-      "bytes": 5916,
-      "sha256": "ca11fe9eb6e73a2bd6c6a82ef234c802dc717fa0b10367e19c5bb44d85e9779a"
+      "bytes": 6446,
+      "sha256": "90ce15277ea87f9c905d81aa8c14b6e56d7d8ff82d8fa1e885a02990170125a4"
     },
     {
       "name": "VALIDATION.json",
-      "bytes": 1644,
-      "sha256": "d7ef2c33c080f2c0da78499008a65431259618956e8868fbfe9178f976a0fafd"
+      "bytes": 1648,
+      "sha256": "a56ca850a0c29828c484f7600a3d92a9392fd5617ebf1dd7e80ff0dd98f47262"
     },
     {
       "name": "corrections.json",
-      "bytes": 68244,
-      "sha256": "807f2ebe87d7779103d6f266825636039d22608f440e9d060ff444ff8fbc81ce"
+      "bytes": 410158,
+      "sha256": "131015f636737088c6b2577ee976d9d4bff72d22d8d861d2baae900d924fd626"
     },
     {
       "name": "coverage.json",
-      "bytes": 3683,
-      "sha256": "daec84c869595e40c19ca247c8c13b4546627e4fa25c54f269cd0b4b4945b9b0"
+      "bytes": 3689,
+      "sha256": "191d8189c8b674dd92375fa30a90792c514c9920897f923490679871924adbb5"
     },
     {
       "name": "review-scope.json",
-      "bytes": 1063,
-      "sha256": "32f30b5ae5f468b7519808d9e694cd4b74a71391d62e0fbf521e93b0c16779df"
+      "bytes": 1226,
+      "sha256": "3a08751f19db3471ad1baa34d38e9fa1393bf8d175e30b869789320e1fa1656d"
     },
     {
       "name": "schema.json",
@@ -65,23 +67,23 @@
     },
     {
       "name": "sinica-88.json",
-      "bytes": 382487,
-      "sha256": "1c468e717f7ad842e6c01568de7dd26a0a59db901eeb441364c89f11132e13ab"
+      "bytes": 428753,
+      "sha256": "89c059691b9775165e169c181a42b7a0b678310f84e3e74f01e8be2d7afb2da2"
     },
     {
       "name": "sinica-88.tei.xml",
-      "bytes": 368279,
-      "sha256": "482b774e361b0fa20f76c355512340e4627c1a56d52221d3332f89fc85b988e7"
+      "bytes": 409796,
+      "sha256": "030367dcb8ef66641b9d67707e493e1beea136173dc15a364f40e0eda5d0b3b5"
     },
     {
       "name": "sinica-88.txt",
-      "bytes": 155368,
-      "sha256": "662c0908dc33eee11a2a06608d07a79958f1e10613912547077a576669ea5184"
+      "bytes": 155010,
+      "sha256": "96bfa1df95d03a2df6677778d22c8fa42194a39416a24d748a05d934cb72d5da"
     },
     {
       "name": "uncertainties.json",
-      "bytes": 98790,
-      "sha256": "64833440fb6e06fe7e3276fdbcaac874a4a8b81a911099ef65306cb0d5c33258"
+      "bytes": 142334,
+      "sha256": "dc4ee3e88eb6457bdc9ce43fe3f7d167a1d2dc1c62e0dd11eaad5f2879510ebb"
     }
   ]
 }

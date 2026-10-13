@@ -1,6 +1,6 @@
 {
-  "corpus_version": "0.1.1",
-  "stage": "initial",
+  "corpus_version": "0.1.2",
+  "stage": "ai-reviewed",
   "validated_on": "2026-10-13",
   "checks": {
     "json_schema": "passed",
@@ -25,11 +25,11 @@
   },
   "scope_note": "Passed results certify deterministic encoding and source-record consistency only; optical completeness and historical readings are not certified.",
   "sha256": {
-    "sinica-88.json": "1c468e717f7ad842e6c01568de7dd26a0a59db901eeb441364c89f11132e13ab",
-    "sinica-88.txt": "662c0908dc33eee11a2a06608d07a79958f1e10613912547077a576669ea5184",
-    "sinica-88.tei.xml": "482b774e361b0fa20f76c355512340e4627c1a56d52221d3332f89fc85b988e7",
+    "sinica-88.json": "89c059691b9775165e169c181a42b7a0b678310f84e3e74f01e8be2d7afb2da2",
+    "sinica-88.txt": "96bfa1df95d03a2df6677778d22c8fa42194a39416a24d748a05d934cb72d5da",
+    "sinica-88.tei.xml": "030367dcb8ef66641b9d67707e493e1beea136173dc15a364f40e0eda5d0b3b5",
     "schema.json": "55eb5e60a5aaa4b9b4b30a7b49047e3523804d9801d37680e12d8c31ca1b2383",
-    "uncertainties.json": "64833440fb6e06fe7e3276fdbcaac874a4a8b81a911099ef65306cb0d5c33258",
-    "coverage.json": "daec84c869595e40c19ca247c8c13b4546627e4fa25c54f269cd0b4b4945b9b0"
+    "uncertainties.json": "dc4ee3e88eb6457bdc9ce43fe3f7d167a1d2dc1c62e0dd11eaad5f2879510ebb",
+    "coverage.json": "191d8189c8b674dd92375fa30a90792c514c9920897f923490679871924adbb5"
   }
 }

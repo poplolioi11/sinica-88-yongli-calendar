@@ -239,13 +239,16 @@
   },
   {
     "canvas_index": 3,
-    "unit_id": "p03-u002",
+    "unit_id": "p03-u003",
     "region": "right",
-    "column_label": "月首右起第1欄胎神及節候顏色",
-    "offset": 10,
+    "column_label": "月首右起第2欄神煞及顏色",
+    "offset": 9,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "殺",
+      "煞"
+    ],
+    "reason": "下部淡印，木殳與灬不能可靠區分。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -254,70 +257,204 @@
     "unit_id": "p03-u003",
     "region": "right",
     "column_label": "月首右起第2欄神煞及顏色",
+    "offset": 24,
+    "length": 1,
+    "candidates": [
+      "申",
+      "丙",
+      "甲"
+    ],
+    "reason": "可定位一格，內框與中豎缺筆。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u003",
+    "region": "right",
+    "column_label": "月首右起第2欄神煞及顏色",
+    "offset": 26,
+    "length": 1,
+    "candidates": [
+      "壬",
+      "庚"
+    ],
+    "reason": "乙後一格上部及中央筆畫淡失，壬/庚不能可靠分。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u004",
+    "region": "right",
+    "column_label": "月首右起第3欄節候",
+    "offset": 6,
+    "length": 1,
+    "candidates": [
+      "足",
+      "是"
+    ],
+    "reason": "上部日/口內橫難定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u004",
+    "region": "right",
+    "column_label": "月首右起第3欄節候",
+    "offset": 25,
+    "length": 1,
+    "candidates": [
+      "腹",
+      "涸"
+    ],
+    "reason": "單格位置確定，左偏旁月/水與右部缺筆。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u008",
+    "region": "right",
+    "column_label": "十二月第3日日欄由上邊附注至底端",
     "offset": 27,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u008",
-    "region": "right",
-    "column_label": "十二月第3日日欄由上邊附注至底端",
-    "offset": 32,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u008",
-    "region": "right",
-    "column_label": "十二月第3日日欄由上邊附注至底端",
-    "offset": 33,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u011",
-    "region": "right",
-    "column_label": "十二月第6日日欄由上邊附注至底端",
-    "offset": 21,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u011",
-    "region": "right",
-    "column_label": "十二月第6日日欄由上邊附注至底端",
-    "offset": 30,
-    "length": 1,
-    "candidates": [],
-    "reason": "此局部多字淡印或墨線重疊字界未能可靠計數已實看該欄不以一格推定缺字數",
+    "candidates": [
+      "領眾"
+    ],
+    "reason": "捕捉至作之間淡印，不能可靠分定字數及字形。",
     "status": "unresolved",
     "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u008",
+    "region": "right",
+    "column_label": "十二月第3日日欄由上邊附注至底端",
+    "offset": 29,
+    "length": 1,
+    "candidates": [
+      "妓",
+      "灶"
+    ],
+    "reason": "作後可定位一字，女支/火土部件不全。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u008",
+    "region": "right",
+    "column_label": "十二月第3日日欄由上邊附注至底端",
+    "offset": 31,
+    "length": 1,
+    "candidates": [
+      "猱",
+      "躍"
+    ],
+    "reason": "教後單格下部重墨，不能定偏旁。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u011",
+    "region": "right",
+    "column_label": "十二月第6日日欄由上邊附注至底端",
+    "offset": 11,
+    "length": 1,
+    "candidates": [
+      "福",
+      "德",
+      "喜"
+    ],
+    "reason": "天後一格筆畫糊連，示/彳/喜構形不全。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u011",
+    "region": "right",
+    "column_label": "十二月第6日日欄由上邊附注至底端",
+    "offset": 29,
+    "length": 1,
+    "candidates": [
+      "灶",
+      "竈"
+    ],
+    "reason": "祀後一格灶/竈結構不全。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u011",
+    "region": "right",
+    "column_label": "十二月第6日日欄由上邊附注至底端",
+    "offset": 31,
+    "length": 1,
+    "candidates": [
+      "蟻"
+    ],
+    "reason": "斷後一格虫及義細筆淡失。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u011",
+    "region": "right",
+    "column_label": "十二月第6日日欄由上邊附注至底端",
+    "offset": 34,
+    "length": 1,
+    "candidates": [
+      "子"
+    ],
+    "reason": "木後至安前淡印，不能確定原字數。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u011",
+    "region": "right",
+    "column_label": "十二月第6日日欄由上邊附注至底端",
+    "offset": 36,
+    "length": 1,
+    "candidates": [
+      "碓"
+    ],
+    "reason": "安後石隹細筆不全。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u012",
+    "region": "right",
+    "column_label": "十二月第7日日欄由上邊附注至底端",
+    "offset": 25,
+    "length": 1,
+    "candidates": [
+      "碓"
+    ],
+    "reason": "安後單格右部細橫不足以確讀。",
+    "status": "unresolved",
+    "missing_extent": 1
   },
   {
     "canvas_index": 3,
     "unit_id": "p03-u013",
     "region": "right",
     "column_label": "十二月第8日日欄由上邊附注至底端",
-    "offset": 34,
+    "offset": 32,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "出"
+    ],
+    "reason": "長至行間一格淡失，出僅作候選。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -328,8 +465,57 @@
     "column_label": "十二月第10日日欄由上邊附注至底端",
     "offset": 20,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "雪",
+      "畜"
+    ],
+    "reason": "造後單格上下部筆畫不足以定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u015",
+    "region": "right",
+    "column_label": "十二月第10日日欄由上邊附注至底端",
+    "offset": 21,
+    "length": 1,
+    "candidates": [
+      "大",
+      "犬"
+    ],
+    "reason": "大/犬右點與紙斑難分。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u016",
+    "region": "right",
+    "column_label": "十二月第11日日欄由上邊附注至底端",
+    "offset": 28,
+    "length": 1,
+    "candidates": [
+      "机",
+      "機",
+      "砌"
+    ],
+    "reason": "安後單格右部細筆淡失，不能從常用詞判定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u017",
+    "region": "right",
+    "column_label": "十二月第12日日欄由上邊附注至底端",
+    "offset": 11,
+    "length": 1,
+    "candidates": [
+      "官",
+      "富"
+    ],
+    "reason": "根代理覆看第十二日星名，此格官與富的區分細筆仍不足；不按天官常語定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -340,34 +526,72 @@
     "column_label": "十二月第12日日欄由上邊附注至底端",
     "offset": 33,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u018",
-    "region": "right",
-    "column_label": "十二月第13日日欄由上邊附注至底端",
-    "offset": 3,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u018",
-    "region": "right",
-    "column_label": "十二月第13日日欄由上邊附注至底端",
-    "offset": 41,
-    "length": 1,
-    "candidates": [],
-    "reason": "此局部多字淡印或墨線重疊字界未能可靠計數已實看該欄不以一格推定缺字數",
+    "candidates": [
+      "療",
+      "斷"
+    ],
+    "reason": "起工後末段連續重墨，不能確認字形與實際字數。",
     "status": "unresolved",
     "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u018",
+    "region": "right",
+    "column_label": "十二月第13日日欄由上邊附注至底端",
+    "offset": 40,
+    "length": 1,
+    "candidates": [
+      "安門起工架",
+      "納采給田安床"
+    ],
+    "reason": "給田後至欄底重墨，字界與原文不定。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u019",
+    "region": "left",
+    "column_label": "十二月第14日日欄由上邊附注至底端",
+    "offset": 30,
+    "length": 1,
+    "candidates": [
+      "墻",
+      "牆"
+    ],
+    "reason": "左旁土/爿細筆不清，不正規化異體。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u021",
+    "region": "left",
+    "column_label": "十二月第16日日欄由上邊附注至底端",
+    "offset": 23,
+    "length": 1,
+    "candidates": [
+      "伐"
+    ],
+    "reason": "土後第一單格右戈筆糊。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u021",
+    "region": "left",
+    "column_label": "十二月第16日日欄由上邊附注至底端",
+    "offset": 25,
+    "length": 1,
+    "candidates": [
+      "曳",
+      "伐"
+    ],
+    "reason": "木間單格田/戈結構未分。",
+    "status": "unresolved",
+    "missing_extent": 1
   },
   {
     "canvas_index": 3,
@@ -376,8 +600,10 @@
     "column_label": "十二月第16日日欄由上邊附注至底端",
     "offset": 31,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "安"
+    ],
+    "reason": "捉後一格宀及下部重墨。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -388,8 +614,10 @@
     "column_label": "十二月第16日日欄由上邊附注至底端",
     "offset": 32,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "灶"
+    ],
+    "reason": "末格火土構形不清。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -398,10 +626,13 @@
     "unit_id": "p03-u023",
     "region": "left",
     "column_label": "十二月第18日日欄由上邊附注至底端",
-    "offset": 22,
+    "offset": 12,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "明",
+      "合"
+    ],
+    "reason": "德後單格內部重墨，日月/合不能可靠分辨。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -412,8 +643,24 @@
     "column_label": "十二月第20日日欄由上邊附注至底端",
     "offset": 12,
     "length": 1,
-    "candidates": [],
-    "reason": "此局部多字淡印或墨線重疊字界未能可靠計數已實看該欄不以一格推定缺字數",
+    "candidates": [
+      "靈心"
+    ],
+    "reason": "黃道至宜間重墨，實際字數與字形不能確定。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u025",
+    "region": "left",
+    "column_label": "十二月第20日日欄由上邊附注至底端",
+    "offset": 14,
+    "length": 1,
+    "candidates": [
+      "鍼灸治療"
+    ],
+    "reason": "宜後連續正文重墨，不能按候選詞補。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -422,10 +669,26 @@
     "unit_id": "p03-u026",
     "region": "left",
     "column_label": "十二月第21日日欄由上邊附注至底端",
-    "offset": 12,
+    "offset": 17,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "襲"
+    ],
+    "reason": "祀後第一單格上部龍構形重墨。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u026",
+    "region": "left",
+    "column_label": "十二月第21日日欄由上邊附注至底端",
+    "offset": 18,
+    "length": 1,
+    "candidates": [
+      "爵"
+    ],
+    "reason": "下一單格中下部全墨，爵僅候選。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -436,32 +699,11 @@
     "column_label": "十二月第21日日欄由上邊附注至底端",
     "offset": 29,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u026",
-    "region": "left",
-    "column_label": "十二月第21日日欄由上邊附注至底端",
-    "offset": 31,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u026",
-    "region": "left",
-    "column_label": "十二月第21日日欄由上邊附注至底端",
-    "offset": 32,
-    "length": 1,
-    "candidates": [],
-    "reason": "此局部多字淡印或墨線重疊字界未能可靠計數已實看該欄不以一格推定缺字數",
+    "candidates": [
+      "安葬塞穴",
+      "葬"
+    ],
+    "reason": "渠後連續重墨，不能可靠分清原字數及內容。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -470,22 +712,27 @@
     "unit_id": "p03-u027",
     "region": "left",
     "column_label": "十二月第22日日欄由上邊附注至底端",
-    "offset": 33,
+    "offset": 12,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "金匱福星宜",
+      "月空陰倉"
+    ],
+    "reason": "恩後至出行前連續淡印與重墨交替，不能確定字數。",
     "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 3,
     "unit_id": "p03-u027",
     "region": "left",
     "column_label": "十二月第22日日欄由上邊附注至底端",
-    "offset": 35,
+    "offset": 31,
     "length": 1,
-    "candidates": [],
-    "reason": "此局部多字淡印或墨線重疊字界未能可靠計數已實看該欄不以一格推定缺字數",
+    "candidates": [
+      "取"
+    ],
+    "reason": "造後至末剃前重墨，原字數不定。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -494,10 +741,56 @@
     "unit_id": "p03-u028",
     "region": "left",
     "column_label": "十二月第23日日欄由上邊附注至底端",
+    "offset": 21,
+    "length": 1,
+    "candidates": [
+      "合",
+      "舍"
+    ],
+    "reason": "宅後單格中間橫筆與下口疊墨。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u028",
+    "region": "left",
+    "column_label": "十二月第23日日欄由上邊附注至底端",
+    "offset": 30,
+    "length": 1,
+    "candidates": [
+      "遠"
+    ],
+    "reason": "服後一格辶可見，右部不可定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u028",
+    "region": "left",
+    "column_label": "十二月第23日日欄由上邊附注至底端",
     "offset": 33,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "基",
+      "成"
+    ],
+    "reason": "起後末段墨迹複雜，不能確定原字數。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 3,
+    "unit_id": "p03-u029",
+    "region": "left",
+    "column_label": "十二月第24日日欄由上邊附注至底端",
+    "offset": 18,
+    "length": 1,
+    "candidates": [
+      "襲"
+    ],
+    "reason": "宜後單格上部龍構形重墨。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -506,22 +799,12 @@
     "unit_id": "p03-u029",
     "region": "left",
     "column_label": "十二月第24日日欄由上邊附注至底端",
-    "offset": 27,
+    "offset": 19,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u029",
-    "region": "left",
-    "column_label": "十二月第24日日欄由上邊附注至底端",
-    "offset": 29,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "爵"
+    ],
+    "reason": "下一單格中下部糊連。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -530,70 +813,13 @@
     "unit_id": "p03-u030",
     "region": "left",
     "column_label": "十二月第25日日欄由上邊附注至底端",
-    "offset": 26,
+    "offset": 15,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u030",
-    "region": "left",
-    "column_label": "十二月第25日日欄由上邊附注至底端",
-    "offset": 27,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u030",
-    "region": "left",
-    "column_label": "十二月第25日日欄由上邊附注至底端",
-    "offset": 29,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u030",
-    "region": "left",
-    "column_label": "十二月第25日日欄由上邊附注至底端",
-    "offset": 32,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u030",
-    "region": "left",
-    "column_label": "十二月第25日日欄由上邊附注至底端",
-    "offset": 33,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 3,
-    "unit_id": "p03-u030",
-    "region": "left",
-    "column_label": "十二月第25日日欄由上邊附注至底端",
-    "offset": 36,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "受",
+      "參"
+    ],
+    "reason": "宜後封前單字格上下部密墨，受/參難分。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -602,10 +828,13 @@
     "unit_id": "p03-u032",
     "region": "left",
     "column_label": "十二月第27日日欄由上邊附注至底端",
-    "offset": 15,
+    "offset": 26,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "梁",
+      "樑"
+    ],
+    "reason": "上後單格左側淡失，未能定有無木旁。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -614,10 +843,13 @@
     "unit_id": "p03-u033",
     "region": "left",
     "column_label": "十二月第28日日欄由上邊附注至底端",
-    "offset": 17,
+    "offset": 21,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "日",
+      "月"
+    ],
+    "reason": "出前單格左下與底橫淡失，原彩色放大見月形亦可能日底橫失印，不按時刻詞定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -628,8 +860,10 @@
     "column_label": "十二月第29日日欄由上邊附注至底端",
     "offset": 28,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "垣"
+    ],
+    "reason": "壞後單格土亘細筆淡失。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -640,10 +874,42 @@
     "column_label": "十二月第30日日欄由上邊附注至底端",
     "offset": 21,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "倉"
+    ],
+    "reason": "灶至開間淡印，字數與字形不能確定。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u003",
+    "region": "right",
+    "column_label": "月首右起第2欄神煞及顏色",
+    "offset": 3,
+    "length": 1,
+    "candidates": [
+      "巽",
+      "望"
+    ],
+    "reason": "根代理覆看月頭欄首，巽與望的下部結構仍不能可靠區分；不因前欄天德在而補巽。",
     "status": "unresolved",
     "missing_extent": 1
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u005",
+    "region": "right",
+    "column_label": "月首右起第4欄房及躔次顏色",
+    "offset": 21,
+    "length": 1,
+    "candidates": [
+      "戊癸丙乙辛",
+      "戊癸丙乙辛時"
+    ],
+    "reason": "宜用後至乾前連續淡印，關鍵筆畫與字界不能完整確認；一個方框代表未知長度，不採初稿整段。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 4,
@@ -652,8 +918,10 @@
     "column_label": "十一月第1日日欄由上邊附注至底端",
     "offset": 30,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "捉"
+    ],
+    "reason": "捕後一字殘筆不足，保留可定位單格。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -664,8 +932,101 @@
     "column_label": "十一月第1日日欄由上邊附注至底端",
     "offset": 34,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "圍",
+      "圊"
+    ],
+    "reason": "作後一字密墨，外框內部不能定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u008",
+    "region": "right",
+    "column_label": "十一月第3日日欄由上邊附注至底端",
+    "offset": 10,
+    "length": 1,
+    "candidates": [
+      "顯",
+      "顛"
+    ],
+    "reason": "星前字左上細部磨損，兩候選無法唯一確定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u008",
+    "region": "right",
+    "column_label": "十一月第3日日欄由上邊附注至底端",
+    "offset": 21,
+    "length": 1,
+    "candidates": [
+      "伐",
+      "裁"
+    ],
+    "reason": "冠笄後首格有戈形殘筆，未足排除另一候選。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u008",
+    "region": "right",
+    "column_label": "十一月第3日日欄由上邊附注至底端",
+    "offset": 22,
+    "length": 1,
+    "candidates": [
+      "木",
+      "衣"
+    ],
+    "reason": "冠笄後第二格撇捺相混，未足定木或衣。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u008",
+    "region": "right",
+    "column_label": "十一月第3日日欄由上邊附注至底端",
+    "offset": 31,
+    "length": 1,
+    "candidates": [
+      "泥",
+      "求"
+    ],
+    "reason": "上樑後第一格淡印，偏旁不完整。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u008",
+    "region": "right",
+    "column_label": "十一月第3日日欄由上邊附注至底端",
+    "offset": 32,
+    "length": 1,
+    "candidates": [
+      "墻",
+      "嗣"
+    ],
+    "reason": "上樑後第二格淡印，內部不足定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u009",
+    "region": "right",
+    "column_label": "十一月第4日日欄由上邊附注至底端",
+    "offset": 11,
+    "length": 1,
+    "candidates": [
+      "官",
+      "富"
+    ],
+    "reason": "天後宀內兩段受淡墨，官/富關鍵內筆不能確定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -676,20 +1037,25 @@
     "column_label": "十一月第4日日欄由上邊附注至底端",
     "offset": 24,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "造",
+      "造倉"
+    ],
+    "reason": "塞穴後至伐木前連續淡墨，字界不能可靠分清，保留未知長度。",
     "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 4,
-    "unit_id": "p04-u009",
+    "unit_id": "p04-u011",
     "region": "right",
-    "column_label": "十一月第4日日欄由上邊附注至底端",
-    "offset": 29,
+    "column_label": "十一月第6日日欄由上邊附注至底端",
+    "offset": 24,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "娶"
+    ],
+    "reason": "嫁後一格上部重疊，下女形不足，保留一格。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -700,8 +1066,10 @@
     "column_label": "十一月第6日日欄由上邊附注至底端",
     "offset": 28,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "雞"
+    ],
+    "reason": "安後密筆一格，未能唯一識讀。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -710,10 +1078,14 @@
     "unit_id": "p04-u011",
     "region": "right",
     "column_label": "十一月第6日日欄由上邊附注至底端",
-    "offset": 31,
+    "offset": 30,
     "length": 1,
-    "candidates": [],
-    "reason": "此局部多字淡印或墨線重疊字界未能可靠計數已實看該欄不以一格推定缺字數",
+    "candidates": [
+      "石",
+      "券交易",
+      "券交易□事"
+    ],
+    "reason": "立後淡印至欄底字界不完整，不沿用初稿石及單一末格所暗示的字數。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -722,10 +1094,28 @@
     "unit_id": "p04-u012",
     "region": "right",
     "column_label": "十一月第7日日欄由上邊附注至底端",
-    "offset": 33,
+    "offset": 27,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "拔",
+      "破"
+    ],
+    "reason": "雕刻後第一格左旁受欄界及淡墨影響，動詞未定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u012",
+    "region": "right",
+    "column_label": "十一月第7日日欄由上邊附注至底端",
+    "offset": 28,
+    "length": 1,
+    "candidates": [
+      "劍",
+      "剌"
+    ],
+    "reason": "雕刻後第二格右有刀形，左部細筆不足。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -736,8 +1126,10 @@
     "column_label": "十一月第9日日欄由上邊附注至底端",
     "offset": 30,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "福"
+    ],
+    "reason": "行後一格右側及底部不足，未定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -748,8 +1140,10 @@
     "column_label": "十一月第9日日欄由上邊附注至底端",
     "offset": 32,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "工"
+    ],
+    "reason": "起後單格橫畫淡，工僅候選。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -758,94 +1152,57 @@
     "unit_id": "p04-u014",
     "region": "right",
     "column_label": "十一月第9日日欄由上邊附注至底端",
-    "offset": 33,
+    "offset": 35,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "安",
+      "出"
+    ],
+    "reason": "門後字上、下部淡印，安/出未能唯一確定。",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
     "canvas_index": 4,
-    "unit_id": "p04-u014",
+    "unit_id": "p04-u018",
     "region": "right",
-    "column_label": "十一月第9日日欄由上邊附注至底端",
+    "column_label": "十一月第13日日欄由上邊附注至底端",
+    "offset": 31,
+    "length": 1,
+    "candidates": [
+      "修",
+      "繕"
+    ],
+    "reason": "造前字繁筆淡印，左旁修/糸不能唯一判定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u018",
+    "region": "right",
+    "column_label": "十一月第13日日欄由上邊附注至底端",
+    "offset": 35,
+    "length": 1,
+    "candidates": [
+      "安",
+      "破"
+    ],
+    "reason": "動土後首格上部不全，非據初稿或宜忌句定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u018",
+    "region": "right",
+    "column_label": "十一月第13日日欄由上邊附注至底端",
     "offset": 36,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 4,
-    "unit_id": "p04-u014",
-    "region": "right",
-    "column_label": "十一月第9日日欄由上邊附注至底端",
-    "offset": 37,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 4,
-    "unit_id": "p04-u015",
-    "region": "right",
-    "column_label": "十一月第10日日欄由上邊附注至底端",
-    "offset": 20,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 4,
-    "unit_id": "p04-u016",
-    "region": "right",
-    "column_label": "十一月第11日日欄由上邊附注至底端",
-    "offset": 6,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 4,
-    "unit_id": "p04-u017",
-    "region": "right",
-    "column_label": "十一月第12日日欄由上邊附注至底端",
-    "offset": 38,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 4,
-    "unit_id": "p04-u017",
-    "region": "right",
-    "column_label": "十一月第12日日欄由上邊附注至底端",
-    "offset": 39,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 4,
-    "unit_id": "p04-u019",
-    "region": "left",
-    "column_label": "十一月第14日日欄由上邊附注至底端",
-    "offset": 22,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "床"
+    ],
+    "reason": "動土後第二格下部淡印，留可定位單格。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -856,8 +1213,26 @@
     "column_label": "十一月第14日日欄由上邊附注至底端",
     "offset": 28,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "圍",
+      "圊"
+    ],
+    "reason": "作後一格重墨，內部與外框不足區分候選。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u019",
+    "region": "left",
+    "column_label": "十一月第14日日欄由上邊附注至底端",
+    "offset": 31,
+    "length": 1,
+    "candidates": [
+      "捕",
+      "畋"
+    ],
+    "reason": "末倒數第二格左旁淡損，捕/畋不能確定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -866,46 +1241,27 @@
     "unit_id": "p04-u020",
     "region": "left",
     "column_label": "十一月第15日日欄由上邊附注至底端",
-    "offset": 27,
+    "offset": 18,
     "length": 1,
-    "candidates": [],
-    "reason": "此局部多字淡印或墨線重疊字界未能可靠計數已實看該欄不以一格推定缺字數",
-    "status": "unresolved",
-    "missing_extent": "unknown"
-  },
-  {
-    "canvas_index": 4,
-    "unit_id": "p04-u022",
-    "region": "left",
-    "column_label": "十一月第17日日欄由上邊附注至底端",
-    "offset": 37,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "爵"
+    ],
+    "reason": "襲後爵的細筆淡失，僅能定位單格。",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
     "canvas_index": 4,
-    "unit_id": "p04-u023",
+    "unit_id": "p04-u020",
     "region": "left",
-    "column_label": "十一月第18日日欄由上邊附注至底端",
-    "offset": 14,
+    "column_label": "十一月第15日日欄由上邊附注至底端",
+    "offset": 26,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 4,
-    "unit_id": "p04-u023",
-    "region": "left",
-    "column_label": "十一月第18日日欄由上邊附注至底端",
-    "offset": 15,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "畜",
+      "雷"
+    ],
+    "reason": "造後格上部密筆、下田可見，上部不足唯一辨讀。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -916,8 +1272,11 @@
     "column_label": "十一月第19日日欄由上邊附注至底端",
     "offset": 36,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "塟",
+      "葬"
+    ],
+    "reason": "安後末格中部及下部橫豎磨損，不足裁定塟/葬源字形。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -926,22 +1285,13 @@
     "unit_id": "p04-u025",
     "region": "left",
     "column_label": "十一月第20日日欄由上邊附注至底端",
-    "offset": 25,
+    "offset": 30,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 4,
-    "unit_id": "p04-u027",
-    "region": "left",
-    "column_label": "十一月第22日日欄由上邊附注至底端",
-    "offset": 33,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "葬",
+      "塟"
+    ],
+    "reason": "安後一格下部淡，葬/塟底部廾與土不能可靠區分。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -952,20 +1302,11 @@
     "column_label": "十一月第22日日欄由上邊附注至底端",
     "offset": 35,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 4,
-    "unit_id": "p04-u027",
-    "region": "left",
-    "column_label": "十一月第22日日欄由上邊附注至底端",
-    "offset": 37,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "忌",
+      "六"
+    ],
+    "reason": "起造與斷草之間有單格殘筆，未能可靠定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -976,20 +1317,57 @@
     "column_label": "十一月第26日日欄由上邊附注至底端",
     "offset": 26,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "圊",
+      "廁",
+      "厠"
+    ],
+    "reason": "作後單格外框與內部筆畫重墨，青/則與囗/广/厂仍不能唯一分辨。",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
     "canvas_index": 4,
-    "unit_id": "p04-u033",
+    "unit_id": "p04-u032",
     "region": "left",
-    "column_label": "十一月第28日日欄由上邊附注至底端",
-    "offset": 23,
+    "column_label": "十一月第27日日欄由上邊附注至底端",
+    "offset": 21,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "日",
+      "月"
+    ],
+    "reason": "出前单格左笔与内横不足以唯一分辨日/月，不按天文詞補定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u032",
+    "region": "left",
+    "column_label": "十一月第27日日欄由上邊附注至底端",
+    "offset": 39,
+    "length": 1,
+    "candidates": [
+      "田",
+      "由"
+    ],
+    "reason": "給後方框字中豎是否突出頂橫不清，保留單格。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 4,
+    "unit_id": "p04-u032",
+    "region": "left",
+    "column_label": "十一月第27日日欄由上邊附注至底端",
+    "offset": 43,
+    "length": 1,
+    "candidates": [
+      "船",
+      "舩"
+    ],
+    "reason": "造後一格左部似舟而右部重墨，不能分清右旁，保持疑格。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1000,20 +1378,13 @@
     "column_label": "十一月第29日日欄由上邊附注至底端",
     "offset": 2,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 4,
-    "unit_id": "p04-u034",
-    "region": "left",
-    "column_label": "十一月第29日日欄由上邊附注至底端",
-    "offset": 40,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "陽",
+      "阳",
+      "陰",
+      "阴"
+    ],
+    "reason": "根代理覆看廿九日上注，右部日月與下方細筆不足以確定原印字形；撤回建議稿的陰字確讀，不以其他月注推定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1022,22 +1393,73 @@
     "unit_id": "p05-u002",
     "region": "right",
     "column_label": "月首右起第1欄胎神及節候顏色",
-    "offset": 8,
+    "offset": 34,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "紫",
+      "黑"
+    ],
+    "reason": "右色列中格重墨，關鍵上部不能定。",
     "status": "unresolved",
     "missing_extent": 1
+  },
+  {
+    "canvas_index": 5,
+    "unit_id": "p05-u002",
+    "region": "right",
+    "column_label": "月首右起第1欄胎神及節候顏色",
+    "offset": 35,
+    "length": 1,
+    "candidates": [
+      "黃",
+      "紫"
+    ],
+    "reason": "右色列下格筆畫混疊，無法唯一辨字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 5,
+    "unit_id": "p05-u003",
+    "region": "right",
+    "column_label": "月首右起第2欄神煞及顏色",
+    "offset": 8,
+    "length": 1,
+    "candidates": [
+      "殺",
+      "煞"
+    ],
+    "reason": "殺/煞的下部墨跡不清，不能區分。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 5,
+    "unit_id": "p05-u003",
+    "region": "right",
+    "column_label": "月首右起第2欄神煞及顏色",
+    "offset": 22,
+    "length": 1,
+    "candidates": [
+      "庚庚辛",
+      "庚辛甲乙"
+    ],
+    "reason": "月空在至欄末宜之間淡印，連續干字不能逐字確認；不保留初稿可能重複或跨欄的修造。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 5,
     "unit_id": "p05-u004",
     "region": "right",
     "column_label": "月首右起第3欄節候",
-    "offset": 29,
+    "offset": 7,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "是",
+      "足"
+    ],
+    "reason": "日/口的內橫不足，不能裁定是或足。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1046,10 +1468,13 @@
     "unit_id": "p05-u005",
     "region": "right",
     "column_label": "月首右起第4欄房及躔次顏色",
-    "offset": 16,
+    "offset": 13,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "六",
+      "七"
+    ],
+    "reason": "廿與日之間單格數字墨損，未以日條推定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1058,84 +1483,91 @@
     "unit_id": "p05-u005",
     "region": "right",
     "column_label": "月首右起第4欄房及躔次顏色",
-    "offset": 19,
+    "offset": 30,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "甲丙辛乙",
+      "甲庚壬"
+    ],
+    "reason": "宜用與時之間淡墨成段，實際字符不能可靠數定。",
     "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u005",
-    "region": "right",
-    "column_label": "月首右起第4欄房及躔次顏色",
-    "offset": 29,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 5,
     "unit_id": "p05-u008",
     "region": "right",
     "column_label": "十月第3日日欄由上邊附注至底端",
-    "offset": 39,
+    "offset": 36,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "宅剃長",
+      "宅剃髮"
+    ],
+    "reason": "入以下字筆斷裂，至下段界線不能可靠逐字定；保留候選，不將初稿剃髮直接定讀。",
     "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 5,
+    "unit_id": "p05-u008",
+    "region": "right",
+    "column_label": "十月第3日日欄由上邊附注至底端",
+    "offset": 38,
+    "length": 1,
+    "candidates": [
+      "破土安",
+      "不宜嫁"
+    ],
+    "reason": "末段葬以上褪墨，候選首字與長度均不能確定。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 5,
     "unit_id": "p05-u009",
     "region": "right",
     "column_label": "十月第4日日欄由上邊附注至底端",
-    "offset": 10,
+    "offset": 18,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "畜",
+      "取畜",
+      "蒲"
+    ],
+    "reason": "收以下殘墨無法確定字數與字形。",
     "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 5,
-    "unit_id": "p05-u011",
+    "unit_id": "p05-u010",
     "region": "right",
-    "column_label": "十月第6日日欄由上邊附注至底端",
+    "column_label": "十月第5日日欄由上邊附注至底端",
     "offset": 17,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "起基冠帶祀灶",
+      "赴任冠帶祀灶"
+    ],
+    "reason": "上官後至雕刻前多字淡失，不能據任一前稿補成。",
     "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 5,
-    "unit_id": "p05-u012",
+    "unit_id": "p05-u010",
     "region": "right",
-    "column_label": "十月第7日日欄由上邊附注至底端",
-    "offset": 22,
+    "column_label": "十月第5日日欄由上邊附注至底端",
+    "offset": 23,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "木穿井",
+      "木修造"
+    ],
+    "reason": "伐後至動土前殘墨疊印，字數及中間字不能可靠確定。",
     "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u012",
-    "region": "right",
-    "column_label": "十月第7日日欄由上邊附注至底端",
-    "offset": 25,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 5,
@@ -1144,8 +1576,26 @@
     "column_label": "十月第8日日欄由上邊附注至底端",
     "offset": 20,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "赴任解除掃舍",
+      "起基解除納采"
+    ],
+    "reason": "上官後至造門之間殘筆多，不能按一稿成句。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 5,
+    "unit_id": "p05-u013",
+    "region": "right",
+    "column_label": "十月第8日日欄由上邊附注至底端",
+    "offset": 31,
+    "length": 1,
+    "candidates": [
+      "拔",
+      "破"
+    ],
+    "reason": "左旁扌/石在此處墨損，不能唯一裁字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1154,48 +1604,46 @@
     "unit_id": "p05-u013",
     "region": "right",
     "column_label": "十月第8日日欄由上邊附注至底端",
-    "offset": 22,
+    "offset": 32,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "剃",
+      "割"
+    ],
+    "reason": "右刂可見，左部墨跡不足以分辨剃或割。",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
     "canvas_index": 5,
-    "unit_id": "p05-u013",
+    "unit_id": "p05-u015",
     "region": "right",
-    "column_label": "十月第8日日欄由上邊附注至底端",
-    "offset": 26,
+    "column_label": "十月第10日日欄由上邊附注至底端",
+    "offset": 25,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "倉庫宇",
+      "理塋墳"
+    ],
+    "reason": "修後末段印墨重疊，字形與字數不能可靠數定。",
     "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 5,
-    "unit_id": "p05-u016",
+    "unit_id": "p05-u017",
     "region": "right",
-    "column_label": "十月第11日日欄由上邊附注至底端",
-    "offset": 11,
+    "column_label": "十月第12日日欄由上邊附注至底端",
+    "offset": 31,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "啓攢",
+      "啟攢",
+      "砍橋"
+    ],
+    "reason": "破土後繁筆段偏旁不全，不能定首字及確數。",
     "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u018",
-    "region": "right",
-    "column_label": "十月第13日日欄由上邊附注至底端",
-    "offset": 10,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 5,
@@ -1204,217 +1652,91 @@
     "column_label": "十月第13日日欄由上邊附注至底端",
     "offset": 19,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u018",
-    "region": "right",
-    "column_label": "十月第13日日欄由上邊附注至底端",
-    "offset": 21,
-    "length": 1,
-    "candidates": [],
-    "reason": "此局部多字淡印或墨線重疊字界未能可靠計數已實看該欄不以一格推定缺字數",
+    "candidates": [
+      "捕捉取漁",
+      "捕捉取漁□",
+      "親"
+    ],
+    "reason": "結網後至伐木前淡墨難分，未把初稿親作定字保留。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
   {
     "canvas_index": 5,
-    "unit_id": "p05-u019",
+    "unit_id": "p05-u020",
     "region": "left",
-    "column_label": "十月第14日日欄由上邊附注至底端",
-    "offset": 7,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u021",
-    "region": "left",
-    "column_label": "十月第16日日欄由上邊附注至底端",
-    "offset": 9,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u021",
-    "region": "left",
-    "column_label": "十月第16日日欄由上邊附注至底端",
-    "offset": 26,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u021",
-    "region": "left",
-    "column_label": "十月第16日日欄由上邊附注至底端",
-    "offset": 28,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u021",
-    "region": "left",
-    "column_label": "十月第16日日欄由上邊附注至底端",
-    "offset": 36,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u022",
-    "region": "left",
-    "column_label": "十月第17日日欄由上邊附注至底端",
-    "offset": 7,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u023",
-    "region": "left",
-    "column_label": "十月第18日日欄由上邊附注至底端",
-    "offset": 2,
+    "column_label": "十月第15日日欄由上邊附注至底端",
+    "offset": 10,
     "length": 1,
     "candidates": [
-      "陽",
-      "陰"
+      "吉",
+      "宜",
+      "宣"
     ],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "reason": "慶前首格上部與內横重墨，未能定吉或帶宀之字。",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
     "canvas_index": 5,
-    "unit_id": "p05-u023",
+    "unit_id": "p05-u020",
     "region": "left",
-    "column_label": "十月第18日日欄由上邊附注至底端",
-    "offset": 32,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u023",
-    "region": "left",
-    "column_label": "十月第18日日欄由上邊附注至底端",
-    "offset": 34,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u023",
-    "region": "left",
-    "column_label": "十月第18日日欄由上邊附注至底端",
-    "offset": 38,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u024",
-    "region": "left",
-    "column_label": "十月第19日日欄由上邊附注至底端",
-    "offset": 7,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u024",
-    "region": "left",
-    "column_label": "十月第19日日欄由上邊附注至底端",
-    "offset": 13,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u024",
-    "region": "left",
-    "column_label": "十月第19日日欄由上邊附注至底端",
-    "offset": 30,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u024",
-    "region": "left",
-    "column_label": "十月第19日日欄由上邊附注至底端",
+    "column_label": "十月第15日日欄由上邊附注至底端",
     "offset": 31,
     "length": 1,
-    "candidates": [],
-    "reason": "此局部多字淡印或墨線重疊字界未能可靠計數已實看該欄不以一格推定缺字數",
+    "candidates": [
+      "祈福",
+      "禁建",
+      "會親納采祈福"
+    ],
+    "reason": "冠笄後殘墨段字形與數目不能裁清。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
   {
     "canvas_index": 5,
-    "unit_id": "p05-u025",
+    "unit_id": "p05-u023",
     "region": "left",
-    "column_label": "十月第20日日欄由上邊附注至底端",
-    "offset": 15,
+    "column_label": "十月第18日日欄由上邊附注至底端",
+    "offset": 10,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "顯",
+      "顛"
+    ],
+    "reason": "左部日絲/真筆畫重疊，不能唯一裁定。",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
     "canvas_index": 5,
-    "unit_id": "p05-u026",
+    "unit_id": "p05-u023",
     "region": "left",
-    "column_label": "十月第21日日欄由上邊附注至底端",
-    "offset": 24,
+    "column_label": "十月第18日日欄由上邊附注至底端",
+    "offset": 28,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "竪造安床行□穿井",
+      "祭祀伐木安葬",
+      "□立□安床行□穿井"
+    ],
+    "reason": "安字以下連續淡印、重墨與缺筆，不能保持任一稿的普通字為定讀。",
     "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 5,
+    "unit_id": "p05-u024",
+    "region": "left",
+    "column_label": "十月第19日日欄由上邊附注至底端",
+    "offset": 32,
+    "length": 1,
+    "candidates": [
+      "木□□"
+    ],
+    "reason": "起造下連續淡墨，不能確認木及其後字數。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 5,
@@ -1423,56 +1745,11 @@
     "column_label": "十月第22日日欄由上邊附注至底端",
     "offset": 16,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u027",
-    "region": "left",
-    "column_label": "十月第22日日欄由上邊附注至底端",
-    "offset": 21,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u029",
-    "region": "left",
-    "column_label": "十月第24日日欄由上邊附注至底端",
-    "offset": 26,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u029",
-    "region": "left",
-    "column_label": "十月第24日日欄由上邊附注至底端",
-    "offset": 28,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u029",
-    "region": "left",
-    "column_label": "十月第24日日欄由上邊附注至底端",
-    "offset": 30,
-    "length": 1,
-    "candidates": [],
-    "reason": "此局部多字淡印或墨線重疊字界未能可靠計數已實看該欄不以一格推定缺字數",
+    "candidates": [
+      "嫁娶納采築補",
+      "□求啟閣除□寒"
+    ],
+    "reason": "母倉後至塞穴間雖有女、采等殘形，不能可靠逐字辨或數定；不保存初稿普通字作定讀。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -1481,10 +1758,12 @@
     "unit_id": "p05-u030",
     "region": "left",
     "column_label": "十月第25日日欄由上邊附注至底端",
-    "offset": 23,
+    "offset": 12,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "顯"
+    ],
+    "reason": "星前單格左部重墨，不能把初稿顯作已確認。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1493,37 +1772,28 @@
     "unit_id": "p05-u030",
     "region": "left",
     "column_label": "十月第25日日欄由上邊附注至底端",
-    "offset": 27,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u031",
-    "region": "left",
-    "column_label": "十月第26日日欄由上邊附注至底端",
-    "offset": 2,
-    "length": 1,
-    "candidates": [
-      "陽",
-      "陰"
-    ],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u031",
-    "region": "left",
-    "column_label": "十月第26日日欄由上邊附注至底端",
     "offset": 19,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "給田立券□官出行□刻",
+      "捕捉"
+    ],
+    "reason": "解除與剃頭之間密集淡印字部不全，不能可靠分字或確定字數。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 5,
+    "unit_id": "p05-u031",
+    "region": "left",
+    "column_label": "十月第26日日欄由上邊附注至底端",
+    "offset": 31,
+    "length": 1,
+    "candidates": [
+      "二",
+      "三"
+    ],
+    "reason": "酉初後數字單格，橫畫深淺不一不能排除第三橫；不按節候推定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1532,106 +1802,101 @@
     "unit_id": "p05-u032",
     "region": "left",
     "column_label": "十月第27日日欄由上邊附注至底端",
-    "offset": 22,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u033",
-    "region": "left",
-    "column_label": "十月第28日日欄由上邊附注至底端",
-    "offset": 11,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u033",
-    "region": "left",
-    "column_label": "十月第28日日欄由上邊附注至底端",
-    "offset": 17,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u033",
-    "region": "left",
-    "column_label": "十月第28日日欄由上邊附注至底端",
-    "offset": 23,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u033",
-    "region": "left",
-    "column_label": "十月第28日日欄由上邊附注至底端",
-    "offset": 28,
-    "length": 1,
-    "candidates": [],
-    "reason": "此局部多字淡印或墨線重疊字界未能可靠計數已實看該欄不以一格推定缺字數",
-    "status": "unresolved",
-    "missing_extent": "unknown"
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u035",
-    "region": "left",
-    "column_label": "十月第30日日欄由上邊附注至底端",
-    "offset": 10,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u035",
-    "region": "left",
-    "column_label": "十月第30日日欄由上邊附注至底端",
-    "offset": 17,
-    "length": 1,
-    "candidates": [],
-    "reason": "此局部多字淡印或墨線重疊字界未能可靠計數已實看該欄不以一格推定缺字數",
-    "status": "unresolved",
-    "missing_extent": "unknown"
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u035",
-    "region": "left",
-    "column_label": "十月第30日日欄由上邊附注至底端",
-    "offset": 19,
-    "length": 1,
-    "candidates": [],
-    "reason": "此局部多字淡印或墨線重疊字界未能可靠計數已實看該欄不以一格推定缺字數",
-    "status": "unresolved",
-    "missing_extent": "unknown"
-  },
-  {
-    "canvas_index": 5,
-    "unit_id": "p05-u035",
-    "region": "left",
-    "column_label": "十月第30日日欄由上邊附注至底端",
     "offset": 21,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖此字淡印或筆畫相疊未能確辨",
+    "candidates": [
+      "修□",
+      "入宅嫁娶上官"
+    ],
+    "reason": "宜至入倉間殘筆缺失，不能可靠分字與確數。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 5,
+    "unit_id": "p05-u032",
+    "region": "left",
+    "column_label": "十月第27日日欄由上邊附注至底端",
+    "offset": 30,
+    "length": 1,
+    "candidates": [
+      "嫁",
+      "設"
+    ],
+    "reason": "蓋屋後第一格左旁與右部殘墨不能唯一裁字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 5,
+    "unit_id": "p05-u032",
+    "region": "left",
+    "column_label": "十月第27日日欄由上邊附注至底端",
+    "offset": 31,
+    "length": 1,
+    "candidates": [
+      "娶",
+      "席"
+    ],
+    "reason": "蓋屋後第二格字上部重墨，娶/席不能裁定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 5,
+    "unit_id": "p05-u033",
+    "region": "left",
+    "column_label": "十月第28日日欄由上邊附注至底端",
+    "offset": 17,
+    "length": 1,
+    "candidates": [
+      "伐",
+      "結"
+    ],
+    "reason": "學後第一格左部與右側細筆欠清，仍不能唯一裁定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 5,
+    "unit_id": "p05-u035",
+    "region": "left",
+    "column_label": "十月第30日日欄由上邊附注至底端",
+    "offset": 17,
+    "length": 1,
+    "candidates": [
+      "動土"
+    ],
+    "reason": "修造後至上梁前淡印不能定字及數目。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 5,
+    "unit_id": "p05-u035",
+    "region": "left",
+    "column_label": "十月第30日日欄由上邊附注至底端",
+    "offset": 20,
+    "length": 1,
+    "candidates": [
+      "安門"
+    ],
+    "reason": "上梁與入倉間字框淡失，安門僅列候選，不作定字。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u004",
+    "region": "right",
+    "column_label": "月頭細字自右第1欄",
+    "offset": 8,
+    "length": 1,
+    "candidates": [
+      "二",
+      "三"
+    ],
+    "reason": "卯初後數字橫畫不足以排除二/三",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1642,8 +1907,40 @@
     "column_label": "月頭細字自右第1欄",
     "offset": 17,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "西"
+    ],
+    "reason": "天道後單格淡墨未定",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u005",
+    "region": "right",
+    "column_label": "月頭細字自右第2欄",
+    "offset": 8,
+    "length": 1,
+    "candidates": [
+      "殺",
+      "煞"
+    ],
+    "reason": "此單格殘筆不足定字",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u005",
+    "region": "right",
+    "column_label": "月頭細字自右第2欄",
+    "offset": 12,
+    "length": 1,
+    "candidates": [
+      "德",
+      "空"
+    ],
+    "reason": "此单格淡墨不足",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1655,7 +1952,21 @@
     "offset": 14,
     "length": 1,
     "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "reason": "支字淡墨不足",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u005",
+    "region": "right",
+    "column_label": "月頭細字自右第2欄",
+    "offset": 16,
+    "length": 1,
+    "candidates": [
+      "合"
+    ],
+    "reason": "月後字淡墨不足",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1667,7 +1978,7 @@
     "offset": 18,
     "length": 1,
     "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "reason": "月合後支字不足",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1679,7 +1990,21 @@
     "offset": 21,
     "length": 1,
     "candidates": [],
-    "reason": "已查看此處連續淡印或重疊殘跡但字數無法確定以一標記表示未解文段",
+    "reason": "尾部連續淡墨，字數未定",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u006",
+    "region": "right",
+    "column_label": "月頭細字自右第3欄",
+    "offset": 25,
+    "length": 1,
+    "candidates": [
+      "祭獸"
+    ],
+    "reason": "尾部墨跡重疊，不把習語候選提升為確字",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -1688,10 +2013,24 @@
     "unit_id": "p06-u007",
     "region": "right",
     "column_label": "月頭細字自右第4欄",
-    "offset": 16,
+    "offset": 7,
+    "length": 1,
+    "candidates": [
+      "咸俯"
+    ],
+    "reason": "虫後連續密疊，缺失範圍未定",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u007",
+    "region": "right",
+    "column_label": "月頭細字自右第4欄",
+    "offset": 15,
     "length": 1,
     "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "reason": "午初後數字未定",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1700,22 +2039,13 @@
     "unit_id": "p06-u007",
     "region": "right",
     "column_label": "月頭細字自右第4欄",
-    "offset": 26,
+    "offset": 25,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 6,
-    "unit_id": "p06-u007",
-    "region": "right",
-    "column_label": "月頭細字自右第4欄",
-    "offset": 28,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "癸",
+      "冬"
+    ],
+    "reason": "用後首字筆畫未明",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1726,8 +2056,40 @@
     "column_label": "月頭下圖表右欄",
     "offset": 1,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "紫"
+    ],
+    "reason": "色格首字重疊，候選不定",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u014",
+    "region": "right",
+    "column_label": "右半面第2日欄第2日日期干支星宿日用",
+    "offset": 14,
+    "length": 1,
+    "candidates": [
+      "泥",
+      "穴",
+      "祀"
+    ],
+    "reason": "牆前字淡；不按常語定泥",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u014",
+    "region": "right",
+    "column_label": "右半面第2日欄第2日日期干支星宿日用",
+    "offset": 21,
+    "length": 1,
+    "candidates": [
+      "葬"
+    ],
+    "reason": "禁忌末字重疊未定",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1736,34 +2098,133 @@
     "unit_id": "p06-u016",
     "region": "right",
     "column_label": "右半面第3日欄第3日日期干支星宿日用",
-    "offset": 17,
+    "offset": 28,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "苫蓋",
+      "安碓磑"
+    ],
+    "reason": "上樑後部件不足且兩读缺字數不同",
     "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 6,
-    "unit_id": "p06-u040",
-    "region": "left",
-    "column_label": "左半面第2日欄第15日日期干支星宿日用",
+    "unit_id": "p06-u016",
+    "region": "right",
+    "column_label": "右半面第3日欄第3日日期干支星宿日用",
+    "offset": 31,
+    "length": 1,
+    "candidates": [
+      "穿渠納畜",
+      "立券交易"
+    ],
+    "reason": "裁衣後連續淡墨尚無法逐字裁定",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u018",
+    "region": "right",
+    "column_label": "右半面第4日欄第4日日期干支星宿日用",
     "offset": 15,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "帶",
+      "笄"
+    ],
+    "reason": "冠後字右下磨損，二讀不能定",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
     "canvas_index": 6,
-    "unit_id": "p06-u040",
-    "region": "left",
-    "column_label": "左半面第2日欄第15日日期干支星宿日用",
-    "offset": 17,
+    "unit_id": "p06-u018",
+    "region": "right",
+    "column_label": "右半面第4日欄第4日日期干支星宿日用",
+    "offset": 18,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "普施",
+      "會親"
+    ],
+    "reason": "解除後疊墨，字數未定",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u022",
+    "region": "right",
+    "column_label": "右半面第6日欄第6日日期干支星宿日用",
+    "offset": 16,
+    "length": 1,
+    "candidates": [
+      "納采問名",
+      "伐木用斧"
+    ],
+    "reason": "祭祀後連續字的部件受墨污干擾，兩讀未決",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u036",
+    "region": "right",
+    "column_label": "右半面第13日欄第13日日期干支星宿日用",
+    "offset": 9,
+    "length": 1,
+    "candidates": [
+      "傳",
+      "福"
+    ],
+    "reason": "神煞首字左部及右件重疊",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u036",
+    "region": "right",
+    "column_label": "右半面第13日欄第13日日期干支星宿日用",
+    "offset": 18,
+    "length": 1,
+    "candidates": [
+      "結倉修屋",
+      "掃舍庭屋"
+    ],
+    "reason": "開市後連續淡墨不同讀法，未定字數",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u036",
+    "region": "right",
+    "column_label": "右半面第13日欄第13日日期干支星宿日用",
+    "offset": 21,
+    "length": 1,
+    "candidates": [
+      "安碓磑解",
+      "放牧"
+    ],
+    "reason": "會親後連續正文字形不明",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u043",
+    "region": "left",
+    "column_label": "左半面第4日欄第17日上欄",
+    "offset": 2,
+    "length": 1,
+    "candidates": [
+      "陰",
+      "陽"
+    ],
+    "reason": "根代理覆看十七日上注，墨色疊重，陰陽的區分筆畫仍不足；不按其他月頁或曆法定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1772,22 +2233,28 @@
     "unit_id": "p06-u044",
     "region": "left",
     "column_label": "左半面第4日欄第17日日期干支星宿日用",
-    "offset": 26,
+    "offset": 24,
     "length": 1,
-    "candidates": [],
-    "reason": "已查看此處連續淡印或重疊殘跡但字數無法確定以一標記表示未解文段",
+    "candidates": [
+      "竪造補倉",
+      "蓋屋合宅祈福放倉"
+    ],
+    "reason": "起工後深墨堆疊，字形與字數不能定",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
   {
     "canvas_index": 6,
-    "unit_id": "p06-u046",
+    "unit_id": "p06-u048",
     "region": "left",
-    "column_label": "左半面第5日欄第18日日期干支星宿日用",
-    "offset": 16,
+    "column_label": "左半面第6日欄第19日日期干支星宿日用",
+    "offset": 15,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "修",
+      "婚"
+    ],
+    "reason": "徃後單字左部難辨，不取語義推定",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1799,7 +2266,142 @@
     "offset": 24,
     "length": 1,
     "candidates": [],
-    "reason": "已查看此處連續淡印或重疊殘跡但字數無法確定以一標記表示未解文段",
+    "reason": "上樑後重疊正文一段，原初一□所代表字數不能定為1",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u054",
+    "region": "left",
+    "column_label": "左半面第9日欄第22日日期干支星宿日用",
+    "offset": 26,
+    "length": 1,
+    "candidates": [
+      "會穿",
+      "祭安"
+    ],
+    "reason": "聚後與井前的連續字形疊墨，字數未定",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u054",
+    "region": "left",
+    "column_label": "左半面第9日欄第22日日期干支星宿日用",
+    "offset": 34,
+    "length": 1,
+    "candidates": [
+      "拜爵",
+      "疾病"
+    ],
+    "reason": "末尾兩讀相歧，未按慣用語裁定",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u056",
+    "region": "left",
+    "column_label": "左半面第10日欄第23日日期干支星宿日用",
+    "offset": 10,
+    "length": 1,
+    "candidates": [
+      "醫",
+      "恩"
+    ],
+    "reason": "神煞第二字墨疊不足以定",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u056",
+    "region": "left",
+    "column_label": "左半面第10日欄第23日日期干支星宿日用",
+    "offset": 18,
+    "length": 1,
+    "candidates": [
+      "補壁安葬",
+      "庫塞穴"
+    ],
+    "reason": "修倉後連續字形未明，不定字數",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u056",
+    "region": "left",
+    "column_label": "左半面第10日欄第23日日期干支星宿日用",
+    "offset": 20,
+    "length": 1,
+    "candidates": [
+      "醬",
+      "帳"
+    ],
+    "reason": "合後單字構形未能排除兩讀",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u056",
+    "region": "left",
+    "column_label": "左半面第10日欄第23日日期干支星宿日用",
+    "offset": 26,
+    "length": 1,
+    "candidates": [
+      "厠",
+      "圊"
+    ],
+    "reason": "作後末字外框不全，候選不作定字",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u058",
+    "region": "left",
+    "column_label": "左半面第11日欄第24日日期干支星宿日用",
+    "offset": 11,
+    "length": 1,
+    "candidates": [
+      "滿",
+      "點"
+    ],
+    "reason": "母倉後字淡墨不能定",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u058",
+    "region": "left",
+    "column_label": "左半面第11日欄第24日日期干支星宿日用",
+    "offset": 15,
+    "length": 1,
+    "candidates": [
+      "開氷",
+      "闢收"
+    ],
+    "reason": "宜後連續淡墨讀法未定",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u058",
+    "region": "left",
+    "column_label": "左半面第11日欄第24日日期干支星宿日用",
+    "offset": 17,
+    "length": 1,
+    "candidates": [
+      "伐問",
+      "小兒頭修"
+    ],
+    "reason": "剃後至造前正文字形及數量不定",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -1810,38 +2412,13 @@
     "column_label": "左半面第11日欄第24日日期干支星宿日用",
     "offset": 20,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 6,
-    "unit_id": "p06-u058",
-    "region": "left",
-    "column_label": "左半面第11日欄第24日日期干支星宿日用",
-    "offset": 21,
-    "length": 1,
-    "candidates": [],
-    "reason": "已查看此處連續淡印或重疊殘跡但字數無法確定以一標記表示未解文段",
+    "candidates": [
+      "安牛",
+      "宇入舍"
+    ],
+    "reason": "屋後至進前的字形未定",
     "status": "unresolved",
     "missing_extent": "unknown"
-  },
-  {
-    "canvas_index": 6,
-    "unit_id": "p06-u060",
-    "region": "left",
-    "column_label": "左半面第12日欄第25日日期干支星宿日用",
-    "offset": 7,
-    "length": 1,
-    "candidates": [
-      "除",
-      "開",
-      "閉"
-    ],
-    "reason": "日期格與字筆疊墨阝與門框之形仍難確定不按相鄰日序補字",
-    "status": "unresolved",
-    "missing_extent": 1
   },
   {
     "canvas_index": 6,
@@ -1851,7 +2428,7 @@
     "offset": 13,
     "length": 1,
     "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "reason": "午初後數字淡墨",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1863,7 +2440,7 @@
     "offset": 19,
     "length": 1,
     "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "reason": "卯正後數字淡墨",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1875,9 +2452,39 @@
     "offset": 25,
     "length": 1,
     "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "reason": "酉初後數字淡墨",
     "status": "unresolved",
     "missing_extent": 1
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u060",
+    "region": "left",
+    "column_label": "左半面第12日欄第25日日期干支星宿日用",
+    "offset": 30,
+    "length": 1,
+    "candidates": [
+      "祈福",
+      "入學"
+    ],
+    "reason": "祭祀後至開市前字形疊墨，不按術語補",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u060",
+    "region": "left",
+    "column_label": "左半面第12日欄第25日日期干支星宿日用",
+    "offset": 36,
+    "length": 1,
+    "candidates": [
+      "牧剃",
+      "破券"
+    ],
+    "reason": "末尾兩讀分歧，墨跡不足以定",
+    "status": "unresolved",
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 6,
@@ -1886,44 +2493,26 @@
     "column_label": "左半面第13日欄第26日日期干支星宿日用",
     "offset": 14,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "公土除服進人口冠帶",
+      "公上道入宅伐吉投劵"
+    ],
+    "reason": "宜後至交易前連續深墨相疊，兩讀多處不合，不能保留未決正文確字",
     "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 6,
-    "unit_id": "p06-u062",
-    "region": "left",
-    "column_label": "左半面第13日欄第26日日期干支星宿日用",
-    "offset": 16,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
-    "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 6,
     "unit_id": "p06-u064",
     "region": "left",
     "column_label": "左半面第14日欄第27日日期干支星宿日用",
-    "offset": 24,
+    "offset": 22,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 6,
-    "unit_id": "p06-u064",
-    "region": "left",
-    "column_label": "左半面第14日欄第27日日期干支星宿日用",
-    "offset": 25,
-    "length": 1,
-    "candidates": [],
-    "reason": "已查看此處連續淡印或重疊殘跡但字數無法確定以一標記表示未解文段",
+    "candidates": [
+      "沐浴遷墓",
+      "修舍掃平治道塗"
+    ],
+    "reason": "祭祀後末段淡墨及相疊，正文字形/字數均不能定",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -1934,8 +2523,10 @@
     "column_label": "左半面第16日欄第29日日期干支星宿日用",
     "offset": 9,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "聖"
+    ],
+    "reason": "星名首格僅聖為候選；淡印相疊，仍未定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -1944,12 +2535,30 @@
     "unit_id": "p06-u068",
     "region": "left",
     "column_label": "左半面第16日欄第29日日期干支星宿日用",
-    "offset": 26,
+    "offset": 14,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "沐浴行醮祀灶",
+      "詣道行赴任祭祀"
+    ],
+    "reason": "宜後數字群相疊，兩稿普通字差異不能定，不保留為確讀。",
     "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 6,
+    "unit_id": "p06-u068",
+    "region": "left",
+    "column_label": "左半面第16日欄第29日日期干支星宿日用",
+    "offset": 21,
+    "length": 1,
+    "candidates": [
+      "倉庫",
+      "動車"
+    ],
+    "reason": "破土後起工前字群墨線重合，字數未定。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 7,
@@ -2159,13 +2768,31 @@
   },
   {
     "canvas_index": 8,
-    "unit_id": "p08-u007",
+    "unit_id": "p08-u004",
     "region": "right",
-    "column_label": "月頭細字自右第4欄",
-    "offset": 23,
+    "column_label": "月頭細字自右第1欄",
+    "offset": 15,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "天",
+      "入"
+    ],
+    "reason": "節後單字下部似人，天之上橫不足；保留單格。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 8,
+    "unit_id": "p08-u005",
+    "region": "right",
+    "column_label": "月頭細字自右第2欄",
+    "offset": 9,
+    "length": 1,
+    "candidates": [
+      "殺",
+      "煞"
+    ],
+    "reason": "關鍵下部淡墨，殺與煞未能可靠區分。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2174,10 +2801,85 @@
     "unit_id": "p08-u007",
     "region": "right",
     "column_label": "月頭細字自右第4欄",
-    "offset": 25,
+    "offset": 10,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "未正初刻后"
+    ],
+    "reason": "戊戌與日躔之間連續淡印，現有ROI不能可靠逐字確認；不按節氣時間補全。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 8,
+    "unit_id": "p08-u016",
+    "region": "right",
+    "column_label": "右半面第3日欄第3日日期干支星宿日用",
+    "offset": 34,
+    "length": 1,
+    "candidates": [
+      "牧",
+      "投"
+    ],
+    "reason": "可定位單格；關鍵細筆淡失，候選不能定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 8,
+    "unit_id": "p08-u016",
+    "region": "right",
+    "column_label": "右半面第3日欄第3日日期干支星宿日用",
+    "offset": 35,
+    "length": 1,
+    "candidates": [
+      "剃"
+    ],
+    "reason": "可定位單格；關鍵細筆淡失，候選不能定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 8,
+    "unit_id": "p08-u018",
+    "region": "right",
+    "column_label": "右半面第4日欄第4日日期干支星宿日用",
+    "offset": 35,
+    "length": 1,
+    "candidates": [
+      "頭"
+    ],
+    "reason": "可定位單格；關鍵細筆淡失，候選不能定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 8,
+    "unit_id": "p08-u025",
+    "region": "right",
+    "column_label": "右半面第8日欄第8日上欄",
+    "offset": 3,
+    "length": 1,
+    "candidates": [
+      "坤",
+      "申"
+    ],
+    "reason": "源圖可定位單格，辨別所需細筆仍不足；不據時序或慣用語補字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 8,
+    "unit_id": "p08-u026",
+    "region": "right",
+    "column_label": "右半面第8日欄第8日日期干支星宿日用",
+    "offset": 7,
+    "length": 1,
+    "candidates": [
+      "閉",
+      "開"
+    ],
+    "reason": "源圖可定位單格，辨別所需細筆仍不足；不據時序或慣用語補字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2189,7 +2891,22 @@
     "offset": 19,
     "length": 1,
     "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "reason": "源圖可定位單格，辨別所需細筆仍不足；不據時序或慣用語補字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 8,
+    "unit_id": "p08-u026",
+    "region": "right",
+    "column_label": "右半面第8日欄第8日日期干支星宿日用",
+    "offset": 37,
+    "length": 1,
+    "candidates": [
+      "垣",
+      "墻"
+    ],
+    "reason": "源圖可定位單格，辨別所需細筆仍不足；不據時序或慣用語補字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2198,10 +2915,13 @@
     "unit_id": "p08-u040",
     "region": "left",
     "column_label": "左半面第2日欄第15日日期干支星宿日用",
-    "offset": 12,
+    "offset": 16,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "破",
+      "治"
+    ],
+    "reason": "屋前單格字形仍不足以區分破、治。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2210,37 +2930,42 @@
     "unit_id": "p08-u042",
     "region": "left",
     "column_label": "左半面第3日欄第16日日期干支星宿日用",
-    "offset": 17,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 8,
-    "unit_id": "p08-u042",
-    "region": "left",
-    "column_label": "左半面第3日欄第16日日期干支星宿日用",
-    "offset": 29,
-    "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 8,
-    "unit_id": "p08-u046",
-    "region": "left",
-    "column_label": "左半面第5日欄第18日日期干支星宿日用",
     "offset": 17,
     "length": 1,
     "candidates": [
-      "頭",
-      "長"
+      "雞"
     ],
-    "reason": "此字右部細筆淡印頭與長之形尚不能確定保留候選待獨立校對",
+    "reason": "疊墨或細筆不足；單格及未知長度依源圖實際可分範圍分別記錄。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 8,
+    "unit_id": "p08-u044",
+    "region": "left",
+    "column_label": "左半面第4日欄第17日日期干支星宿日用",
+    "offset": 32,
+    "length": 1,
+    "candidates": [
+      "塞",
+      "築"
+    ],
+    "reason": "疊墨或細筆不足；單格及未知長度依源圖實際可分範圍分別記錄。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 8,
+    "unit_id": "p08-u044",
+    "region": "left",
+    "column_label": "左半面第4日欄第17日日期干支星宿日用",
+    "offset": 33,
+    "length": 1,
+    "candidates": [
+      "垣",
+      "墻"
+    ],
+    "reason": "疊墨或細筆不足；單格及未知長度依源圖實際可分範圍分別記錄。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2249,25 +2974,40 @@
     "unit_id": "p08-u046",
     "region": "left",
     "column_label": "左半面第5日欄第18日日期干支星宿日用",
+    "offset": 22,
+    "length": 1,
+    "candidates": [],
+    "reason": "疊墨或細筆不足；單格及未知長度依源圖實際可分範圍分別記錄。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 8,
+    "unit_id": "p08-u060",
+    "region": "left",
+    "column_label": "左半面第12日欄第25日日期干支星宿日用",
+    "offset": 25,
+    "length": 1,
+    "candidates": [
+      "柱",
+      "造"
+    ],
+    "reason": "單格可定位，偏旁细筆不足以定柱或造。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 8,
+    "unit_id": "p08-u066",
+    "region": "left",
+    "column_label": "左半面第15日欄第28日日期干支星宿日用",
     "offset": 23,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 8,
-    "unit_id": "p08-u056",
-    "region": "left",
-    "column_label": "左半面第10日欄第23日日期干支星宿日用",
-    "offset": 36,
-    "length": 1,
     "candidates": [
-      "頭",
-      "長"
+      "醴",
+      "醋"
     ],
-    "reason": "此字右部細筆淡印頭與長之形尚不能確定保留候選待獨立校對",
+    "reason": "單格可定位，關鍵偏旁細筆未能確認。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2278,8 +3018,25 @@
     "column_label": "左半面第15日欄第28日日期干支星宿日用",
     "offset": 27,
     "length": 1,
-    "candidates": [],
-    "reason": "原圖淡印缺筆或疊墨此字未能確定",
+    "candidates": [
+      "庫"
+    ],
+    "reason": "單格可定位，關鍵偏旁細筆未能確認。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u003",
+    "region": "right",
+    "column_label": "月頭胎神橫列",
+    "offset": 3,
+    "length": 1,
+    "candidates": [
+      "床",
+      "牀"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2290,8 +3047,141 @@
     "column_label": "月頭細字自右第1欄",
     "offset": 6,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "亥",
+      "子"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u004",
+    "region": "right",
+    "column_label": "月頭細字自右第1欄",
+    "offset": 8,
+    "length": 1,
+    "candidates": [
+      "二",
+      "一"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u005",
+    "region": "right",
+    "column_label": "月頭細字自右第2欄",
+    "offset": 6,
+    "length": 1,
+    "candidates": [
+      "殺",
+      "煞"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u006",
+    "region": "right",
+    "column_label": "月頭細字自右第3欄",
+    "offset": 10,
+    "length": 1,
+    "candidates": [
+      "蟋"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u006",
+    "region": "right",
+    "column_label": "月頭細字自右第3欄",
+    "offset": 11,
+    "length": 1,
+    "candidates": [
+      "蟀"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u006",
+    "region": "right",
+    "column_label": "月頭細字自右第3欄",
+    "offset": 12,
+    "length": 1,
+    "candidates": [
+      "居"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u006",
+    "region": "right",
+    "column_label": "月頭細字自右第3欄",
+    "offset": 13,
+    "length": 1,
+    "candidates": [
+      "壁"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u007",
+    "region": "right",
+    "column_label": "月頭細字自右第4欄",
+    "offset": 8,
+    "length": 1,
+    "candidates": [
+      "三"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u007",
+    "region": "right",
+    "column_label": "月頭細字自右第4欄",
+    "offset": 12,
+    "length": 1,
+    "candidates": [
+      "寅",
+      "辰"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u007",
+    "region": "right",
+    "column_label": "月頭細字自右第4欄",
+    "offset": 14,
+    "length": 1,
+    "candidates": [
+      "二",
+      "三"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2303,9 +3193,9 @@
     "offset": 26,
     "length": 1,
     "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "reason": "乙丁後至時前淡印連續，不能可靠核定所缺字數。",
     "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 9,
@@ -2314,8 +3204,11 @@
     "column_label": "右半面第1日欄第1日日期干支星宿日用",
     "offset": 9,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "傳",
+      "傅"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2326,10 +3219,14 @@
     "column_label": "右半面第1日欄第1日日期干支星宿日用",
     "offset": 16,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "裁衣剃長",
+      "剃頭",
+      "事"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 9,
@@ -2338,8 +3235,53 @@
     "column_label": "右半面第2日欄第2日日期干支星宿日用",
     "offset": 17,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "解"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u014",
+    "region": "right",
+    "column_label": "右半面第2日欄第2日日期干支星宿日用",
+    "offset": 19,
+    "length": 1,
+    "candidates": [
+      "納"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u014",
+    "region": "right",
+    "column_label": "右半面第2日欄第2日日期干支星宿日用",
+    "offset": 20,
+    "length": 1,
+    "candidates": [
+      "采"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u014",
+    "region": "right",
+    "column_label": "右半面第2日欄第2日日期干支星宿日用",
+    "offset": 22,
+    "length": 1,
+    "candidates": [
+      "葬",
+      "塟"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2350,8 +3292,10 @@
     "column_label": "右半面第2日欄第2日日期干支星宿日用",
     "offset": 35,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "剃"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2362,8 +3306,11 @@
     "column_label": "右半面第2日欄第2日日期干支星宿日用",
     "offset": 36,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "頭",
+      "長"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2375,7 +3322,7 @@
     "offset": 14,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2387,7 +3334,7 @@
     "offset": 17,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2417,13 +3364,59 @@
   },
   {
     "canvas_index": 9,
-    "unit_id": "p09-u024",
+    "unit_id": "p09-u020",
     "region": "right",
-    "column_label": "右半面第7日欄第7日日期干支星宿日用",
-    "offset": 11,
+    "column_label": "右半面第5日欄第5日日期干支星宿日用",
+    "offset": 18,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "結"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u020",
+    "region": "right",
+    "column_label": "右半面第5日欄第5日日期干支星宿日用",
+    "offset": 19,
+    "length": 1,
+    "candidates": [
+      "婚"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u023",
+    "region": "right",
+    "column_label": "右半面第7日欄第7日上欄",
+    "offset": 3,
+    "length": 1,
+    "candidates": [
+      "丁",
+      "子"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u029",
+    "region": "right",
+    "column_label": "右半面第10日欄第10日上欄",
+    "offset": 3,
+    "length": 1,
+    "candidates": [
+      "巳",
+      "丑"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2432,12 +3425,72 @@
     "unit_id": "p09-u030",
     "region": "right",
     "column_label": "右半面第10日欄第10日日期干支星宿日用",
-    "offset": 24,
+    "offset": 18,
     "length": 1,
-    "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "candidates": [
+      "交易",
+      "友"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u030",
+    "region": "right",
+    "column_label": "右半面第10日欄第10日日期干支星宿日用",
+    "offset": 23,
+    "length": 1,
+    "candidates": [],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u032",
+    "region": "right",
+    "column_label": "右半面第11日欄第11日日期干支星宿日用",
+    "offset": 16,
+    "length": 1,
+    "candidates": [
+      "取",
+      "除"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u032",
+    "region": "right",
+    "column_label": "右半面第11日欄第11日日期干支星宿日用",
+    "offset": 17,
+    "length": 1,
+    "candidates": [
+      "魚",
+      "蟲"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u038",
+    "region": "left",
+    "column_label": "左半面第1日欄第14日日期干支星宿日用",
+    "offset": 13,
+    "length": 1,
+    "candidates": [
+      "明",
+      "福"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
   },
   {
     "canvas_index": 9,
@@ -2447,7 +3500,52 @@
     "offset": 24,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u040",
+    "region": "left",
+    "column_label": "左半面第2日欄第15日日期干支星宿日用",
+    "offset": 16,
+    "length": 1,
+    "candidates": [
+      "嫁",
+      "祭"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u040",
+    "region": "left",
+    "column_label": "左半面第2日欄第15日日期干支星宿日用",
+    "offset": 17,
+    "length": 1,
+    "candidates": [
+      "娶",
+      "祀"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u040",
+    "region": "left",
+    "column_label": "左半面第2日欄第15日日期干支星宿日用",
+    "offset": 23,
+    "length": 1,
+    "candidates": [
+      "床",
+      "產室"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2456,10 +3554,88 @@
     "unit_id": "p09-u042",
     "region": "left",
     "column_label": "左半面第3日欄第16日日期干支星宿日用",
+    "offset": 21,
+    "length": 1,
+    "candidates": [
+      "紅",
+      "船"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u042",
+    "region": "left",
+    "column_label": "左半面第3日欄第16日日期干支星宿日用",
+    "offset": 30,
+    "length": 1,
+    "candidates": [
+      "安",
+      "入"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u042",
+    "region": "left",
+    "column_label": "左半面第3日欄第16日日期干支星宿日用",
+    "offset": 31,
+    "length": 1,
+    "candidates": [
+      "床",
+      "宅"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u042",
+    "region": "left",
+    "column_label": "左半面第3日欄第16日日期干支星宿日用",
     "offset": 33,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "葬",
+      "塟"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u044",
+    "region": "left",
+    "column_label": "左半面第4日欄第17日日期干支星宿日用",
+    "offset": 9,
+    "length": 1,
+    "candidates": [
+      "守",
+      "青"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u044",
+    "region": "left",
+    "column_label": "左半面第4日欄第17日日期干支星宿日用",
+    "offset": 10,
+    "length": 1,
+    "candidates": [
+      "慎",
+      "龍"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2470,8 +3646,25 @@
     "column_label": "左半面第4日欄第17日日期干支星宿日用",
     "offset": 16,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "婚"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u044",
+    "region": "left",
+    "column_label": "左半面第4日欄第17日日期干支星宿日用",
+    "offset": 17,
+    "length": 1,
+    "candidates": [
+      "取",
+      "娶"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2482,10 +3675,12 @@
     "column_label": "左半面第6日欄第19日日期干支星宿日用",
     "offset": 9,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "天德月德"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 9,
@@ -2494,8 +3689,95 @@
     "column_label": "左半面第7日欄第20日日期干支星宿日用",
     "offset": 9,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "傳",
+      "傅"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u052",
+    "region": "left",
+    "column_label": "左半面第8日欄第21日日期干支星宿日用",
+    "offset": 16,
+    "length": 1,
+    "candidates": [
+      "出"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u052",
+    "region": "left",
+    "column_label": "左半面第8日欄第21日日期干支星宿日用",
+    "offset": 17,
+    "length": 1,
+    "candidates": [
+      "行"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u052",
+    "region": "left",
+    "column_label": "左半面第8日欄第21日日期干支星宿日用",
+    "offset": 18,
+    "length": 1,
+    "candidates": [
+      "結"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u052",
+    "region": "left",
+    "column_label": "左半面第8日欄第21日日期干支星宿日用",
+    "offset": 19,
+    "length": 1,
+    "candidates": [
+      "婚"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u052",
+    "region": "left",
+    "column_label": "左半面第8日欄第21日日期干支星宿日用",
+    "offset": 20,
+    "length": 1,
+    "candidates": [
+      "安"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u052",
+    "region": "left",
+    "column_label": "左半面第8日欄第21日日期干支星宿日用",
+    "offset": 21,
+    "length": 1,
+    "candidates": [
+      "床"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2506,20 +3788,10 @@
     "column_label": "左半面第8日欄第21日日期干支星宿日用",
     "offset": 22,
     "length": 1,
-    "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
-    "status": "unresolved",
-    "missing_extent": "unknown"
-  },
-  {
-    "canvas_index": 9,
-    "unit_id": "p09-u052",
-    "region": "left",
-    "column_label": "左半面第8日欄第21日日期干支星宿日用",
-    "offset": 25,
-    "length": 1,
-    "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "candidates": [
+      "祀灶"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2531,7 +3803,63 @@
     "offset": 9,
     "length": 1,
     "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u054",
+    "region": "left",
+    "column_label": "左半面第9日欄第22日日期干支星宿日用",
+    "offset": 13,
+    "length": 1,
+    "candidates": [
+      "冠"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u054",
+    "region": "left",
+    "column_label": "左半面第9日欄第22日日期干支星宿日用",
+    "offset": 14,
+    "length": 1,
+    "candidates": [
+      "帶"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u054",
+    "region": "left",
+    "column_label": "左半面第9日欄第22日日期干支星宿日用",
+    "offset": 15,
+    "length": 1,
+    "candidates": [
+      "祈"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u054",
+    "region": "left",
+    "column_label": "左半面第9日欄第22日日期干支星宿日用",
+    "offset": 16,
+    "length": 1,
+    "candidates": [
+      "福"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2543,9 +3871,37 @@
     "offset": 17,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u054",
+    "region": "left",
+    "column_label": "左半面第9日欄第22日日期干支星宿日用",
+    "offset": 20,
+    "length": 1,
+    "candidates": [
+      "嫁"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u054",
+    "region": "left",
+    "column_label": "左半面第9日欄第22日日期干支星宿日用",
+    "offset": 21,
+    "length": 1,
+    "candidates": [
+      "娶"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
   },
   {
     "canvas_index": 9,
@@ -2555,7 +3911,7 @@
     "offset": 22,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2567,7 +3923,7 @@
     "offset": 25,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2579,7 +3935,7 @@
     "offset": 28,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2588,10 +3944,27 @@
     "unit_id": "p09-u056",
     "region": "left",
     "column_label": "左半面第10日欄第23日日期干支星宿日用",
+    "offset": 11,
+    "length": 1,
+    "candidates": [
+      "寅",
+      "辰"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u056",
+    "region": "left",
+    "column_label": "左半面第10日欄第23日日期干支星宿日用",
     "offset": 19,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "一"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2602,8 +3975,10 @@
     "column_label": "左半面第10日欄第23日日期干支星宿日用",
     "offset": 25,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "一"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2612,10 +3987,56 @@
     "unit_id": "p09-u056",
     "region": "left",
     "column_label": "左半面第10日欄第23日日期干支星宿日用",
-    "offset": 31,
+    "offset": 28,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "治",
+      "祭"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u056",
+    "region": "left",
+    "column_label": "左半面第10日欄第23日日期干支星宿日用",
+    "offset": 29,
+    "length": 1,
+    "candidates": [
+      "病",
+      "祀"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u056",
+    "region": "left",
+    "column_label": "左半面第10日欄第23日日期干支星宿日用",
+    "offset": 30,
+    "length": 1,
+    "candidates": [
+      "療"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u058",
+    "region": "left",
+    "column_label": "左半面第11日欄第24日日期干支星宿日用",
+    "offset": 13,
+    "length": 1,
+    "candidates": [
+      "福"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2627,7 +4048,7 @@
     "offset": 18,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2636,22 +4057,10 @@
     "unit_id": "p09-u058",
     "region": "left",
     "column_label": "左半面第11日欄第24日日期干支星宿日用",
-    "offset": 23,
+    "offset": 21,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
-    "status": "unresolved",
-    "missing_extent": "unknown"
-  },
-  {
-    "canvas_index": 9,
-    "unit_id": "p09-u058",
-    "region": "left",
-    "column_label": "左半面第11日欄第24日日期干支星宿日用",
-    "offset": 28,
-    "length": 1,
-    "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2663,7 +4072,7 @@
     "offset": 22,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2675,7 +4084,7 @@
     "offset": 31,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2684,10 +4093,28 @@
     "unit_id": "p09-u062",
     "region": "left",
     "column_label": "左半面第13日欄第26日日期干支星宿日用",
+    "offset": 33,
+    "length": 1,
+    "candidates": [
+      "頭",
+      "長"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u062",
+    "region": "left",
+    "column_label": "左半面第13日欄第26日日期干支星宿日用",
     "offset": 35,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "葬",
+      "塟"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2699,7 +4126,7 @@
     "offset": 9,
     "length": 1,
     "candidates": [],
-    "reason": "此處原印極淡或與裂痕疊墨相交經來源裁片放大仍未能確定字形",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2711,7 +4138,7 @@
     "offset": 17,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2720,10 +4147,43 @@
     "unit_id": "p09-u064",
     "region": "left",
     "column_label": "左半面第14日欄第27日日期干支星宿日用",
+    "offset": 18,
+    "length": 1,
+    "candidates": [
+      "解",
+      "入"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u064",
+    "region": "left",
+    "column_label": "左半面第14日欄第27日日期干支星宿日用",
+    "offset": 19,
+    "length": 1,
+    "candidates": [
+      "除",
+      "學"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u064",
+    "region": "left",
+    "column_label": "左半面第14日欄第27日日期干支星宿日用",
     "offset": 20,
     "length": 1,
-    "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "candidates": [
+      "伐木造壁",
+      "冠笄修造"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2735,9 +4195,24 @@
     "offset": 16,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 9,
+    "unit_id": "p09-u066",
+    "region": "left",
+    "column_label": "左半面第15日欄第28日日期干支星宿日用",
+    "offset": 18,
+    "length": 1,
+    "candidates": [
+      "倉",
+      "宅"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
   },
   {
     "canvas_index": 9,
@@ -2747,19 +4222,7 @@
     "offset": 19,
     "length": 1,
     "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
-    "status": "unresolved",
-    "missing_extent": "unknown"
-  },
-  {
-    "canvas_index": 9,
-    "unit_id": "p09-u066",
-    "region": "left",
-    "column_label": "左半面第15日欄第28日日期干支星宿日用",
-    "offset": 22,
-    "length": 1,
-    "candidates": [],
-    "reason": "已視讀此欄連續淡印或缺損區尚見文字殘跡但字數無法確定此標記代表未知長度未解文段",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
@@ -2843,7 +4306,35 @@
     "offset": 26,
     "length": 1,
     "candidates": [],
-    "reason": "此處原印淡墨或疊墨經來源裁片放大仍未能確定字形",
+    "reason": "來源此單格淡墨，字形未能確定；未以文意補定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u006",
+    "region": "right",
+    "column_label": "月頭細字自右第3欄",
+    "offset": 13,
+    "length": 1,
+    "candidates": [
+      "鵙"
+    ],
+    "reason": "來源此單格淡墨，字形未能確定；未以文意補定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u006",
+    "region": "right",
+    "column_label": "月頭細字自右第3欄",
+    "offset": 23,
+    "length": 1,
+    "candidates": [
+      "蜩"
+    ],
+    "reason": "來源此單格淡墨，字形未能確定；未以文意補定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2855,7 +4346,21 @@
     "offset": 11,
     "length": 1,
     "candidates": [],
-    "reason": "此處原印淡墨或疊墨經來源裁片放大仍未能確定字形",
+    "reason": "來源此單格淡墨，字形未能確定；未以文意補定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u007",
+    "region": "right",
+    "column_label": "月頭細字自右第4欄",
+    "offset": 16,
+    "length": 1,
+    "candidates": [
+      "鶉"
+    ],
+    "reason": "來源此單格淡墨，字形未能確定；未以文意補定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2867,7 +4372,7 @@
     "offset": 31,
     "length": 1,
     "candidates": [],
-    "reason": "此處原印淡墨或疊墨經來源裁片放大仍未能確定字形",
+    "reason": "來源差異處墨色重疊，未能確定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2878,8 +4383,11 @@
     "column_label": "右半面第4日欄第4日日期干支星宿日用",
     "offset": 12,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印淡墨或疊墨經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "六",
+      "互"
+    ],
+    "reason": "來源差異處墨色重疊，未能確定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2888,43 +4396,131 @@
     "unit_id": "p10-u018",
     "region": "right",
     "column_label": "右半面第4日欄第4日日期干支星宿日用",
-    "offset": 28,
-    "length": 1,
-    "candidates": [
-      "頭",
-      "長"
-    ],
-    "reason": "此字右部細筆淡印頭與長之形尚不能確定保留候選待獨立校對",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 10,
-    "unit_id": "p10-u028",
-    "region": "right",
-    "column_label": "右半面第9日欄第9日日期干支星宿日用",
-    "offset": 25,
-    "length": 1,
-    "candidates": [
-      "頭",
-      "長"
-    ],
-    "reason": "此字右部細筆淡印頭與長之形尚不能確定保留候選待獨立校對",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 10,
-    "unit_id": "p10-u030",
-    "region": "right",
-    "column_label": "右半面第10日欄第10日日期干支星宿日用",
     "offset": 17,
     "length": 1,
     "candidates": [
-      "頭",
-      "長"
+      "祭",
+      "求"
     ],
-    "reason": "此字右部細筆淡印頭與長之形尚不能確定保留候選待獨立校對",
+    "reason": "來源差異處墨色重疊，未能確定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u018",
+    "region": "right",
+    "column_label": "右半面第4日欄第4日日期干支星宿日用",
+    "offset": 18,
+    "length": 1,
+    "candidates": [
+      "祀",
+      "嗣"
+    ],
+    "reason": "來源差異處墨色重疊，未能確定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u020",
+    "region": "right",
+    "column_label": "右半面第5日欄第5日日期干支星宿日用",
+    "offset": 13,
+    "length": 1,
+    "candidates": [
+      "福星"
+    ],
+    "reason": "來源差異處墨色重疊，未能確定。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u020",
+    "region": "right",
+    "column_label": "右半面第5日欄第5日日期干支星宿日用",
+    "offset": 15,
+    "length": 1,
+    "candidates": [
+      "祈",
+      "冠"
+    ],
+    "reason": "來源差異處墨色重疊，未能確定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u020",
+    "region": "right",
+    "column_label": "右半面第5日欄第5日日期干支星宿日用",
+    "offset": 16,
+    "length": 1,
+    "candidates": [
+      "禱",
+      "笄"
+    ],
+    "reason": "來源差異處墨色重疊，未能確定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u020",
+    "region": "right",
+    "column_label": "右半面第5日欄第5日日期干支星宿日用",
+    "offset": 23,
+    "length": 1,
+    "candidates": [
+      "納畜取田",
+      "移居"
+    ],
+    "reason": "來源差異處墨色重疊，未能確定。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u020",
+    "region": "right",
+    "column_label": "右半面第5日欄第5日日期干支星宿日用",
+    "offset": 27,
+    "length": 1,
+    "candidates": [
+      "厠",
+      "廁"
+    ],
+    "reason": "來源差異處墨色重疊，未能確定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u023",
+    "region": "right",
+    "column_label": "右半面第7日欄第7日上欄",
+    "offset": 3,
+    "length": 1,
+    "candidates": [
+      "丙"
+    ],
+    "reason": "上注/末字疊墨，該單格未定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u024",
+    "region": "right",
+    "column_label": "右半面第7日欄第7日日期干支星宿日用",
+    "offset": 37,
+    "length": 1,
+    "candidates": [
+      "井",
+      "牛"
+    ],
+    "reason": "上注/末字疊墨，該單格未定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2939,34 +4535,82 @@
       "陽",
       "陰"
     ],
-    "reason": "上欄細字的右部疊墨陽陰未能確定",
+    "reason": "此單格疊墨未能定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
     "canvas_index": 10,
-    "unit_id": "p10-u039",
+    "unit_id": "p10-u040",
     "region": "left",
-    "column_label": "左半面第2日欄第15日上欄",
+    "column_label": "左半面第2日欄第15日日期干支星宿日用",
+    "offset": 35,
+    "length": 1,
+    "candidates": [
+      "碓",
+      "墳",
+      "室"
+    ],
+    "reason": "此單格疊墨未能定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u041",
+    "region": "left",
+    "column_label": "左半面第3日欄第16日上欄",
     "offset": 1,
     "length": 1,
-    "candidates": [],
-    "reason": "此處上欄可見濃墨遮蓋不能確定其下原字及字數此標記代表未知長度未解文段",
+    "candidates": [
+      "望"
+    ],
+    "reason": "來源墨塊遮字或重印；未據詞義補定。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
   {
     "canvas_index": 10,
-    "unit_id": "p10-u050",
+    "unit_id": "p10-u044",
     "region": "left",
-    "column_label": "左半面第7日欄第20日日期干支星宿日用",
-    "offset": 27,
+    "column_label": "左半面第4日欄第17日日期干支星宿日用",
+    "offset": 35,
     "length": 1,
     "candidates": [
-      "頭",
-      "長"
+      "碓",
+      "室"
     ],
-    "reason": "此字右部細筆淡印頭與長之形尚不能確定保留候選待獨立校對",
+    "reason": "來源墨塊遮字或重印；未據詞義補定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u046",
+    "region": "left",
+    "column_label": "左半面第5日欄第18日日期干支星宿日用",
+    "offset": 18,
+    "length": 1,
+    "candidates": [
+      "掃",
+      "補"
+    ],
+    "reason": "來源墨塊遮字或重印；未據詞義補定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u046",
+    "region": "left",
+    "column_label": "左半面第5日欄第18日日期干支星宿日用",
+    "offset": 19,
+    "length": 1,
+    "candidates": [
+      "道",
+      "垣"
+    ],
+    "reason": "來源墨塊遮字或重印；未據詞義補定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -2977,10 +4621,12 @@
     "column_label": "左半面第8日欄第21日日期干支星宿日用",
     "offset": 11,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印淡墨或疊墨經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "青龍"
+    ],
+    "reason": "来源争议格墨线不清，未依日期/文意补定。",
     "status": "unresolved",
-    "missing_extent": 1
+    "missing_extent": "unknown"
   },
   {
     "canvas_index": 10,
@@ -2990,7 +4636,36 @@
     "offset": 22,
     "length": 1,
     "candidates": [],
-    "reason": "此處原印淡墨或疊墨經來源裁片放大仍未能確定字形",
+    "reason": "来源争议格墨线不清，未依日期/文意补定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u052",
+    "region": "left",
+    "column_label": "左半面第8日欄第21日日期干支星宿日用",
+    "offset": 30,
+    "length": 1,
+    "candidates": [
+      "產",
+      "葬"
+    ],
+    "reason": "来源争议格墨线不清，未依日期/文意补定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u053",
+    "region": "left",
+    "column_label": "左半面第9日欄第22日上欄",
+    "offset": 3,
+    "length": 1,
+    "candidates": [
+      "午"
+    ],
+    "reason": "来源争议格墨线不清，未依日期/文意补定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -3002,7 +4677,7 @@
     "offset": 13,
     "length": 1,
     "candidates": [],
-    "reason": "此處原印淡墨或疊墨經來源裁片放大仍未能確定字形",
+    "reason": "来源争议格墨线不清，未依日期/文意补定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -3017,7 +4692,7 @@
       "陽",
       "陰"
     ],
-    "reason": "上欄細字的右部疊墨陽陰未能確定",
+    "reason": "来源争议格墨线不清，未依日期/文意补定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -3028,8 +4703,11 @@
     "column_label": "左半面第14日欄第27日日期干支星宿日用",
     "offset": 14,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印淡墨或疊墨經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "結",
+      "求"
+    ],
+    "reason": "原字淡墨/重印，尚不能在兩稿間定字，候選不等於已識讀。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -3038,13 +4716,43 @@
     "unit_id": "p10-u064",
     "region": "left",
     "column_label": "左半面第14日欄第27日日期干支星宿日用",
-    "offset": 23,
+    "offset": 21,
     "length": 1,
     "candidates": [
-      "頭",
-      "長"
+      "婚",
+      "纓"
     ],
-    "reason": "此字右部細筆淡印頭與長之形尚不能確定保留候選待獨立校對",
+    "reason": "原字淡墨/重印，尚不能在兩稿間定字，候選不等於已識讀。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u064",
+    "region": "left",
+    "column_label": "左半面第14日欄第27日日期干支星宿日用",
+    "offset": 28,
+    "length": 1,
+    "candidates": [
+      "穿碓",
+      "營屋"
+    ],
+    "reason": "原字淡墨/重印，尚不能在兩稿間定字，候選不等於已識讀。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u064",
+    "region": "left",
+    "column_label": "左半面第14日欄第27日日期干支星宿日用",
+    "offset": 32,
+    "length": 1,
+    "candidates": [
+      "產",
+      "葬"
+    ],
+    "reason": "原字淡墨/重印，尚不能在兩稿間定字，候選不等於已識讀。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -3055,23 +4763,70 @@
     "column_label": "左半面第15日欄第28日日期干支星宿日用",
     "offset": 9,
     "length": 1,
-    "candidates": [],
-    "reason": "此處原印淡墨或疊墨經來源裁片放大仍未能確定字形",
+    "candidates": [
+      "續"
+    ],
+    "reason": "原字淡墨/重印，尚不能在兩稿間定字，候選不等於已識讀。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 10,
+    "unit_id": "p10-u068",
+    "region": "left",
+    "column_label": "左半面第16日欄第29日日期干支星宿日用",
+    "offset": 16,
+    "length": 1,
+    "candidates": [
+      "經商求婚造寺廟安神架禾棚栽種",
+      "結婚嫁娶供廚作廁祭天神安葬"
+    ],
+    "reason": "原字淡墨/重印，尚不能在兩稿間定字，候選不等於已識讀。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 11,
+    "unit_id": "p11-u007",
+    "region": "right",
+    "column_label": "右半面月題下細字第4欄",
+    "offset": 19,
+    "length": 1,
+    "candidates": [
+      "甲",
+      "申"
+    ],
+    "reason": "單格淡印筆畫不全，未定。",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
     "canvas_index": 11,
-    "unit_id": "p11-u006",
+    "unit_id": "p11-u008",
     "region": "right",
-    "column_label": "右半面月題下細字第3欄",
-    "offset": 14,
+    "column_label": "右半面月題下細字下格第1欄",
+    "offset": 3,
     "length": 1,
     "candidates": [
-      "蚯",
-      "丘"
+      "紫"
     ],
-    "reason": "是月物候欄蟲名首字淡印偏旁殘缺不能確定原字形",
+    "reason": "單格淡印筆畫不全，未定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 11,
+    "unit_id": "p11-u014",
+    "region": "right",
+    "column_label": "初四日",
+    "offset": 11,
+    "length": 1,
+    "candidates": [
+      "煞",
+      "踢",
+      "賜"
+    ],
+    "reason": "此格左旁與右部尚難同時確認，未決普通字改□。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -3083,9 +4838,126 @@
     "offset": 18,
     "length": 1,
     "candidates": [
+      "襲",
       "受"
     ],
-    "reason": "同日欄末字或局部字形磨損未能確讀",
+    "reason": "來源破損或疊墨，未定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 11,
+    "unit_id": "p11-u029",
+    "region": "left",
+    "column_label": "十五日",
+    "offset": 9,
+    "length": 1,
+    "candidates": [
+      "明",
+      "順風"
+    ],
+    "reason": "來源破損或疊墨，未定字。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 11,
+    "unit_id": "p11-u043",
+    "region": "left",
+    "column_label": "廿六日",
+    "offset": 15,
+    "length": 1,
+    "candidates": [
+      "墻"
+    ],
+    "reason": "來源紙損或淡印，字形仍未定；不以日序补全日期。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 11,
+    "unit_id": "p11-u046",
+    "region": "left",
+    "column_label": "廿九日",
+    "offset": 1,
+    "length": 1,
+    "candidates": [
+      "廿九"
+    ],
+    "reason": "來源紙損或淡印，字形仍未定；不以日序补全日期。",
+    "status": "unresolved",
+    "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 11,
+    "unit_id": "p11-u046",
+    "region": "left",
+    "column_label": "廿九日",
+    "offset": 9,
+    "length": 1,
+    "candidates": [
+      "兵"
+    ],
+    "reason": "來源紙損或淡印，字形仍未定；不以日序补全日期。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 12,
+    "unit_id": "p12-u005",
+    "region": "right",
+    "column_label": "右半面月題下細字第2欄",
+    "offset": 21,
+    "length": 1,
+    "candidates": [
+      "子"
+    ],
+    "reason": "丙後單格淡印筆畫缺，保留候選，不用干支補。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 12,
+    "unit_id": "p12-u012",
+    "region": "right",
+    "column_label": "初二日",
+    "offset": 31,
+    "length": 1,
+    "candidates": [
+      "廚",
+      "厨"
+    ],
+    "reason": "差異單格筆畫不全，字形尚難確定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 12,
+    "unit_id": "p12-u019",
+    "region": "right",
+    "column_label": "初七日",
+    "offset": 10,
+    "length": 1,
+    "candidates": [
+      "恩",
+      "赦"
+    ],
+    "reason": "差異單格筆畫不全，字形尚難確定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 12,
+    "unit_id": "p12-u019",
+    "region": "right",
+    "column_label": "初七日",
+    "offset": 11,
+    "length": 1,
+    "candidates": [
+      "福",
+      "明"
+    ],
+    "reason": "差異單格筆畫不全，字形尚難確定。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -3096,44 +4968,40 @@
     "column_label": "初七日",
     "offset": 20,
     "length": 1,
-    "candidates": [],
-    "reason": "初七日修路後一字筆畫淡薄不定",
-    "status": "unresolved",
-    "missing_extent": "unknown"
-  },
-  {
-    "canvas_index": 12,
-    "unit_id": "p12-u030",
-    "region": "left",
-    "column_label": "十六日",
-    "offset": 28,
-    "length": 1,
-    "candidates": [],
-    "reason": "同日宜忌細字淡印磨損僅存局部筆畫",
-    "status": "unresolved",
-    "missing_extent": "unknown"
-  },
-  {
-    "canvas_index": 12,
-    "unit_id": "p12-u041",
-    "region": "left",
-    "column_label": "廿四日",
-    "offset": 16,
-    "length": 1,
-    "candidates": [],
-    "reason": "同日宜忌細字淡印磨損僅存局部筆畫",
+    "candidates": [
+      "裁"
+    ],
+    "reason": "差異單格筆畫不全，字形尚難確定。",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
     "canvas_index": 12,
-    "unit_id": "p12-u045",
-    "region": "left",
-    "column_label": "廿八日",
-    "offset": 17,
+    "unit_id": "p12-u019",
+    "region": "right",
+    "column_label": "初七日",
+    "offset": 21,
     "length": 1,
-    "candidates": [],
-    "reason": "同日宜忌細字淡印磨損僅存局部筆畫",
+    "candidates": [
+      "裝",
+      "衣"
+    ],
+    "reason": "差異單格筆畫不全，字形尚難確定。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 12,
+    "unit_id": "p12-u022",
+    "region": "right",
+    "column_label": "初九日",
+    "offset": 9,
+    "length": 1,
+    "candidates": [
+      "四",
+      "益"
+    ],
+    "reason": "護前單格底筆尚不清，兩稿之間不能定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -3142,40 +5010,27 @@
     "unit_id": "p12-u046",
     "region": "left",
     "column_label": "廿九日",
-    "offset": 24,
+    "offset": 11,
     "length": 1,
-    "candidates": [],
-    "reason": "同日宜忌細字淡印磨損僅存局部筆畫",
+    "candidates": [
+      "傅",
+      "傳"
+    ],
+    "reason": "傅/傳內筆與末格淡字仍不定，保持一可見字位未解。",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
-    "canvas_index": 13,
-    "unit_id": "p13-u004",
-    "region": "right",
-    "column_label": "右半面月題下細字第1欄",
-    "offset": 17,
+    "canvas_index": 12,
+    "unit_id": "p12-u046",
+    "region": "left",
+    "column_label": "廿九日",
+    "offset": 35,
     "length": 1,
     "candidates": [
-      "西",
-      "北"
+      "葬"
     ],
-    "reason": "方位字處淡印且沿紙縫磨損不能確讀",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 13,
-    "unit_id": "p13-u004",
-    "region": "right",
-    "column_label": "右半面月題下細字第1欄",
-    "offset": 22,
-    "length": 1,
-    "candidates": [
-      "西",
-      "北"
-    ],
-    "reason": "方位字處淡印且沿紙縫磨損不能確讀",
+    "reason": "傅/傳內筆與末格淡字仍不定，保持一可見字位未解。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -3184,13 +5039,28 @@
     "unit_id": "p13-u005",
     "region": "right",
     "column_label": "右半面月題下細字第2欄",
-    "offset": 22,
+    "offset": 7,
     "length": 1,
     "candidates": [
-      "甲",
-      "申"
+      "殺",
+      "煞"
     ],
-    "reason": "月空干支字垂畫淡印甲申字形不能定讀",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 13,
+    "unit_id": "p13-u007",
+    "region": "right",
+    "column_label": "右半面月題下細字第4欄",
+    "offset": 7,
+    "length": 1,
+    "candidates": [
+      "寅",
+      "戌"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -3199,27 +5069,60 @@
     "unit_id": "p13-u020",
     "region": "right",
     "column_label": "初八日",
-    "offset": 22,
+    "offset": 11,
     "length": 1,
     "candidates": [
-      "表",
-      "褒"
+      "傅",
+      "傳"
     ],
-    "reason": "初八日祭祀後字淡印字形與偏旁未能確認",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
     "canvas_index": 13,
-    "unit_id": "p13-u039",
+    "unit_id": "p13-u030",
     "region": "left",
-    "column_label": "廿二日",
-    "offset": 30,
+    "column_label": "十六日",
+    "offset": 23,
     "length": 1,
-    "candidates": [],
-    "reason": "同日宜忌細字淡印殘筆不能逐字確定",
+    "candidates": [
+      "舍",
+      "倉"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
-    "missing_extent": "unknown"
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 13,
+    "unit_id": "p13-u041",
+    "region": "left",
+    "column_label": "廿三日",
+    "offset": 9,
+    "length": 1,
+    "candidates": [
+      "傅",
+      "傳"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 13,
+    "unit_id": "p13-u041",
+    "region": "left",
+    "column_label": "廿三日",
+    "offset": 18,
+    "length": 1,
+    "candidates": [
+      "宇",
+      "室"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
   },
   {
     "canvas_index": 13,
@@ -3232,36 +5135,83 @@
       "斬",
       "動"
     ],
-    "reason": "同日宜忌細字淡印殘筆不能逐字確定",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
     "canvas_index": 13,
-    "unit_id": "p13-u045",
+    "unit_id": "p13-u042",
     "region": "left",
-    "column_label": "廿七日",
-    "offset": 18,
+    "column_label": "廿四日",
+    "offset": 9,
     "length": 1,
     "candidates": [
-      "裁"
+      "福",
+      "滿"
     ],
-    "reason": "同日宜忌細字淡印殘筆不能逐字確定",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 13,
+    "unit_id": "p13-u042",
+    "region": "left",
+    "column_label": "廿四日",
+    "offset": 29,
+    "length": 1,
+    "candidates": [
+      "舍",
+      "倉"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
   {
     "canvas_index": 14,
-    "unit_id": "p14-u006",
+    "unit_id": "p14-u005",
     "region": "right",
-    "column_label": "右半面月題下細字第3欄",
-    "offset": 24,
+    "column_label": "右半面月題下細字第2欄",
+    "offset": 7,
     "length": 1,
     "candidates": [
-      "雁",
-      "鴈"
+      "殺",
+      "煞"
     ],
-    "reason": "候鳥名末字印色淡原字形未定",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 14,
+    "unit_id": "p14-u005",
+    "region": "right",
+    "column_label": "右半面月題下細字第2欄",
+    "offset": 23,
+    "length": 1,
+    "candidates": [
+      "已",
+      "辛"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 14,
+    "unit_id": "p14-u007",
+    "region": "right",
+    "column_label": "右半面月題下細字第4欄",
+    "offset": 11,
+    "length": 1,
+    "candidates": [
+      "初",
+      "一",
+      "二"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -3270,22 +5220,13 @@
     "unit_id": "p14-u011",
     "region": "right",
     "column_label": "初一日",
-    "offset": 14,
+    "offset": 15,
     "length": 1,
-    "candidates": [],
-    "reason": "初一日宜字後及欄尾字磨損筆畫不足不能定讀",
-    "status": "unresolved",
-    "missing_extent": 1
-  },
-  {
-    "canvas_index": 14,
-    "unit_id": "p14-u011",
-    "region": "right",
-    "column_label": "初一日",
-    "offset": 34,
-    "length": 1,
-    "candidates": [],
-    "reason": "初一日宜字後及欄尾字磨損筆畫不足不能定讀",
+    "candidates": [
+      "爵",
+      "時"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },
@@ -3299,35 +5240,145 @@
     "candidates": [
       "上弦"
     ],
-    "reason": "上方印字被污損遮掩只存墨跡未知原段長度",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
   },
   {
     "canvas_index": 14,
+    "unit_id": "p14-u025",
+    "region": "right",
+    "column_label": "十二日",
+    "offset": 10,
+    "length": 1,
+    "candidates": [
+      "后",
+      "厄"
+    ],
+    "reason": "根代理覆看十二日星名，格內下部細筆淡失，后與厄仍不能可靠區分；保留一可見字位而不按神名定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 14,
     "unit_id": "p14-u028",
     "region": "left",
-    "column_label": "左半面十五日上方小欄",
+    "column_label": "左半面十六日上方小欄",
     "offset": 1,
     "length": 1,
     "candidates": [
       "望"
     ],
-    "reason": "上方月相印字污損不可辨段長未知",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 14,
+    "unit_id": "p14-u034",
+    "region": "left",
+    "column_label": "十八日",
+    "offset": 14,
+    "length": 1,
+    "candidates": [
+      "初",
+      "一",
+      "二"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
   },
   {
     "canvas_index": 14,
     "unit_id": "p14-u035",
     "region": "left",
     "column_label": "十九日",
-    "offset": 24,
+    "offset": 22,
     "length": 1,
-    "candidates": [],
-    "reason": "同日淡印區細字殘筆不足確讀",
+    "candidates": [
+      "求醫治病",
+      "安床"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": "unknown"
+  },
+  {
+    "canvas_index": 14,
+    "unit_id": "p14-u036",
+    "region": "left",
+    "column_label": "二十日",
+    "offset": 18,
+    "length": 1,
+    "candidates": [
+      "移",
+      "啓"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 14,
+    "unit_id": "p14-u036",
+    "region": "left",
+    "column_label": "二十日",
+    "offset": 24,
+    "length": 1,
+    "candidates": [
+      "定",
+      "竪"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 14,
+    "unit_id": "p14-u038",
+    "region": "left",
+    "column_label": "廿二日",
+    "offset": 19,
+    "length": 1,
+    "candidates": [
+      "蹄",
+      "蹏",
+      "跣"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 14,
+    "unit_id": "p14-u040",
+    "region": "left",
+    "column_label": "廿三日",
+    "offset": 30,
+    "length": 1,
+    "candidates": [
+      "殺",
+      "繫"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
+  },
+  {
+    "canvas_index": 14,
+    "unit_id": "p14-u040",
+    "region": "left",
+    "column_label": "廿三日",
+    "offset": 31,
+    "length": 1,
+    "candidates": [
+      "羊",
+      "牛"
+    ],
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
+    "status": "unresolved",
+    "missing_extent": 1
   },
   {
     "canvas_index": 14,
@@ -3337,9 +5388,10 @@
     "offset": 13,
     "length": 1,
     "candidates": [
-      "解"
+      "解",
+      "祈"
     ],
-    "reason": "同日淡印區細字殘筆不足確讀",
+    "reason": "來源此格關鍵細筆淡失或重疊，不能由候選定字。",
     "status": "unresolved",
     "missing_extent": 1
   },

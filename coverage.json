@@ -19,7 +19,7 @@
     15,
     16
   ],
-  "stage": "initial",
+  "stage": "ai-reviewed",
   "representation_status": "all-16-canvases-represented",
   "visual_completeness_certified_by_exporter": false,
   "human_expert_review_certified_by_exporter": false,
@@ -48,17 +48,17 @@
       "kind": "calendar",
       "units": 35,
       "empty_units": 0,
-      "placeholder_codepoints": 34,
-      "uncertain_spans": 34,
+      "placeholder_codepoints": 44,
+      "uncertain_spans": 44,
       "excluded_units": 0
     },
     {
       "canvas_index": 4,
       "kind": "calendar",
-      "units": 34,
-      "empty_units": 0,
-      "placeholder_codepoints": 31,
-      "uncertain_spans": 31,
+      "units": 35,
+      "empty_units": 1,
+      "placeholder_codepoints": 34,
+      "uncertain_spans": 34,
       "excluded_units": 0
     },
     {
@@ -66,8 +66,8 @@
       "kind": "calendar",
       "units": 35,
       "empty_units": 0,
-      "placeholder_codepoints": 51,
-      "uncertain_spans": 51,
+      "placeholder_codepoints": 33,
+      "uncertain_spans": 33,
       "excluded_units": 0
     },
     {
@@ -75,8 +75,8 @@
       "kind": "calendar",
       "units": 68,
       "empty_units": 22,
-      "placeholder_codepoints": 26,
-      "uncertain_spans": 26,
+      "placeholder_codepoints": 47,
+      "uncertain_spans": 47,
       "excluded_units": 0
     },
     {
@@ -93,8 +93,8 @@
       "kind": "calendar",
       "units": 68,
       "empty_units": 23,
-      "placeholder_codepoints": 10,
-      "uncertain_spans": 10,
+      "placeholder_codepoints": 18,
+      "uncertain_spans": 18,
       "excluded_units": 0
     },
     {
@@ -102,8 +102,8 @@
       "kind": "calendar",
       "units": 70,
       "empty_units": 21,
-      "placeholder_codepoints": 46,
-      "uncertain_spans": 46,
+      "placeholder_codepoints": 92,
+      "uncertain_spans": 92,
       "excluded_units": 0
     },
     {
@@ -111,8 +111,8 @@
       "kind": "calendar",
       "units": 70,
       "empty_units": 23,
-      "placeholder_codepoints": 17,
-      "uncertain_spans": 17,
+      "placeholder_codepoints": 34,
+      "uncertain_spans": 34,
       "excluded_units": 0
     },
     {
@@ -120,8 +120,8 @@
       "kind": "calendar",
       "units": 46,
       "empty_units": 0,
-      "placeholder_codepoints": 2,
-      "uncertain_spans": 2,
+      "placeholder_codepoints": 8,
+      "uncertain_spans": 8,
       "excluded_units": 0
     },
     {
@@ -129,8 +129,8 @@
       "kind": "calendar",
       "units": 47,
       "empty_units": 0,
-      "placeholder_codepoints": 5,
-      "uncertain_spans": 5,
+      "placeholder_codepoints": 9,
+      "uncertain_spans": 9,
       "excluded_units": 0
     },
     {
@@ -138,8 +138,8 @@
       "kind": "calendar",
       "units": 47,
       "empty_units": 0,
-      "placeholder_codepoints": 7,
-      "uncertain_spans": 7,
+      "placeholder_codepoints": 9,
+      "uncertain_spans": 9,
       "excluded_units": 0
     },
     {
@@ -147,8 +147,8 @@
       "kind": "calendar",
       "units": 47,
       "empty_units": 0,
-      "placeholder_codepoints": 7,
-      "uncertain_spans": 7,
+      "placeholder_codepoints": 15,
+      "uncertain_spans": 15,
       "excluded_units": 0
     },
     {
