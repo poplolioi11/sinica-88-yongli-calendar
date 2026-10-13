@@ -1,0 +1,1890 @@
+{
+  "format": "source-corrections-1",
+  "from_version": "0.1.0",
+  "to_version": "0.1.1",
+  "scope": "Root source adjudication completed for canvases1,2,7,15,16 only. Other readings remain provisional. Full independent collation is incomplete; no expert certification.",
+  "changes": [
+    {
+      "canvas_index": 1,
+      "unit_id": "p01-u006",
+      "source_sha256": "83b740269acbbf9041fb64075e6d387f3069444e850e7881dffcfd4175c3a8c7",
+      "source_bbox": null,
+      "before_text": "□",
+      "after_text": "□",
+      "before_uncertainties": [
+        {
+          "offset": 1,
+          "length": 1,
+          "candidates": [],
+          "reason": "朱印大幅褪色且與封面黑字相疊印文未能逐字分界不据形補讀",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 1,
+          "length": 1,
+          "candidates": [],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u010",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n廿三年\n己酉土\n九歲雞\n男四宮\n女八宮\n閏七月",
+      "after_text": "\n廿三年\n己酉土\n九歲雞\n男四宮\n女八宮\n閏□月",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 23,
+          "length": 1,
+          "candidates": [
+            "閏七月",
+            "閏十一月",
+            "閏十二月"
+          ],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u018",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n十五年\n辛丑土\n十七歲牛\n男三宮\n女九宮\n閏七月",
+      "after_text": "\n十五年\n辛丑土\n十七歲牛\n男三宮\n女九宮\n閏□月",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 24,
+          "length": 1,
+          "candidates": [
+            "閏七月"
+          ],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u020",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n十三年\n己亥木\n十九歲猪\n男五宮\n女七宮\n閏□月",
+      "after_text": "\n十三年\n己亥木\n十九歲猪\n男五宮\n女七宮\n閏□月",
+      "before_uncertainties": [
+        {
+          "offset": 24,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 24,
+          "length": 1,
+          "candidates": [],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u022",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "永曆\n十一年\n丁酉火\n廿一歲雞\n男七宮\n女五宮\n",
+      "after_text": "\n十一年\n丁酉火\n廿一歲雞\n男七宮\n女五宮\n",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u023",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n十年\n丙申火\n廿二歲猴\n男八宮\n女四宮\n閏□月",
+      "after_text": "永曆\n十年\n丙申火\n廿二歲猴\n男八宮\n女四宮\n閏五月",
+      "before_uncertainties": [
+        {
+          "offset": 23,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u027",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "永曆\n六年\n壬辰水\n廿六歲龍\n男三宮\n女九宮\n",
+      "after_text": "\n六年\n壬辰水\n廿六歲龍\n男三宮\n女九宮\n",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u028",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n五年\n辛卯木\n廿七歲兔\n男四宮\n女八宮\n",
+      "after_text": "永曆\n五年\n辛卯木\n廿七歲兔\n男四宮\n女八宮\n",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u029",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n四年\n庚寅木\n廿八歲虎\n男五宮\n女七宮\n閏□月",
+      "after_text": "\n四年\n庚寅木\n廿八歲虎\n男五宮\n女七宮\n閏十一月",
+      "before_uncertainties": [
+        {
+          "offset": 23,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u039",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "□救興造\n甲子東遊己巳□位丙子南遊",
+      "after_text": "神煞出遊\n甲子東遊己巳□位丙子南遊",
+      "before_uncertainties": [
+        {
+          "offset": 1,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 12,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 12,
+          "length": 1,
+          "candidates": [
+            "還",
+            "近"
+          ],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u040",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n辛巳近位□子日住宮癸巳日近位",
+      "after_text": "\n辛巳近位□子日中宮癸巳日近位",
+      "before_uncertainties": [
+        {
+          "offset": 6,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 6,
+          "length": 1,
+          "candidates": [
+            "戊子日中宮",
+            "□子日住宮",
+            "戊子西遊"
+          ],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u041",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n庚子日西遊己巳近位壬子日北遊",
+      "after_text": "\n庚子日西遊乙巳近位壬子日北遊",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u042",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "□神所在\n丁巳近位壬午近位乙亥□南安□室",
+      "after_text": "\n丁巳近位□遊方不宜安產室",
+      "before_uncertainties": [
+        {
+          "offset": 1,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 16,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 19,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 6,
+          "length": 1,
+          "candidates": [],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u043",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n甲午乙未丙申丁酉日在房內□成",
+      "after_text": "胎神所在\n甲午乙未丙申丁酉日在房內戊戌",
+      "before_uncertainties": [
+        {
+          "offset": 14,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u044",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n己亥日來房丙午辛卯壬午□巳停日在",
+      "after_text": "\n己亥日床房內庚子辛丑日在",
+      "before_uncertainties": [
+        {
+          "offset": 13,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u046",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n丙午丁未日床房內東壬戌甲日在房",
+      "after_text": "\n丙午丁未日在房內東庚申日在房",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u064",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": [
+        1540,
+        1840,
+        2420,
+        2960
+      ],
+      "before_text": null,
+      "after_text": "丙申己酉日地外東□丙□",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 9,
+          "length": 1,
+          "candidates": [],
+          "reason": "Faint source segment in the newly represented physical column; no restoration supplied.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        },
+        {
+          "offset": 11,
+          "length": 1,
+          "candidates": [],
+          "reason": "Faint source segment in the newly represented physical column; no restoration supplied.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "add-omitted-source-column"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u047",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "命所定\n一日在□未坤二月在□□□□",
+      "after_text": "人神所在\n一日在足大指二日在□三日在□",
+      "before_uncertainties": [
+        {
+          "offset": 8,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 14,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 15,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 16,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 17,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 15,
+          "length": 1,
+          "candidates": [],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        },
+        {
+          "offset": 19,
+          "length": 1,
+          "candidates": [],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u048",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n四月在門□五月在□□六月在□七月在□",
+      "after_text": "\n四日在腰五日在口六日在手七日在□",
+      "before_uncertainties": [
+        {
+          "offset": 6,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 10,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 11,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 15,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 19,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 17,
+          "length": 1,
+          "candidates": [],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u049",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n八月在□九月火房十月在□十一月在房",
+      "after_text": "\n八日在腕九日在尻十日在腰十一日在□",
+      "before_uncertainties": [
+        {
+          "offset": 5,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 13,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 18,
+          "length": 1,
+          "candidates": [
+            "房",
+            "脊"
+          ],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u050",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n廿一日在□十二月在□十六日在□",
+      "after_text": "\n十二日在髮十三日在牙齒十四日在胃",
+      "before_uncertainties": [
+        {
+          "offset": 6,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 11,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 16,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u051",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n□十五日在□房廿六日在門□□日在□",
+      "after_text": "\n□十五在□十六日在胸十七日在□",
+      "before_uncertainties": [
+        {
+          "offset": 2,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 7,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 14,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 15,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 18,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 2,
+          "length": 1,
+          "candidates": [
+            "脛",
+            "膝"
+          ],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        },
+        {
+          "offset": 6,
+          "length": 1,
+          "candidates": [],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        },
+        {
+          "offset": 16,
+          "length": 1,
+          "candidates": [],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u052",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n□十八日在□□十九日在足三十日在",
+      "after_text": "\n□十八日在內踝十九日在足二十日在",
+      "before_uncertainties": [
+        {
+          "offset": 2,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 7,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 8,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖此字淡印或筆畫重疊未能確辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 2,
+          "length": 1,
+          "candidates": [],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u053",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n內梁廿日在子孫廿一日在外梁廿",
+      "after_text": "\n內踝廿一日在手小指廿二日在外踝廿",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u057",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n踝凡所在之處不宜針灸",
+      "after_text": "\n□凡所在之處不宜針灸",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 2,
+          "length": 1,
+          "candidates": [
+            "踝凡",
+            "螺虎"
+          ],
+          "reason": "Source image and independent comparison remain insufficient to fix this glyph or segment; retained unresolved after source adjudication.",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u058",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "太白遊方\n初十廿四日遊正東初二十二廿三日遊正南",
+      "after_text": "太白遊方\n初一十一廿一日遊正東初二十二廿二日遊東南",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 2,
+      "unit_id": "p02-u062",
+      "source_sha256": "33b7de53fef385ad97afa32cd13ebe5c88f3b340e7610f95424b2b77d4e8546a",
+      "source_bbox": null,
+      "before_text": "\n初九十九廿九日遊中宮初十廿三十日遊天宮",
+      "after_text": "\n初九十九廿九日遊中宮初十廿十三十日遊天宮",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u005",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "在艮月厭在卯月殺在辰月德在寅月合在乙月空在甲□乙庚",
+      "after_text": "在艮月厭在卯月殺在辰月德在寅月合在乙月空在申甲己庚",
+      "before_uncertainties": [
+        {
+          "offset": 23,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖淡印或筆畫重疊此字未能確定",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u007",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "蟄虫壞戶水始涸廿五日己巳子正三刻后日躔壽星之次用昴畢觜參數時",
+      "after_text": "蟄虫壞戶水始涸廿五日己巳子正二刻后日躔壽星之次用□數時",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 25,
+          "length": 1,
+          "candidates": [
+            "昴畢觜參",
+            "與坤"
+          ],
+          "reason": "根裁決規格明示的新疑字；影像覆核仍未決，所列候選不作定字。",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u012",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "初一日乙巳火收柳要安三合宜祭祀針灸結網破剃捕捉不宜余事",
+      "after_text": "初一日乙巳火收柳要安六合宜祭祀針灸結網破剖捕捉不宜余事",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u018",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "初四日戊申土建翼天德合宜祭祀收割安葬作厠不宜余事",
+      "after_text": "初四日戊申土建翼天德合宜祭祀收割安葬作圊不宜余事",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u024",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "初七日辛亥金平亢天恩普護宜泥墻治路不宜余事",
+      "after_text": "初七日辛亥金平亢天恩普護宜泥□治路不宜余事",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 15,
+          "length": 1,
+          "candidates": [
+            "墻",
+            "牆"
+          ],
+          "reason": "根裁決規格明示的新疑字；影像覆核仍未決，所列候選不作定字。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u025",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "天帝□",
+      "after_text": "天帝寅",
+      "before_uncertainties": [
+        {
+          "offset": 3,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖淡印或筆畫重疊此字未能確定",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u026",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "初八日壬子木定氐福生昴星宜上官赴任冠帶結婚竪柱上樑裁衣祈福伐木安碓修□",
+      "after_text": "初八日壬子木定氐福生□星宜上官赴任冠帶結婚竪柱上樑裁衣祈福伐木安碓修□",
+      "before_uncertainties": [
+        {
+          "offset": 35,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖淡印或筆畫重疊此字未能確定",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 11,
+          "length": 1,
+          "candidates": [
+            "昴"
+          ],
+          "reason": "根裁決規格明示的新疑字；影像覆核仍未決，所列候選不作定字。",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 35,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖淡印或筆畫重疊此字未能確定",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u028",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "初九日癸丑木定房白露戌初一刻日出卯初二刻日入酉初四刻宜結婚竪柱上樑嫁娶移徙安葬",
+      "after_text": "初九日癸丑木定房白露戌初一刻日出卯初二刻日入酉初四刻宜結婚竪柱上樑嫁娶移徙安□",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 39,
+          "length": 1,
+          "candidates": [
+            "葬",
+            "碓"
+          ],
+          "reason": "根裁決規格明示的新疑字；影像覆核仍未決，所列候選不作定字。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u034",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "十二日丙辰土危箕六合神在宜祭祀結婚安床竪造上樑下定分□入宅祀灶裁衣安葬",
+      "after_text": "十二日丙辰土危箕六合神在宜祭祀結婚安床竪造上樑下定分房入宅祀灶裁衣安葬",
+      "before_uncertainties": [
+        {
+          "offset": 27,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖淡印或筆畫重疊此字未能確定",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u036",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "十三日丁巳土成斗天福天喜宜結婚竪造上樑整容冠笄入學安床起工雕刻",
+      "after_text": "十三日丁巳土成斗天福天喜宜結婚竪造上樑整容冠笄入學安床□雕刻",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 28,
+          "length": 1,
+          "candidates": [
+            "起工",
+            "起屋"
+          ],
+          "reason": "根裁決規格明示的新疑字；影像覆核仍未決，所列候選不作定字。",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u042",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "十六日庚申木閉虛温星上吉宜入學給由考滿解除出行破土安葬伐木開倉補垣",
+      "after_text": "十六日庚申木閉虛温星上吉宜入學給由考滿解除出行破土安葬伐木□補垣",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 30,
+          "length": 1,
+          "candidates": [
+            "開倉",
+            "開庫"
+          ],
+          "reason": "根裁決規格明示的新疑字；影像覆核仍未決，所列候選不作定字。",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u044",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "十七日辛酉木建危南星神在宜祭祀祈福襲□財交易置產室出行穿井",
+      "after_text": "十七日辛酉木建危曲星神在宜祭祀祈福□交易置產室出行穿井",
+      "before_uncertainties": [
+        {
+          "offset": 19,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖淡印或筆畫重疊此字未能確定",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 18,
+          "length": 1,
+          "candidates": [
+            "襲財",
+            "買賣"
+          ],
+          "reason": "根裁決規格明示的新疑字；影像覆核仍未決，所列候選不作定字。",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u046",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "十八日壬戌水除室母倉續世宜除服栽種牧飼塞穴解除移徙修造動土",
+      "after_text": "十八日壬戌水除室母倉□世宜除服栽種牧□塞穴解除移徙修造動土",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 11,
+          "length": 1,
+          "candidates": [
+            "續",
+            "濟"
+          ],
+          "reason": "根裁決規格明示的新疑字；影像覆核仍未決，所列候選不作定字。",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 19,
+          "length": 1,
+          "candidates": [
+            "飼",
+            "畜"
+          ],
+          "reason": "根裁決規格明示的新疑字；影像覆核仍未決，所列候選不作定字。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u050",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "二十日甲子金平奎天恩黃道宜祭祀泥墻治路不宜余事",
+      "after_text": "二十日甲子金平奎天恩黃道宜祭祀泥□治路不宜余事",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 17,
+          "length": 1,
+          "candidates": [
+            "墻",
+            "牆"
+          ],
+          "reason": "根裁決規格明示的新疑字；影像覆核仍未決，所列候選不作定字。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u058",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "廿四日戊辰木危畢天恩六合宜祭祀結婚安床立券交易下定裁衣作灶起工起染",
+      "after_text": "廿四日戊辰木危畢天恩六合宜祭祀結婚安床立券交易下定裁衣作灶起工起架",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u060",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "廿五日己巳木成觜秋分子正三刻日出卯初三刻日入酉正初刻宜結婚竪造上樑入學給由",
+      "after_text": "廿五日己巳木成觜秋分子正二刻日出卯初三刻日入酉正初刻宜結婚竪造上樑入學給由",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u066",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "廿八日壬申金閉鬼天醫吉慶神在宜解除破土安葬補墻塞穴栽接",
+      "after_text": "廿八日壬申金閉鬼天醫吉慶神在宜解除破土安葬補□塞穴栽接",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 23,
+          "length": 1,
+          "candidates": [
+            "墻",
+            "牆"
+          ],
+          "reason": "根裁決規格明示的新疑字；影像覆核仍未決，所列候選不作定字。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 7,
+      "unit_id": "p07-u070",
+      "source_sha256": "bd667caba7e4838afe3050e74a72ae75686bfe497dbbae704ffd141a99628dc3",
+      "source_bbox": null,
+      "before_text": "三十日甲戌火除星繼世神在宜上表冠笄祭祀解除伐□竹□修倉除服造畜□",
+      "after_text": "三十日甲戌火除星□世神在宜上表冠笄祭祀解除□修舍除服造畜欄",
+      "before_uncertainties": [
+        {
+          "offset": 23,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖淡印或筆畫重疊此字未能確定",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 25,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖淡印或筆畫重疊此字未能確定",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 32,
+          "length": 1,
+          "candidates": [],
+          "reason": "原圖淡印或筆畫重疊此字未能確定",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 9,
+          "length": 1,
+          "candidates": [
+            "繼",
+            "濟"
+          ],
+          "reason": "根裁決規格明示的新疑字；影像覆核仍未決，所列候選不作定字。",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 22,
+          "length": 1,
+          "candidates": [
+            "伐竹",
+            "行往"
+          ],
+          "reason": "根裁決規格明示的新疑字；影像覆核仍未決，所列候選不作定字。",
+          "status": "unresolved",
+          "missing_extent": "unknown"
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 15,
+      "unit_id": "p15-u001",
+      "source_sha256": "56e6859e7d78800a3c8c74c1e29c8e2d93821159fc9836718aff1c8d1152aa25",
+      "source_bbox": null,
+      "before_text": "太歲巳",
+      "after_text": "太歲丁巳",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 15,
+      "unit_id": "p15-u004",
+      "source_sha256": "56e6859e7d78800a3c8c74c1e29c8e2d93821159fc9836718aff1c8d1152aa25",
+      "source_bbox": null,
+      "before_text": "歲德在壬歲合在丁",
+      "after_text": "歲德在□歲合在□",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 4,
+          "length": 1,
+          "candidates": [
+            "壬",
+            "丁"
+          ],
+          "reason": "相鄰在/歲筆畫相接，橫筆歸屬未穩定；不採無充分戈部的盲讀戊。",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 8,
+          "length": 1,
+          "candidates": [
+            "壬",
+            "丁"
+          ],
+          "reason": "在的下横与本字上横相近，仍需原图字界裁定。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 15,
+      "unit_id": "p15-u007",
+      "source_sha256": "56e6859e7d78800a3c8c74c1e29c8e2d93821159fc9836718aff1c8d1152aa25",
+      "source_bbox": null,
+      "before_text": "土虛木張暗金伏斷",
+      "after_text": "□虛□張暗金伏斷",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 1,
+          "length": 1,
+          "candidates": [
+            "土",
+            "王",
+            "玉"
+          ],
+          "reason": "自身横画与下字虛上部相接，需主校裁定字界与点笔。",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 3,
+          "length": 1,
+          "candidates": [
+            "木",
+            "天"
+          ],
+          "reason": "上字虛末横与本字上部相接，木/天需主校裁定。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 15,
+      "unit_id": "p15-u032",
+      "source_sha256": "56e6859e7d78800a3c8c74c1e29c8e2d93821159fc9836718aff1c8d1152aa25",
+      "source_bbox": null,
+      "before_text": "流財",
+      "after_text": "□財",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 1,
+          "length": 1,
+          "candidates": [
+            "流",
+            "泥"
+          ],
+          "reason": "水旁可辨；右部上折与下部竖/曲钩不足排除流/泥。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 15,
+      "unit_id": "p15-u035",
+      "source_sha256": "56e6859e7d78800a3c8c74c1e29c8e2d93821159fc9836718aff1c8d1152aa25",
+      "source_bbox": null,
+      "before_text": "□黃",
+      "after_text": "□黃",
+      "before_uncertainties": [
+        {
+          "offset": 1,
+          "length": 1,
+          "candidates": [
+            "雄",
+            "雌"
+          ],
+          "reason": "此字左半細筆淡印雄雌尚難定右半隹及下字黃可辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 1,
+          "length": 1,
+          "candidates": [
+            "雄",
+            "雌"
+          ],
+          "reason": "隹部可辨，左部细笔不足稳定判厷/此；保留一字疑缺。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 15,
+      "unit_id": "p15-u038",
+      "source_sha256": "56e6859e7d78800a3c8c74c1e29c8e2d93821159fc9836718aff1c8d1152aa25",
+      "source_bbox": null,
+      "before_text": "天官",
+      "after_text": "天□",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 2,
+          "length": 1,
+          "candidates": [
+            "官",
+            "貴"
+          ],
+          "reason": "第二字顶部与下部细横叠压，宀/中及吕/貝区别尚不能稳判。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 15,
+      "unit_id": "p15-u040",
+      "source_sha256": "56e6859e7d78800a3c8c74c1e29c8e2d93821159fc9836718aff1c8d1152aa25",
+      "source_bbox": null,
+      "before_text": "天祿",
+      "after_text": "天□",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 2,
+          "length": 1,
+          "candidates": [
+            "祿",
+            "福"
+          ],
+          "reason": "摺痕穿过示旁及右部；彔/畐下部不足稳定判水/田。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 15,
+      "unit_id": "p15-u053",
+      "source_sha256": "56e6859e7d78800a3c8c74c1e29c8e2d93821159fc9836718aff1c8d1152aa25",
+      "source_bbox": null,
+      "before_text": "□□",
+      "after_text": "禁向",
+      "before_uncertainties": [
+        {
+          "offset": 1,
+          "length": 1,
+          "candidates": [],
+          "reason": "圖下方自右第二欄遠心段可見兩字但字形未能確定未依神煞常見列表補字",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 2,
+          "length": 1,
+          "candidates": [],
+          "reason": "圖下方自右第二欄遠心段可見兩字但字形未能確定未依神煞常見列表補字",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 15,
+      "unit_id": "p15-u056",
+      "source_sha256": "56e6859e7d78800a3c8c74c1e29c8e2d93821159fc9836718aff1c8d1152aa25",
+      "source_bbox": null,
+      "before_text": "□退",
+      "after_text": "□退",
+      "before_uncertainties": [
+        {
+          "offset": 1,
+          "length": 1,
+          "candidates": [
+            "灸",
+            "災"
+          ],
+          "reason": "第一字細筆與折痕交疊保留候選下字退可辨",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 1,
+          "length": 1,
+          "candidates": [
+            "灸",
+            "災"
+          ],
+          "reason": "上部久/巛区分不稳，保留下部火及退旁的已见信息。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 15,
+      "unit_id": "p15-u073",
+      "source_sha256": "56e6859e7d78800a3c8c74c1e29c8e2d93821159fc9836718aff1c8d1152aa25",
+      "source_bbox": null,
+      "before_text": "六害",
+      "after_text": "六□",
+      "before_uncertainties": [],
+      "after_uncertainties": [
+        {
+          "offset": 2,
+          "length": 1,
+          "candidates": [
+            "害",
+            "局",
+            "厄"
+          ],
+          "reason": "淡印仅稳见下部口样轮廓，宀丰/尸勹/厂部区别不清。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 16,
+      "unit_id": "p16-u003",
+      "source_sha256": "f5d41fd9ccbcd60869dd1874d76740d09470a8012f802831c2ff3248f23da26d",
+      "source_bbox": [
+        2000,
+        0,
+        4000,
+        3226
+      ],
+      "before_text": "二月小\n戊申\n初四日辛亥寅正一刻驚蟄二月節\n十九日丙寅巳初二刻春分二月中",
+      "after_text": "二月小\n戊申\n初四日辛亥寅正一刻京直二月節\n十九日丙寅巳初二刻春分二月中",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 16,
+      "unit_id": "p16-u004",
+      "source_sha256": "f5d41fd9ccbcd60869dd1874d76740d09470a8012f802831c2ff3248f23da26d",
+      "source_bbox": [
+        2000,
+        0,
+        4000,
+        3226
+      ],
+      "before_text": "三月大\n丁丑\n初五日辛巳未正二刻清明三月節\n二十日丙申戌正初刻穀雨三月中",
+      "after_text": "三月大\n丁丑\n初五日辛巳未正三刻清明三月節\n二十日丙申戌正初刻谷雨三月中",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 16,
+      "unit_id": "p16-u005",
+      "source_sha256": "f5d41fd9ccbcd60869dd1874d76740d09470a8012f802831c2ff3248f23da26d",
+      "source_bbox": [
+        2000,
+        0,
+        4000,
+        3226
+      ],
+      "before_text": "四月小\n丁未\n初六日壬子丑初初刻立夏四月節\n廿一日丁卯卯正三刻小滿四月中",
+      "after_text": "四月小\n丁未\n初六日壬子丑初一刻立夏四月節\n廿一日丁卯卯正二刻小滿四月中",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 16,
+      "unit_id": "p16-u006",
+      "source_sha256": "f5d41fd9ccbcd60869dd1874d76740d09470a8012f802831c2ff3248f23da26d",
+      "source_bbox": [
+        2000,
+        0,
+        4000,
+        3226
+      ],
+      "before_text": "五月大\n丙子\n初七日壬午午初一刻芒種五月節\n廿二日丁酉酉初初刻夏至五月中",
+      "after_text": "五月大\n丙子\n初七日壬午午初三刻芒種五月節\n廿二日丁酉酉初初刻夏至五月中",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 16,
+      "unit_id": "p16-u009",
+      "source_sha256": "f5d41fd9ccbcd60869dd1874d76740d09470a8012f802831c2ff3248f23da26d",
+      "source_bbox": [
+        0,
+        0,
+        2000,
+        3226
+      ],
+      "before_text": "八月大\n乙巳\n初九日癸丑戌初一刻白露八月節\n廿五日己巳子正三刻秋分八月中",
+      "after_text": "八月大\n乙巳\n初九日癸丑戌初一刻白露八月節\n廿五日己巳子正二刻秋分八月中",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 16,
+      "unit_id": "p16-u010",
+      "source_sha256": "f5d41fd9ccbcd60869dd1874d76740d09470a8012f802831c2ff3248f23da26d",
+      "source_bbox": [
+        0,
+        0,
+        2000,
+        3226
+      ],
+      "before_text": "九月小\n乙亥\n初十日甲申卯初二刻寒露九月節\n廿五日己亥午初初刻霜降九月中",
+      "after_text": "九月小\n乙亥\n初十日甲申卯初三刻寒露九月節\n廿五日己亥午初初刻霜降九月中",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 16,
+      "unit_id": "p16-u012",
+      "source_sha256": "f5d41fd9ccbcd60869dd1874d76740d09470a8012f802831c2ff3248f23da26d",
+      "source_bbox": [
+        0,
+        0,
+        2000,
+        3226
+      ],
+      "before_text": "十一月小\n甲戌\n十二日乙酉丑正二刻大雪十一月節\n廿七日庚子辰初四刻冬至十一月中",
+      "after_text": "十一月小\n甲戌\n十二日乙酉丑正三刻大雪十一月節\n廿七日庚子辰初四刻冬至十一月中",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 16,
+      "unit_id": "p16-u013",
+      "source_sha256": "f5d41fd9ccbcd60869dd1874d76740d09470a8012f802831c2ff3248f23da26d",
+      "source_bbox": [
+        0,
+        0,
+        2000,
+        3226
+      ],
+      "before_text": "十二月大\n癸卯\n十三日乙卯未初初刻小寒十二月節\n廿八日庚午酉正一刻大寒十二月中",
+      "after_text": "十二月大\n癸卯\n十二日乙卯未初初刻小寒十二月節\n廿八日庚午酉正一刻大寒十二月中",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 16,
+      "unit_id": "p16-u015",
+      "source_sha256": "f5d41fd9ccbcd60869dd1874d76740d09470a8012f802831c2ff3248f23da26d",
+      "source_bbox": [
+        0,
+        0,
+        2000,
+        3226
+      ],
+      "before_text": "三龍治水十一牛耕地四日得辛大利南北",
+      "after_text": "三龍治水十二牛耕地四日得辛大利南北",
+      "before_uncertainties": [],
+      "after_uncertainties": [],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    },
+    {
+      "canvas_index": 16,
+      "unit_id": "p16-u016",
+      "source_sha256": "f5d41fd9ccbcd60869dd1874d76740d09470a8012f802831c2ff3248f23da26d",
+      "source_bbox": [
+        0,
+        0,
+        2000,
+        3226
+      ],
+      "before_text": "不利東西□進在乾□退在艮九良星占門□",
+      "after_text": "不利東西□進在乾□退在艮九良星占門前",
+      "before_uncertainties": [
+        {
+          "offset": 5,
+          "length": 1,
+          "candidates": [
+            "大",
+            "太"
+          ],
+          "reason": "Printed dot distinguishing two candidates is unclear; no conventional phrase used to supply reading",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 9,
+          "length": 1,
+          "candidates": [
+            "大",
+            "太"
+          ],
+          "reason": "Printed dot distinguishing two candidates is unclear; no conventional phrase used to supply reading",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 18,
+          "length": 1,
+          "candidates": [
+            "厠",
+            "廁"
+          ],
+          "reason": "Final printed glyph radical/interior faded; original form unresolved",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "after_uncertainties": [
+        {
+          "offset": 5,
+          "length": 1,
+          "candidates": [
+            "大",
+            "太"
+          ],
+          "reason": "兩腿間點痕不足以穩定區分大/太，保留一字疑缺，不以慣用語補定。",
+          "status": "unresolved",
+          "missing_extent": 1
+        },
+        {
+          "offset": 9,
+          "length": 1,
+          "candidates": [
+            "大",
+            "太"
+          ],
+          "reason": "兩腿間點痕不足以穩定區分大/太，保留一字疑缺，不以慣用語補定。",
+          "status": "unresolved",
+          "missing_extent": 1
+        }
+      ],
+      "decision": "source-supported-correction-or-retained-uncertainty"
+    }
+  ],
+  "locator_changes": [
+    {
+      "unit_id": "p02-u033",
+      "before": "紀年表下部三十一年欄",
+      "after": "Source lower physical column1, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u034",
+      "before": "紀年表下部三十年欄",
+      "after": "Source lower physical column2, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u035",
+      "before": "紀年表下部廿九年欄",
+      "after": "Source lower physical column3, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u036",
+      "before": "紀年表下部廿八年欄",
+      "after": "Source lower physical column4, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u037",
+      "before": "紀年表下部廿七年欄",
+      "after": "Source lower physical column5, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u038",
+      "before": "紀年表下部廿六年欄",
+      "after": "Source lower physical column6, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u039",
+      "before": "紀年表下部廿五年欄",
+      "after": "Source lower physical column7, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u040",
+      "before": "紀年表下部廿四年欄",
+      "after": "Source lower physical column8, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u041",
+      "before": "紀年表下部廿三年欄",
+      "after": "Source lower physical column9, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u042",
+      "before": "紀年表下部廿二年欄",
+      "after": "Source lower physical column10, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u043",
+      "before": "紀年表下部廿一年欄",
+      "after": "Source lower physical column11, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u044",
+      "before": "紀年表下部二十年欄",
+      "after": "Source lower physical column12, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u045",
+      "before": "紀年表下部十九年欄",
+      "after": "Source lower physical column13, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u046",
+      "before": "紀年表下部十八年欄",
+      "after": "Source lower physical column14, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u047",
+      "before": "紀年表下部十七年欄",
+      "after": "Source lower physical column16, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u048",
+      "before": "紀年表下部十六年欄",
+      "after": "Source lower physical column17, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u049",
+      "before": "紀年表下部十五年欄",
+      "after": "Source lower physical column18, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u050",
+      "before": "紀年表下部十四年欄",
+      "after": "Source lower physical column19, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u051",
+      "before": "紀年表下部十三年欄",
+      "after": "Source lower physical column20, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u052",
+      "before": "紀年表下部十二年欄",
+      "after": "Source lower physical column21, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u053",
+      "before": "紀年表下部十一年欄",
+      "after": "Source lower physical column22, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u054",
+      "before": "紀年表下部十年欄",
+      "after": "Source lower physical column23, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u055",
+      "before": "紀年表下部九年欄",
+      "after": "Source lower physical column24, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u056",
+      "before": "紀年表下部八年欄",
+      "after": "Source lower physical column25, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u057",
+      "before": "紀年表下部七年欄",
+      "after": "Source lower physical column26, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u058",
+      "before": "紀年表下部六年欄",
+      "after": "Source lower physical column27, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u059",
+      "before": "紀年表下部五年欄",
+      "after": "Source lower physical column28, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u060",
+      "before": "紀年表下部四年欄",
+      "after": "Source lower physical column29, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u061",
+      "before": "紀年表下部三年欄",
+      "after": "Source lower physical column30, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u062",
+      "before": "紀年表下部二年欄",
+      "after": "Source lower physical column31, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    },
+    {
+      "unit_id": "p02-u063",
+      "before": "紀年表下部元年欄",
+      "after": "Source lower physical column32, counted from right",
+      "reason": "Use lower physical-column order rather than incorrectly assuming alignment to upper year labels."
+    }
+  ]
+}

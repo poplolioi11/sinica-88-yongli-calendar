@@ -37,10 +37,10 @@
     {
       "canvas_index": 2,
       "kind": "table",
-      "units": 63,
+      "units": 64,
       "empty_units": 0,
-      "placeholder_codepoints": 34,
-      "uncertain_spans": 34,
+      "placeholder_codepoints": 17,
+      "uncertain_spans": 17,
       "excluded_units": 0
     },
     {
@@ -84,8 +84,8 @@
       "kind": "calendar",
       "units": 70,
       "empty_units": 24,
-      "placeholder_codepoints": 8,
-      "uncertain_spans": 8,
+      "placeholder_codepoints": 14,
+      "uncertain_spans": 14,
       "excluded_units": 0
     },
     {
@@ -156,8 +156,8 @@
       "kind": "diagram",
       "units": 91,
       "empty_units": 8,
-      "placeholder_codepoints": 4,
-      "uncertain_spans": 4,
+      "placeholder_codepoints": 10,
+      "uncertain_spans": 10,
       "excluded_units": 0
     },
     {
@@ -165,8 +165,8 @@
       "kind": "table",
       "units": 16,
       "empty_units": 0,
-      "placeholder_codepoints": 3,
-      "uncertain_spans": 3,
+      "placeholder_codepoints": 2,
+      "uncertain_spans": 2,
       "excluded_units": 0
     }
   ]
