@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this version and the source institution when using the transcription."
+type: dataset
+title: "Daming Yongli 31 Datong Calendar (1677), Bodleian Sinica 88: image-based transcription dataset"
+authors:
+  - name: "一卦"
+    alias: "poplolioi11"
+    website: "https://yigua.art/"
+version: "0.1.0"
+date-released: "2026-10-13"
+url: "https://github.com/poplolioi11/sinica-88-yongli-calendar"
+repository-code: "https://github.com/poplolioi11/sinica-88-yongli-calendar"
+license: CC-BY-4.0
+abstract: "AI image-based transcription of the original Chinese printed content of Bodleian Sinica 88, a 1677 blue-print calendar. Includes unresolved readings and source locations. Original historical text, new editorial material and source images have separate rights. No expert certification; no source images are distributed."
+keywords:
+  - Chinese historical texts
+  - calendar
+  - Yongli
+  - Zheng
+  - Sinica 88
+  - TEI
+doi: "10.5281/zenodo.23336201"

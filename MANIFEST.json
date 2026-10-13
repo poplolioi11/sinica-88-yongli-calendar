@@ -1,0 +1,76 @@
+{
+  "dataset": "Bodleian Sinica88 original-Chinese transcription",
+  "version": "0.1.0",
+  "stage": "initial",
+  "reserved_doi": "10.5281/zenodo.23336201",
+  "source_manifest_sha256": "2d8aeffada64812f0cc0fd43b406cd0d63788723c6754e92ca2a66b556fd2849",
+  "source_images_distributed": false,
+  "expert_review": "not-run",
+  "files": [
+    {
+      "name": "CHANGELOG.md",
+      "bytes": 255,
+      "sha256": "41c58d12509b9b744f81b96110c974d7873700303fa56f35ce62c41bacf6d9d7"
+    },
+    {
+      "name": "CITATION.cff",
+      "bytes": 978,
+      "sha256": "aeb947d4f942757b7a1f35de12080a2ee07d79a9a4a429a95df22887eac74c54"
+    },
+    {
+      "name": "CONTRIBUTING.md",
+      "bytes": 871,
+      "sha256": "25566c3b68e7ae41c4369e43c5dcf328a90aac40c3ea4b80c271cb48c5f426a1"
+    },
+    {
+      "name": "LICENSE.md",
+      "bytes": 1881,
+      "sha256": "4108849be141973e9e1bc98481cd76309da0169632361862c398871dca5be92e"
+    },
+    {
+      "name": "PROVENANCE.md",
+      "bytes": 2887,
+      "sha256": "13abe10fbf4ec88dfb9edaecf44ca1b8ddb69ff3760aa200867228a51f15c36e"
+    },
+    {
+      "name": "README.md",
+      "bytes": 4931,
+      "sha256": "9e277956a625dd4797449c78cdb78035f6b9d5cffc031dc9085b40720d4bee21"
+    },
+    {
+      "name": "VALIDATION.json",
+      "bytes": 1644,
+      "sha256": "fa23fdbebc40f6652330aeb061a9459985d46948564f9870ca0f43de1e73c16f"
+    },
+    {
+      "name": "coverage.json",
+      "bytes": 3679,
+      "sha256": "ffade30f91faf1980fbf778d3b1b3e2d1bba0fc29322038e6758c45eb6717146"
+    },
+    {
+      "name": "schema.json",
+      "bytes": 10112,
+      "sha256": "55eb5e60a5aaa4b9b4b30a7b49047e3523804d9801d37680e12d8c31ca1b2383"
+    },
+    {
+      "name": "sinica-88.json",
+      "bytes": 377590,
+      "sha256": "ff63a27c3412e3a310e5fbb23e2fe8007e5887a56308214ac0577712523ca5cb"
+    },
+    {
+      "name": "sinica-88.tei.xml",
+      "bytes": 365721,
+      "sha256": "86ef8ab3d3cc00fd57179c5c387791ece7b398eb0bf55000a9b27d33d7e00c86"
+    },
+    {
+      "name": "sinica-88.txt",
+      "bytes": 154487,
+      "sha256": "3b18c15821f0bfa6c5c2a75797d31f558973d9ffd503cc00c070cb85a9851ab1"
+    },
+    {
+      "name": "uncertainties.json",
+      "bytes": 96781,
+      "sha256": "0448f612b61d9baef028191befb73f044361cd4cea81bbc83ad7328f81d3cdb6"
+    }
+  ]
+}

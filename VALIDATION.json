@@ -1,0 +1,35 @@
+{
+  "corpus_version": "0.1.0",
+  "stage": "initial",
+  "validated_on": "2026-10-13",
+  "checks": {
+    "json_schema": "passed",
+    "all_16_canvas_order_and_ids": "passed",
+    "unicode_codepoint_uncertainty_offsets": "passed",
+    "decoded_bbox_bounds": "passed",
+    "json_txt_tei_verbatim_roundtrip": "passed",
+    "source_record_consistency": "passed",
+    "actual_source_image_sha256_and_dimensions": "passed",
+    "tei_relax_ng": "passed",
+    "tei_custom_project_constraints": "passed",
+    "no_dtd_or_external_entities": "passed",
+    "image_text_accuracy": "not-run",
+    "human_expert_review": "not-run",
+    "full_odd_or_schematron": "not-run"
+  },
+  "tei_schema": {
+    "version": "4.12.0",
+    "url": "https://www.tei-c.org/Vault/P5/4.12.0/xml/tei/custom/schema/relaxng/tei_all.rng",
+    "sha256": "b0f115095ead2ccc6933aa3365c6f4a82cba3b2ec7eee7f76bb616d7a63b7e48",
+    "bundled_with_release": false
+  },
+  "scope_note": "Passed results certify deterministic encoding and source-record consistency only; optical completeness and historical readings are not certified.",
+  "sha256": {
+    "sinica-88.json": "ff63a27c3412e3a310e5fbb23e2fe8007e5887a56308214ac0577712523ca5cb",
+    "sinica-88.txt": "3b18c15821f0bfa6c5c2a75797d31f558973d9ffd503cc00c070cb85a9851ab1",
+    "sinica-88.tei.xml": "86ef8ab3d3cc00fd57179c5c387791ece7b398eb0bf55000a9b27d33d7e00c86",
+    "schema.json": "55eb5e60a5aaa4b9b4b30a7b49047e3523804d9801d37680e12d8c31ca1b2383",
+    "uncertainties.json": "0448f612b61d9baef028191befb73f044361cd4cea81bbc83ad7328f81d3cdb6",
+    "coverage.json": "ffade30f91faf1980fbf778d3b1b3e2d1bba0fc29322038e6758c45eb6717146"
+  }
+}

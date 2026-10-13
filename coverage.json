@@ -1,0 +1,173 @@
+{
+  "expected_canvas_count": 16,
+  "represented_canvas_count": 16,
+  "canvas_sequence": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "stage": "initial",
+  "representation_status": "all-16-canvases-represented",
+  "visual_completeness_certified_by_exporter": false,
+  "human_expert_review_certified_by_exporter": false,
+  "limitation": "結構涵蓋與逐字匯出一致性不證明所有印字均已辨明或經專家覆核",
+  "pages": [
+    {
+      "canvas_index": 1,
+      "kind": "cover",
+      "units": 6,
+      "empty_units": 0,
+      "placeholder_codepoints": 1,
+      "uncertain_spans": 1,
+      "excluded_units": 2
+    },
+    {
+      "canvas_index": 2,
+      "kind": "table",
+      "units": 63,
+      "empty_units": 0,
+      "placeholder_codepoints": 34,
+      "uncertain_spans": 34,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 3,
+      "kind": "calendar",
+      "units": 35,
+      "empty_units": 0,
+      "placeholder_codepoints": 34,
+      "uncertain_spans": 34,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 4,
+      "kind": "calendar",
+      "units": 34,
+      "empty_units": 0,
+      "placeholder_codepoints": 31,
+      "uncertain_spans": 31,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 5,
+      "kind": "calendar",
+      "units": 35,
+      "empty_units": 0,
+      "placeholder_codepoints": 51,
+      "uncertain_spans": 51,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 6,
+      "kind": "calendar",
+      "units": 68,
+      "empty_units": 22,
+      "placeholder_codepoints": 26,
+      "uncertain_spans": 26,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 7,
+      "kind": "calendar",
+      "units": 70,
+      "empty_units": 24,
+      "placeholder_codepoints": 8,
+      "uncertain_spans": 8,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 8,
+      "kind": "calendar",
+      "units": 68,
+      "empty_units": 23,
+      "placeholder_codepoints": 10,
+      "uncertain_spans": 10,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 9,
+      "kind": "calendar",
+      "units": 70,
+      "empty_units": 21,
+      "placeholder_codepoints": 46,
+      "uncertain_spans": 46,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 10,
+      "kind": "calendar",
+      "units": 70,
+      "empty_units": 23,
+      "placeholder_codepoints": 17,
+      "uncertain_spans": 17,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 11,
+      "kind": "calendar",
+      "units": 46,
+      "empty_units": 0,
+      "placeholder_codepoints": 2,
+      "uncertain_spans": 2,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 12,
+      "kind": "calendar",
+      "units": 47,
+      "empty_units": 0,
+      "placeholder_codepoints": 5,
+      "uncertain_spans": 5,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 13,
+      "kind": "calendar",
+      "units": 47,
+      "empty_units": 0,
+      "placeholder_codepoints": 7,
+      "uncertain_spans": 7,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 14,
+      "kind": "calendar",
+      "units": 47,
+      "empty_units": 0,
+      "placeholder_codepoints": 7,
+      "uncertain_spans": 7,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 15,
+      "kind": "diagram",
+      "units": 91,
+      "empty_units": 8,
+      "placeholder_codepoints": 4,
+      "uncertain_spans": 4,
+      "excluded_units": 0
+    },
+    {
+      "canvas_index": 16,
+      "kind": "table",
+      "units": 16,
+      "empty_units": 0,
+      "placeholder_codepoints": 3,
+      "uncertain_spans": 3,
+      "excluded_units": 0
+    }
+  ]
+}
