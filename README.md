@@ -1,10 +1,17 @@
-# 大明永曆三十一年大統曆 · Bodleian Sinica 88
+# 大明永曆三十一年歲次丁巳大統曆（1677；Bodleian Sinica 88）/ Da ming yong li san shi yi nian sui ci ding si da tong li: Transcription dataset
 
 ## 摘要 / Abstract
 
-本資料集以牛津大學Bodleian Libraries藏Sinica 88、1677年藍印《大明永曆三十一年歲次丁巳大統曆》為底本，保存官方16畫布原刊漢文的AI影像校讀成果。v0.1.2經來源先讀、全讀字單元比較及回圖裁定，提供815個讀字單元、355筆日條與保留疑字、印本文字歧異及位置資訊的TXT、JSON、TEI XML，供曆法史料定位、檢索與後續校訂。第12畫布由兩名來源先讀者分段覆蓋，未構成任一人對該畫布的完整獨立讀錄；本版仍未經人工雙校、專家審定或同儕審查。
+《大明永曆三十一年歲次丁巳大統曆》是沿用永曆紀年的1677年藍印年曆，載紀年、月日、節氣與日用細字，並有年神方位圖和年曆摘要，可供曆法史、正朔表述與日常時間知識研究。本資料依Bodleian Libraries藏Sinica 88，提供全部16個官方IIIF畫布原刊漢文的AI校讀版，含815個閱讀單元、355筆日條及保留來源定位、疑字與印本文字歧異的TXT、JSON、TEI XML。本版仍未經人類雙校或專家審定，印本文字與曆算差異分別保存。
 
-This dataset preserves AI image-collation results for the original Chinese printed content across 16 official canvases of Bodleian Libraries Sinica 88, the 1677 calendar 《大明永曆三十一年歲次丁巳大統曆》 printed in blue. Version 0.1.2 uses source-first reading, comparison of all reading units and source-image adjudication to provide 815 reading units and 355 daily entries in TXT, JSON and TEI XML, retaining unresolved readings, printed discrepancies and locations for reference, retrieval and further correction. Canvas 12 was covered in separate portions by two source-first readers; neither independently read the whole canvas. Human double collation, expert certification and peer review have not been performed.
+Da ming yong li san shi yi nian sui ci ding si da tong li is a blue-printed calendar for 1677 using the Yongli era, with chronological tables, monthly dates, solar terms, daily entries and annual-deity directions. It supports research on calendar history, era reckoning and everyday temporal knowledge. This dataset provides AI-collated original Chinese print across all 16 official IIIF canvases of Bodleian Libraries Sinica 88, comprising 815 reading units and 355 daily entries in TXT, JSON and TEI XML with source locators, uncertainties and printed discrepancies. It remains without human double collation or expert certification, and differences between the print and calendar calculations are preserved.
+
+原件與書目入口 / Source witness and catalogue:
+
+- [館藏書目 / Catalogue](https://east-asian.bodleian.ox.ac.uk/catalog/volume_6142)
+- [原件／影像來源 / Source witness](https://digital.bodleian.ox.ac.uk/objects/2d355165-8334-44e2-b51e-3c37245bea93/)
+- [IIIF manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/2d355165-8334-44e2-b51e-3c37245bea93.json)
+- [館方固定書目 XML / Fixed official catalogue XML](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%2088.xml)
 
 本資料集依牛津大學 Bodleian Libraries 所藏 Sinica 88 的 1677 年藍印刊本，整理原刊漢文、紀年表、十二個月的日期與日用欄、年神方位圖文字及年曆摘要。官方 IIIF 共 16 個數位畫布。保留館方畫布次序、來源定位、原字與未解缺損，提供 UTF-8 純文字、JSON、TEI XML 及疑字清單。
 
