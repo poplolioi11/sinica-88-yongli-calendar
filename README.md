@@ -1,5 +1,11 @@
 # 大明永曆三十一年大統曆 · Bodleian Sinica 88
 
+## 摘要 / Abstract
+
+本資料集以牛津大學Bodleian Libraries藏Sinica 88、1677年藍印《大明永曆三十一年歲次丁巳大統曆》為底本，保存官方16畫布原刊漢文的AI影像校讀成果。v0.1.2經來源先讀、全讀字單元比較及回圖裁定，提供815個讀字單元、355筆日條與保留疑字、印本文字歧異及位置資訊的TXT、JSON、TEI XML，供曆法史料定位、檢索與後續校訂。第12畫布由兩名來源先讀者分段覆蓋，未構成任一人對該畫布的完整獨立讀錄；本版仍未經人工雙校、專家審定或同儕審查。
+
+This dataset preserves AI image-collation results for the original Chinese printed content across 16 official canvases of Bodleian Libraries Sinica 88, the 1677 calendar 《大明永曆三十一年歲次丁巳大統曆》 printed in blue. Version 0.1.2 uses source-first reading, comparison of all reading units and source-image adjudication to provide 815 reading units and 355 daily entries in TXT, JSON and TEI XML, retaining unresolved readings, printed discrepancies and locations for reference, retrieval and further correction. Canvas 12 was covered in separate portions by two source-first readers; neither independently read the whole canvas. Human double collation, expert certification and peer review have not been performed.
+
 本資料集依牛津大學 Bodleian Libraries 所藏 Sinica 88 的 1677 年藍印刊本，整理原刊漢文、紀年表、十二個月的日期與日用欄、年神方位圖文字及年曆摘要。官方 IIIF 共 16 個數位畫布。保留館方畫布次序、來源定位、原字與未解缺損，提供 UTF-8 純文字、JSON、TEI XML 及疑字清單。
 
 **品質狀態：全書 AI 影像校對，保留未解讀字；未經專家認證。** 官方 16 幅原圖皆有獨立先讀、全單元比對及來源裁定。人工雙校、專家覆核及同儕審查尚未執行。格式檢查不代表原字全部正確，也不保證所有印字均已辨明。實際範圍以 `review-scope.json`、`coverage.json`、`uncertainties.json` 和 `VALIDATION.json` 為準。
