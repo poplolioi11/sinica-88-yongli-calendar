@@ -1,4 +1,4 @@
-# 大明永曆三十一年歲次丁巳大統曆（1677；Bodleian Sinica 88）/ Da ming yong li san shi yi nian sui ci ding si da tong li: Transcription dataset
+# 大明永曆三十一年歲次丁巳大統曆(1677;Bodleian Sinica 88) / Da ming yong li san shi yi nian sui ci ding si da tong li [Datong calendar for Yongli 31 (1677)]: Transcription dataset
 
 ## 摘要 / Abstract
 
@@ -12,6 +12,16 @@ Da ming yong li san shi yi nian sui ci ding si da tong li is a blue-printed cale
 - [原件／影像來源 / Source witness](https://digital.bodleian.ox.ac.uk/objects/2d355165-8334-44e2-b51e-3c37245bea93/)
 - [IIIF manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/2d355165-8334-44e2-b51e-3c37245bea93.json)
 - [館方固定書目 XML / Fixed official catalogue XML](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%2088.xml)
+
+### 題名與語言說明 / Title and language notes
+
+方括號英譯為編者意譯，非館目正式題名。Bracketed English titles are editorial discovery glosses, not official catalogue English titles.
+
+館目原羅馬字題名：「da ming yong li san shi yi nian sui ci ding si da tong li」。展示：「Da ming yong li san shi yi nian sui ci ding si da tong li」；僅首字母大小寫依展示規則調整，保留館目拼法及長音符號。
+
+題名來源 / Title source: [https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%2088.xml](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%2088.xml)
+
+語言層次 / Language layers: 原文保留既有 lzh；本輪未作全書重新語體判定。 eng 標記現行英文摘要，不表示固定封存附件全部為英文。
 
 本資料集依牛津大學 Bodleian Libraries 所藏 Sinica 88 的 1677 年藍印刊本，整理原刊漢文、紀年表、十二個月的日期與日用欄、年神方位圖文字及年曆摘要。官方 IIIF 共 16 個數位畫布。保留館方畫布次序、來源定位、原字與未解缺損，提供 UTF-8 純文字、JSON、TEI XML 及疑字清單。
 
