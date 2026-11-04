@@ -1,11 +1,12 @@
 cff-version: 1.2.0
 message: "Please cite this version and the source institution when using the transcription."
 type: dataset
-title: "Daming Yongli 31 Datong Calendar (1677), Bodleian Sinica 88: image-based transcription dataset"
+title: "大明永曆三十一年歲次丁巳大統曆(1677;Bodleian Sinica 88) / Da ming yong li san shi yi nian sui ci ding si da tong li [Datong calendar for Yongli 31 (1677)]: Transcription dataset"
 authors:
-  - name: "一卦"
-    alias: "poplolioi11"
-    website: "https://yigua.art/"
+  - family-names: Chu
+    given-names: Chen-Yu
+    orcid: https://orcid.org/0009-0003-9738-6914
+    website: https://github.com/poplolioi11
 version: "0.1.2"
 doi: "10.5281/zenodo.23339992"
 date-released: "2026-10-13"
