@@ -15,9 +15,17 @@ repository-code: "https://github.com/poplolioi11/sinica-88-yongli-calendar"
 license: CC-BY-4.0
 abstract: "Provisional AI image-based transcription of Bodleian Sinica 88, a 1677 calendar, with independent source-first reading, full unit comparison and source adjudication across all16 canvases. Includes unresolved readings, printed discrepancies, stable unit IDs and source locations. Canvas12 was read in separate portions by two source-first readers. Rights are separated for historical text, new editorial data and source images. No human double-collation, expert certification, peer review or source images."
 keywords:
-  - Chinese historical texts
-  - calendar
-  - Yongli
-  - Zheng
-  - Sinica 88
-  - TEI
+- "大統曆"
+- "永曆"
+- "曆法史"
+- "Chinese calendar"
+- "Chinese almanacs"
+- "history of calendars"
+- "solar terms"
+- "sexagenary cycle"
+- "Yongli era"
+- "1677"
+- "Sinica 88"
+- "digital humanities"
+- "TEI XML"
+- "blue-ink printing"
